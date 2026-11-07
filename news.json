@@ -1,5 +1,13 @@
 [
   {
+    "title": "Gnosis Pay breach exposes card numbers, home addresses and linked crypto wallets",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/business/2026/11/07/gnosis-pay-breach-exposes-card-numbers-home-addresses-and-linked-crypto-wallets",
+    "date": "Sat, 07 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/422bf0c58d3c5d984b8ee7f8a379b85250db7bc2-6016x4016.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "One user said the exposed data tied his home address and card number to every crypto wallet linked to his account, raising the risk of targeted scams."
+  },
+  {
     "title": "Apple, Meta reject OKX–ICE tokenized stock plans, leaving crypto firms as the ones to watch",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/policy/2026/11/06/apple-meta-reject-okx-ice-tokenized-stock-plans-leaving-crypto-firms-as-the-ones-to-watch",
@@ -30,14 +38,6 @@
     "date": "Fri, 06 Nov 2026",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/bff54bee9f087950dfc85d403528a02d341fae1b-1500x1000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "content": "Thailand’s SEC filed a criminal complaint against Bitget’s operator, alleging it ran an unlicensed crypto exchange for Thai users from 2022 to 2025."
-  },
-  {
-    "title": "U.S. added 165,000 jobs in October, blowing past 65,000 estimate",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/markets/2026/11/06/u-s-added-165-000-jobs-in-october-blowing-past-65-000-estimate",
-    "date": "Fri, 06 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/615db4afe2529073df0df4401c7d8761456dc6b2-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "The unemployment rate unexpectedly fell to 4.1%. The strong showing surely puts a December rate hike in play, but next week's inflation numbers and the fate of the stock market could prove more important."
   },
   {
     "title": "Here’s what happened in crypto today",
@@ -80,6 +80,14 @@
     "content": "Bets were placed shortly before two recent New York Times/Siena political polls were released to the public, according to a report."
   },
   {
+    "title": "Apple Completes the Set: Every Magnificent Seven Stock Opts Out of OKX-ICE Venue",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/382768/apple-meta-every-magnificent-seven-stock-opts-out-okx-ice-venue",
+    "date": "Sat, 07 Nov 2026",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/apple-logo-decrypy-style-01-gID_7.png@png",
+    "content": "Apple and Meta’s objections mean all seven of the biggest U.S. tech companies have now asked to keep their shares off the planned OKX-ICE venue."
+  },
+  {
     "title": "AI Chip Stocks Bounce After Global Rout—But Is the Bubble Starting to Burst?",
     "source": "Decrypt",
     "url": "https://decrypt.co/382770/ai-chip-stocks-bounce-global-rout-bubble-starting-burst",
@@ -110,14 +118,6 @@
     "date": "Fri, 06 Nov 2026",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-decrypt-style-23-gID_7.jpg@png",
     "content": "Greece has approved a crypto tax framework with a €500 ($557) annual gains threshold and new rules for staking and DeFi income, but lawmakers left important questions about token swaps unresolved."
-  },
-  {
-    "title": "Why a Hyperliquid Treasury Firm Wants to Become a US Futures Broker",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/382754/why-hyperliquid-treasury-wants-us-futures-broker",
-    "date": "Fri, 06 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/hyperliquid-decrypt-style-gID_7.jpg@png",
-    "content": "Hyperliquid Strategies has applied to become a U.S. futures commission merchant, a move that could let Americans trade perpetual futures on permissioned Hyperliquid markets, pending regulatory approval."
   },
   {
     "title": "U.S. Treasury Cuts Off MEXC From U.S. Financial System Over Alleged $16 Billion in Illicit Flows",
