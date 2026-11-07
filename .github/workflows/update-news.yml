@@ -3,11 +3,11 @@ name: Auto Update Crypto News
 on:
   schedule:
     - cron: '0 * * * *'  # Се извршува на секој 1 час
-  workflow_dispatch:      # Дозволува рачно пуштање од GitHub
+  workflow_dispatch:      # Дозволува рачно пуштање од GitHub Actions
 
 jobs:
   build:
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-24.04
     permissions:
       contents: write
 
