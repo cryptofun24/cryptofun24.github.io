@@ -37,6 +37,7 @@
             background-color: var(--bg-color);
             color: var(--text-color);
             line-height: 1.6;
+            min-height: 100vh;
         }
 
         header {
@@ -127,7 +128,6 @@
             margin-top: 1rem;
         }
 
-        /* Modal Internal Reader */
         .reader-modal {
             display: none;
             position: fixed;
@@ -165,3 +165,48 @@
             top: 1rem;
             right: 1rem;
             background: none;
+            border: none;
+            font-size: 1.5rem;
+            color: var(--text-color);
+            cursor: pointer;
+        }
+
+        .reader-body {
+            margin-top: 1.5rem;
+            color: var(--text-color);
+            font-size: 1.05rem;
+            line-height: 1.8;
+        }
+
+        .external-link {
+            display: inline-block;
+            margin-top: 1.5rem;
+            padding: 0.6rem 1.2rem;
+            background-color: var(--accent-color);
+            color: #fff;
+            text-decoration: none;
+            border-radius: 8px;
+            font-weight: 500;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <div class="logo">⚡ CryptoFun24</div>
+        <button class="theme-toggle" id="themeToggle">☀️ Светла тема</button>
+    </header>
+
+    <div class="container">
+        <main>
+            <h2 style="margin-bottom: 1.5rem;">Најнови Вести</h2>
+            <div class="news-grid" id="newsGrid">
+                <p style="grid-column: 1/-1;">⏳ Се вчитуваат најновите вести...</p>
+            </div>
+        </main>
+
+        <aside class="market-ticker">
+            <div class="widget-card">
+                <h3>Пазар Во Живо</h3>
+                <div id="cryptoPrices" style="margin-top: 1rem;">
+                    ⏳
