@@ -87,6 +87,7 @@
             border: 1px solid var(--border-color);
             border-radius: 12px;
             padding: 1rem;
+            margin-bottom: 1.5rem;
         }
 
         .news-grid {
@@ -231,6 +232,11 @@
         .external-link:hover {
             opacity: 0.9;
         }
+
+        .ad-container {
+            margin: 1.5rem 0;
+            text-align: center;
+        }
     </style>
 </head>
 <body>
@@ -242,6 +248,13 @@
 
     <div class="container">
         <main>
+            <!-- Reklama горе на почетната страна -->
+            <div class="ad-container">
+                <div id="frame" style="width: 100%;margin: auto;position: relative; z-index: 99998;">
+                    <iframe data-aa='2461290' src='//acceptable.a-ads.com/2461290/?size=Adaptive' style='border:0; padding:0; width:70%; height:auto; overflow:hidden;display: block;margin: auto'></iframe>
+                </div>
+            </div>
+
             <h2 style="margin-bottom: 1.5rem;">Live Crypto News</h2>
             <div class="news-grid" id="newsGrid">
                 <p>Loading news...</p>
@@ -255,17 +268,40 @@
                     Loading market...
                 </div>
             </div>
+
+            <!-- Дополнителна реклама во десниот виџет -->
+            <div class="widget-card">
+                <div id="frame" style="width: 100%;margin: auto;position: relative; z-index: 99998;">
+                    <iframe data-aa='2461290' src='//acceptable.a-ads.com/2461290/?size=Adaptive' style='border:0; padding:0; width:100%; height:auto; overflow:hidden;display: block;margin: auto'></iframe>
+                </div>
+            </div>
         </aside>
     </div>
 
-    <!-- Full Article Reader Modal -->
+    <!-- Full Article Reader Modal со вградена реклама -->
     <div class="reader-modal" id="readerModal">
         <div class="reader-content">
             <button class="close-btn" id="closeReader">&times;</button>
+            
+            <!-- Реклама внатре во модалот (пред текстот или сликата) -->
+            <div class="ad-container">
+                <div id="frame" style="width: 100%;margin: auto;position: relative; z-index: 99998;">
+                    <iframe data-aa='2461290' src='//acceptable.a-ads.com/2461290/?size=Adaptive' style='border:0; padding:0; width:80%; height:auto; overflow:hidden;display: block;margin: auto'></iframe>
+                </div>
+            </div>
+
             <img id="readerImg" class="reader-img" src="" alt="Article Image">
             <h1 class="reader-title" id="readerTitle"></h1>
             <div class="news-meta" id="readerMeta"></div>
             <div class="reader-body" id="readerBody"></div>
+            
+            <!-- Реклама и на крајот од модалот пред линкот -->
+            <div class="ad-container">
+                <div id="frame" style="width: 100%;margin: auto;position: relative; z-index: 99998;">
+                    <iframe data-aa='2461290' src='//acceptable.a-ads.com/2461290/?size=Adaptive' style='border:0; padding:0; width:80%; height:auto; overflow:hidden;display: block;margin: auto'></iframe>
+                </div>
+            </div>
+
             <a href="#" target="_blank" class="external-link" id="readerExternal">Read Original Source ↗</a>
         </div>
     </div>
@@ -307,7 +343,7 @@
                             <div>
                                 <div class="news-title">${article.title}</div>
                             </div>
-                            <div class="news-meta"><strong>${article.source}</strong> • ${article.date}</div>
+                            <div class="news-meta"><strong>${article.source}</strong> •${article.date}</div>
                         </div>
                     </div>
                 `).join('');
@@ -321,7 +357,7 @@
             const article = articles[index];
             document.getElementById('readerImg').src = article.image;
             document.getElementById('readerTitle').textContent = article.title;
-            document.getElementById('readerMeta').textContent = `${article.source} • ${article.date}`;
+            document.getElementById('readerMeta').textContent = `${article.source} •${article.date}`;
             document.getElementById('readerBody').textContent = article.content;
             document.getElementById('readerExternal').href = article.url;
             readerModal.classList.add('active');
@@ -338,25 +374,7 @@
                 const data = await res.json();
                 document.getElementById('cryptoPrices').innerHTML = `
                     <div style="display:flex; justify-content: space-between; margin-bottom: 0.6rem;">
-                        <span>BTC</span> <strong>$${data.bitcoin.usd.toLocaleString()}</strong>
+                        <span>BTC</span> <strong>$${data.bitcoin.usd.toLocaleString()}</strong> </div> <div style="display:flex; justify-content: space-between; margin-bottom: 0.6rem;"> <span>ETH</span> <strong>$${data.ethereum.usd.toLocaleString()}</strong>
                     </div>
                     <div style="display:flex; justify-content: space-between; margin-bottom: 0.6rem;">
-                        <span>ETH</span> <strong>$${data.ethereum.usd.toLocaleString()}</strong>
-                    </div>
-                    <div style="display:flex; justify-content: space-between; margin-bottom: 0.6rem;">
-                        <span>SOL</span> <strong>$${data.solana.usd.toLocaleString()}</strong>
-                    </div>
-                    <div style="display:flex; justify-content: space-between;">
-                        <span>ADA</span> <strong>$${data.cardano.usd.toLocaleString()}</strong>
-                    </div>
-                `;
-            } catch (err) {
-                document.getElementById('cryptoPrices').textContent = 'Market data offline.';
-            }
-        }
-
-        loadNews();
-        fetchPrices();
-    </script>
-</body>
-</html>
+                        <span>SOL</span> <strong>$${data.solana.usd.toLocaleString()}</strong> </div> <div style="display:flex; justify-content: space-between;"> <span>ADA</span> <strong>$${data.cardano.usd.toLocaleString()}</strong>
