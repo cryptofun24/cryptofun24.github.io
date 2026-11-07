@@ -1,6 +1,7 @@
 import urllib.request
 import xml.etree.ElementTree as ET
 import json
+import re
 from datetime import datetime
 
 FEEDS = [
@@ -26,29 +27,28 @@ for feed in FEEDS:
                 pubDate = item.find('pubDate').text if item.find('pubDate') is not None else ''
                 description = item.find('description').text if item.find('description') is not None else ''
                 
-                # Обид да се најде слика (преку enclosure, media:content или во самиот HTML опис)
+                # Извлекување на слика
                 image_url = ""
                 enclosure = item.find('enclosure')
                 if enclosure is not None and enclosure.get('url'):
                     image_url = enclosure.get('url')
                 else:
-                    # Барање слика низ media namespace или во HTML содржината
                     for child in item:
                         if 'thumbnail' in child.tag or 'content' in child.tag:
                             if child.get('url'):
                                 image_url = child.get('url')
                                 break
                 
-                # Ако нема издвоена слика, ставаме убава стандардна крипто слика како замена
                 if not image_url:
                     image_url = "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80"
 
-                # Чистење на описот за целосен текст
-                clean_desc = description.replace('<p>', '').replace('</p>', '').replace('<br>', ' ')
-                # Отстранување на останати HTML тагови за чист текст
-                import re
-                clean_text = re.sub('<[^<]+?>', '', description)
+                # Чистење на содржината за убаво читање во модалот
+                clean_text = re.sub('<[^<]+?>', ' ', description)
+                clean_text = ' '.join(clean_text.split())
                 
+                if not clean_text or len(clean_text) < 30:
+                    clean_text = title + " - Оваа вест е автоматски преземена од " + feed["source"] + ". Кликнете на копчето подолу за целосниот оригинален текст."
+
                 if title:
                     articles.append({
                         "title": title,
@@ -56,7 +56,7 @@ for feed in FEEDS:
                         "url": link,
                         "date": pubDate[:16] if pubDate else 'Today',
                         "image": image_url,
-                        "content": clean_text if clean_text else title
+                        "content": clean_text
                     })
     except Exception as e:
         print(f"Error fetching {feed['source']}: {e}")
@@ -64,4 +64,4 @@ for feed in FEEDS:
 with open('news.json', 'w', encoding='utf-8') as f:
     json.dump(articles, f, ensure_ascii=False, indent=2)
 
-print(f"Successfully fetched {len(articles)} articles with images at {datetime.now()}")
+print(f"Successfully fetched {len(articles)} articles at {datetime.now()}")
