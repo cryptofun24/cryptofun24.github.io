@@ -2,6 +2,16 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+
+    <!-- 📊 Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-J221H3KZR5"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-J221H3KZR5');
+    </script>
+
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>CryptoFun24 - Live Crypto News & Market Dashboard</title>
     <style>
@@ -248,10 +258,10 @@
 
     <div class="container">
         <main>
-            <!-- Reklama горе на почетната страна -->
+            <!-- A-ADS Реклама горе -->
             <div class="ad-container">
-                <div id="frame" style="width: 100%;margin: auto;position: relative; z-index: 99998;">
-                    <iframe data-aa='2461290' src='//acceptable.a-ads.com/2461290/?size=Adaptive' style='border:0; padding:0; width:70%; height:auto; overflow:hidden;display: block;margin: auto'></iframe>
+                <div style="width: 100%; margin: auto; position: relative; z-index: 99998;">
+                    <iframe data-aa='2461290' src='//acceptable.a-ads.com/2461290/?size=Adaptive' style='border:0; padding:0; width:70%; height:auto; overflow:hidden; display: block; margin: auto'></iframe>
                 </div>
             </div>
 
@@ -269,24 +279,23 @@
                 </div>
             </div>
 
-            <!-- Дополнителна реклама во десниот виџет -->
+            <!-- A-ADS Реклама во страничен дел -->
             <div class="widget-card">
-                <div id="frame" style="width: 100%;margin: auto;position: relative; z-index: 99998;">
-                    <iframe data-aa='2461290' src='//acceptable.a-ads.com/2461290/?size=Adaptive' style='border:0; padding:0; width:100%; height:auto; overflow:hidden;display: block;margin: auto'></iframe>
+                <div style="width: 100%; margin: auto; position: relative; z-index: 99998;">
+                    <iframe data-aa='2461290' src='//acceptable.a-ads.com/2461290/?size=Adaptive' style='border:0; padding:0; width:100%; height:auto; overflow:hidden; display: block; margin: auto'></iframe>
                 </div>
             </div>
         </aside>
     </div>
 
-    <!-- Full Article Reader Modal со вградена реклама -->
+    <!-- Модал читач -->
     <div class="reader-modal" id="readerModal">
         <div class="reader-content">
             <button class="close-btn" id="closeReader">&times;</button>
             
-            <!-- Реклама внатре во модалот (пред текстот или сликата) -->
             <div class="ad-container">
-                <div id="frame" style="width: 100%;margin: auto;position: relative; z-index: 99998;">
-                    <iframe data-aa='2461290' src='//acceptable.a-ads.com/2461290/?size=Adaptive' style='border:0; padding:0; width:80%; height:auto; overflow:hidden;display: block;margin: auto'></iframe>
+                <div style="width: 100%; margin: auto; position: relative; z-index: 99998;">
+                    <iframe data-aa='2461290' src='//acceptable.a-ads.com/2461290/?size=Adaptive' style='border:0; padding:0; width:80%; height:auto; overflow:hidden; display: block; margin: auto'></iframe>
                 </div>
             </div>
 
@@ -295,10 +304,9 @@
             <div class="news-meta" id="readerMeta"></div>
             <div class="reader-body" id="readerBody"></div>
             
-            <!-- Реклама и на крајот од модалот пред линкот -->
             <div class="ad-container">
-                <div id="frame" style="width: 100%;margin: auto;position: relative; z-index: 99998;">
-                    <iframe data-aa='2461290' src='//acceptable.a-ads.com/2461290/?size=Adaptive' style='border:0; padding:0; width:80%; height:auto; overflow:hidden;display: block;margin: auto'></iframe>
+                <div style="width: 100%; margin: auto; position: relative; z-index: 99998;">
+                    <iframe data-aa='2461290' src='//acceptable.a-ads.com/2461290/?size=Adaptive' style='border:0; padding:0; width:80%; height:auto; overflow:hidden; display: block; margin: auto'></iframe>
                 </div>
             </div>
 
@@ -343,7 +351,7 @@
                             <div>
                                 <div class="news-title">${article.title}</div>
                             </div>
-                            <div class="news-meta"><strong>${article.source}</strong> •${article.date}</div>
+                            <div class="news-meta"><strong>${article.source}</strong> • ${article.date}</div>
                         </div>
                     </div>
                 `).join('');
@@ -357,7 +365,7 @@
             const article = articles[index];
             document.getElementById('readerImg').src = article.image;
             document.getElementById('readerTitle').textContent = article.title;
-            document.getElementById('readerMeta').textContent = `${article.source} •${article.date}`;
+            document.getElementById('readerMeta').textContent = `${article.source} • ${article.date}`;
             document.getElementById('readerBody').textContent = article.content;
             document.getElementById('readerExternal').href = article.url;
             readerModal.classList.add('active');
@@ -374,7 +382,25 @@
                 const data = await res.json();
                 document.getElementById('cryptoPrices').innerHTML = `
                     <div style="display:flex; justify-content: space-between; margin-bottom: 0.6rem;">
-                        <span>BTC</span> <strong>$${data.bitcoin.usd.toLocaleString()}</strong> </div> <div style="display:flex; justify-content: space-between; margin-bottom: 0.6rem;"> <span>ETH</span> <strong>$${data.ethereum.usd.toLocaleString()}</strong>
+                        <span>BTC</span> <strong>$${data.bitcoin.usd.toLocaleString()}</strong>
                     </div>
                     <div style="display:flex; justify-content: space-between; margin-bottom: 0.6rem;">
-                        <span>SOL</span> <strong>$${data.solana.usd.toLocaleString()}</strong> </div> <div style="display:flex; justify-content: space-between;"> <span>ADA</span> <strong>$${data.cardano.usd.toLocaleString()}</strong>
+                        <span>ETH</span> <strong>$${data.ethereum.usd.toLocaleString()}</strong>
+                    </div>
+                    <div style="display:flex; justify-content: space-between; margin-bottom: 0.6rem;">
+                        <span>SOL</span> <strong>$${data.solana.usd.toLocaleString()}</strong>
+                    </div>
+                    <div style="display:flex; justify-content: space-between;">
+                        <span>ADA</span> <strong>$${data.cardano.usd.toLocaleString()}</strong>
+                    </div>
+                `;
+            } catch (err) {
+                document.getElementById('cryptoPrices').textContent = 'Market data offline.';
+            }
+        }
+
+        loadNews();
+        fetchPrices();
+    </script>
+</body>
+</html>
