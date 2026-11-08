@@ -6,7 +6,7 @@
     <!-- 📊 Google Tag Manager -->
     <script async src="https://www.googletagmanager.com/gtm.js?id=GTM-W3N2995X"></script>
 
-    <!-- 📊 Google Analytics (gtag.js) -->
+    <!-- 📊 Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-J221H3KZR5"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
@@ -233,8 +233,8 @@
                 const articles = await res.json();
                 
                 const newsGrid = document.getElementById('newsGrid');
-                newsGrid.innerHTML = articles.map(article => `
-                    <a href="${article.url}" target="_blank" class="news-card">
+                newsGrid.innerHTML = articles.map((article, index) => `
+                    <a href="article.html?id=${index}" target="_blank" class="news-card">
                         <img src="${article.image}" class="news-image" alt="News Image" onerror="this.src='https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80'">
                         <div class="news-content-box">
                             <div>
