@@ -1,0 +1,205 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+
+    <!-- 📊 Google Tag Manager -->
+    <script async src="https://www.googletagmanager.com/gtm.js?id=GTM-W3N2995X"></script>
+
+    <!-- 📊 Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-J221H3KZR5"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', 'G-J221H3KZR5');
+    </script>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CryptoFun24 - Article Reader</title>
+    <style>
+        :root {
+            --bg-color: #0f172a;
+            --card-bg: #1e293b;
+            --text-color: #f8fafc;
+            --text-muted: #94a3b8;
+            --accent-color: #38bdf8;
+            --border-color: #334155;
+        }
+
+        [data-theme="light"] {
+            --bg-color: #f8fafc;
+            --card-bg: #ffffff;
+            --text-color: #0f172a;
+            --text-muted: #64748b;
+            --accent-color: #0284c7;
+            --border-color: #e2e8f0;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+            transition: background-color 0.3s, color 0.3s;
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-color);
+            line-height: 1.6;
+            min-height: 100vh;
+        }
+
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 1rem 2rem;
+            background-color: var(--card-bg);
+            border-bottom: 1px solid var(--border-color);
+            position: sticky;
+            top: 0;
+            z-index: 100;
+        }
+
+        .logo {
+            font-size: 1.5rem;
+            font-weight: bold;
+            color: var(--accent-color);
+            text-decoration: none;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 2rem auto;
+            padding: 0 1rem;
+        }
+
+        .article-card {
+            background-color: var(--card-bg);
+            border: 1px solid var(--border-color);
+            border-radius: 16px;
+            padding: 2rem;
+            box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.3);
+        }
+
+        .article-img {
+            width: 100%;
+            max-height: 400px;
+            object-fit: cover;
+            border-radius: 12px;
+            margin-bottom: 1.5rem;
+        }
+
+        .article-title {
+            font-size: 2rem;
+            font-weight: bold;
+            margin-bottom: 0.75rem;
+            line-height: 1.3;
+        }
+
+        .article-meta {
+            font-size: 0.9rem;
+            color: var(--text-muted);
+            margin-bottom: 1.5rem;
+        }
+
+        .article-body {
+            font-size: 1.15rem;
+            line-height: 1.8;
+            color: var(--text-color);
+            white-space: pre-line;
+            margin-bottom: 2rem;
+        }
+
+        .external-link {
+            display: inline-block;
+            padding: 0.75rem 1.5rem;
+            background-color: var(--accent-color);
+            color: #fff;
+            text-decoration: none;
+            border-radius: 8px;
+            font-weight: 600;
+        }
+
+        .external-link:hover {
+            opacity: 0.9;
+        }
+
+        .back-link {
+            display: inline-block;
+            margin-bottom: 1rem;
+            color: var(--accent-color);
+            text-decoration: none;
+            font-weight: 600;
+        }
+
+        .ad-container {
+            margin: 1.5rem 0;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <a href="index.html" class="logo">⚡ CryptoFun24</a>
+    </header>
+
+    <div class="container">
+        <a href="index.html" class="back-link">← Back to News</a>
+
+        <!-- A-ADS Реклама пред веста -->
+        <div class="ad-container">
+            <div style="width: 100%; margin: auto; position: relative; z-index: 99998;">
+                <iframe data-aa='2461290' src='//acceptable.a-ads.com/2461290/?size=Adaptive' style='border:0; padding:0; width:100%; height:auto; overflow:hidden; display: block; margin: auto'></iframe>
+            </div>
+        </div>
+
+        <div class="article-card" id="articleContainer">
+            <p>Loading article...</p>
+        </div>
+
+        <!-- A-ADS Реклама под веста -->
+        <div class="ad-container">
+            <div style="width: 100%; margin: auto; position: relative; z-index: 99998;">
+                <iframe data-aa='2461290' src='//acceptable.a-ads.com/2461290/?size=Adaptive' style='border:0; padding:0; width:100%; height:auto; overflow:hidden; display: block; margin: auto'></iframe>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        // Извлекување на ID од URL-то
+        const urlParams = new URLSearchParams(window.location.search);
+        const articleId = urlParams.get('id');
+
+        async function loadArticle() {
+            try {
+                const res = await fetch('news.json?t=' + Date.now());
+                const articles = await res.json();
+                
+                if (articleId !== null && articles[articleId]) {
+                    const article = articles[articleId];
+                    document.title = `${article.title} - CryptoFun24`;
+                    
+                    document.getElementById('articleContainer').innerHTML = `
+                        <img src="${article.image}" class="article-img" alt="News Image" onerror="this.src='https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80'">
+                        <h1 class="article-title">${article.title}</h1>
+                        <div class="article-meta"><strong>${article.source}</strong> • ${article.date}</div>
+                        <div class="article-body">${article.content}</div>
+                        <a href="${article.url}" target="_blank" class="external-link">Read Original Source ↗</a>
+                    `;
+                } else {
+                    document.getElementById('articleContainer').innerHTML = '<p>Article not found. <a href="index.html">Return to Home</a></p>';
+                }
+            } catch (err) {
+                document.getElementById('articleContainer').innerHTML = '<p>Error loading article.</p>';
+            }
+        }
+
+        loadArticle();
+    </script>
+</body>
+</html>
