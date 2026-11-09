@@ -1,5 +1,13 @@
 [
   {
+    "title": "U.S. inflation, corporate earnings: Crypto Week Ahead",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/11/09/u-s-inflation-corporate-earnings-crypto-week-ahead",
+    "date": "Mon, 09 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/86094ea78f944f140cc21b29434392b1d1380382-1920x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "Your look at what’s coming in the week starting Nov. 9."
+  },
+  {
     "title": "SpaceX proposes a $24 billion Texas supercomputer worth 17 times its bitcoin pile",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/markets/2026/11/09/spacex-proposes-a-usd24-billion-texas-supercomputer-worth-17-times-its-bitcoin-pile",
@@ -32,12 +40,12 @@
     "content": "The exchange's once significant mining operation has nearly disappeared from Bitcoin's block-production rankings ahead of its November 10 closure."
   },
   {
-    "title": "Bitcoin drops, then pops as Nvidia cheating scandal and failed Iran talks trigger volatility",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/markets/2026/11/09/bitcoin-drops-then-pops-as-nvidia-cheating-scandal-and-failed-iran-talks-trigger-volatility",
+    "title": "Binance, Tether and Trump crypto firms face Senate records deadline",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/binance-tether-wlfi-senate-crypto-investigation-records-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "date": "Mon, 09 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/aaf31685777923cc92bb49f7710d8a49c418ab90-2228x1021.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "Volatile price action has once again liquidated leveraged bullish plays worth millions."
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6ZMS02Q1MEXVDRE9TMMRDPD/hi-the-evolution-of-crypto-regulations-in-2024-what-it-means-for-2026.jpg",
+    "content": "Sen. Richard Blumenthal asked four crypto firms to start sending records by Nov. 30 and warned of further action if they miss the Jan. 4 deadline."
   },
   {
     "title": "Bitcoin ETFs shed $1.3B in biggest weekly outflow since late June",
@@ -72,12 +80,12 @@
     "content": "Threshold halted its tBTC bridge on Oct. 30 as operators addressed a critical Linux kernel vulnerability that could allow attackers to execute code on unpatched servers."
   },
   {
-    "title": "Vitalik ‘pivots’ ETH to store of value, crypto suffers after US midterms: Hodler’s Digest",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/magazine/vitaliks-pivots-to-eth-as-a-store-of-value-us-election-weighs-on-crypto-hodlers-digest?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "date": "Sun, 08 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6YMNVH88N4KSXQB6XWMMW2K/screenshot-2026-11-09-093227.jpg",
-    "content": "Vitalik Buterin wants Ethereum to embrace a store of value narrative, upsetting Bitcoin maxis. The crypto industry faces an uncertain future following the US elections."
+    "title": "Nvidia Board Investigates Jensen Huang After Report He Was Target of Chinese Spy Effort",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/382793/nvidia-board-investigates-jensen-huang-after-report-he-was-target-of-chinese-spy-effort",
+    "date": "Mon, 09 Nov 2026",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/jensen-huang-nvidia-decrypt-style-03-e1794217137922-gID_7.jpg@png",
+    "content": "Huang told staff he had been \"unfaithful\" to his wife, as Nvidia shares fell nearly 5% in premarket trading on Monday."
   },
   {
     "title": "This Bitcoin Developer’s Idea Would Make Quantum Attacks a Losing Bet",
@@ -110,14 +118,6 @@
     "date": "Sat, 07 Nov 2026",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/08/sony-ps5-playstation-5-decrypt-style-gID_7.jpg@png",
     "content": "Experts say a disc-free PlayStation will price out low-income players, while in much of Africa, digital-only gaming means breaking Sony’s rules."
-  },
-  {
-    "title": "Treasury Cuts Crypto Exchange MEXC Off From US Financial System",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/382758/treasury-cuts-off-crypto-exchange-mexc-us-financial-system",
-    "date": "Fri, 06 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/scott-bessent-decrypt-style-1-gID_7.jpg@png",
-    "content": "FinCEN’s order, part of Operation Economic Outcast, bars U.S. institutions from any transfers to or from MEXC, which Treasury says facilitated $16 billion in illicit finance tied to Iran, North Korea and Russia."
   },
   {
     "title": "U.S. Treasury Cuts Off MEXC From U.S. Financial System Over Alleged $16 Billion in Illicit Flows",
