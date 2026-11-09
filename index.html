@@ -6,7 +6,7 @@
     <!-- 📊 Google Tag Manager -->
     <script async src="https://www.googletagmanager.com/gtm.js?id=GTM-W3N2995X"></script>
 
-    <!-- 📊 Google Analytics -->
+    <!-- 📊 Google Analytics (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-J221H3KZR5"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
@@ -164,6 +164,38 @@
             background: rgba(255, 255, 255, 0.02);
             border-radius: 8px;
         }
+
+        /* ⬆️ Back to Top Button */
+        .back-to-top {
+            position: fixed;
+            bottom: 30px;
+            right: 30px;
+            width: 45px;
+            height: 45px;
+            background-color: var(--accent-color);
+            color: #ffffff;
+            border: none;
+            border-radius: 50%;
+            cursor: pointer;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 1.2rem;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+            opacity: 0;
+            visibility: hidden;
+            transition: opacity 0.3s, visibility 0.3s, transform 0.2s;
+            z-index: 1000;
+        }
+
+        .back-to-top.show {
+            opacity: 1;
+            visibility: visible;
+        }
+
+        .back-to-top:hover {
+            transform: translateY(-4px);
+        }
     </style>
 </head>
 <body>
@@ -205,7 +237,11 @@
         </aside>
     </div>
 
+    <!-- ⬆️ Back to Top Копче -->
+    <button id="backToTop" class="back-to-top" title="Back to Top">↑</button>
+
     <script>
+        // Тема (Dark / Light)
         const themeToggle = document.getElementById('themeToggle');
         const currentTheme = localStorage.getItem('theme') || 'dark';
 
@@ -227,6 +263,7 @@
             }
         });
 
+        // Вчитување вести
         async function loadNews() {
             try {
                 const res = await fetch('news.json?t=' + Date.now());
@@ -249,6 +286,7 @@
             }
         }
 
+        // Вчитување цени од CoinGecko
         async function fetchPrices() {
             try {
                 const res = await fetch('https://api.coingecko.com/api/v3/simple/price?ids=bitcoin,ethereum,solana,cardano&vs_currencies=usd');
@@ -271,6 +309,24 @@
                 document.getElementById('cryptoPrices').textContent = 'Market data offline.';
             }
         }
+
+        // Логика за Back to Top копче
+        const backToTopBtn = document.getElementById('backToTop');
+
+        window.addEventListener('scroll', () => {
+            if (window.scrollY > 300) {
+                backToTopBtn.classList.add('show');
+            } else {
+                backToTopBtn.classList.remove('show');
+            }
+        });
+
+        backToTopBtn.addEventListener('click', () => {
+            window.scrollTo({
+                top: 0,
+                behavior: 'smooth'
+            });
+        });
 
         loadNews();
         fetchPrices();
