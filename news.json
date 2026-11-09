@@ -1,5 +1,13 @@
 [
   {
+    "title": "Robinhood backs tokenization of its stock on OKX–ICE platform even as most companies opt out",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/business/2026/11/09/robinhood-backs-tokenization-of-its-stock-on-okx-ice-platform-even-as-most-companies-opt-out",
+    "date": "Mon, 09 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a92db287f1805105761bc517860540b2fdd5b741-2600x1302.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "The brokerage firm said it would rather help build tokenized markets than sit on the sidelines, following a wave of early corporate pushback to the Intercontinental Exchange and OKX joint venture."
+  },
+  {
     "title": "A Bitcoin block just neared a 2015 transaction record, but paid only $180 in fees",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/tech/2026/11/09/a-bitcoin-block-just-neared-a-2015-transaction-record-but-paid-only-usd180-in-fees",
@@ -30,14 +38,6 @@
     "date": "Mon, 09 Nov 2026",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/e5010be687a255fbd4ca9b45cb952c3ec72fe13a-6302x3545.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "content": "Avalanche will serve as the core settlement ledger for the exchange's planned blockchain stock market"
-  },
-  {
-    "title": "Solana set for its first tokenized stock venue under SEC framework, listing Galaxy",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/business/2026/11/06/solana-lset-for-its-first-tokenized-stock-venue-under-sec-framework-listing-galaxy",
-    "date": "Mon, 09 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2e14ef9e0ece47068da06c0d0405ba1e13c15bd8-3904x2196.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "Formation Securities plans to launch in early 2027 with Galaxy, Exodus and Forward Industries shares, expanding the U.S. regulator's experiment in blockchain-based stock trading."
   },
   {
     "title": "Mercado Bitcoin begins post-hack reopening without a timeline for withdrawals",
@@ -80,6 +80,22 @@
     "content": "Binance’s pledge to cover all user losses helped contain the fallout from the $6.3 billion hack, analysts said."
   },
   {
+    "title": "Binance Hack Launderers Mint Elon Musk and Animal Meme Coins to Move Stolen Crypto",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/382873/binance-hack-elon-musk-animal-meme-coins-launder-stolen-crypto",
+    "date": "Mon, 09 Nov 2026",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/dprk-north-korea-hacker-decrypt-style-gID_7.jpg@png",
+    "content": "Elliptic says the hackers are minting their own worthless tokens—complete with cartoon animal and Elon Musk logos—and routing stolen funds through liquidity pools to break the trail."
+  },
+  {
+    "title": "Bitcoin in Limbo as Stocks Rebound Ahead of US Inflation Report",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/382861/bitcoin-limbo-stocks-rebound-us-inflation",
+    "date": "Mon, 09 Nov 2026",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/bitcoin-down-crash-decrypt-style-1-gID_7.jpg@png",
+    "content": "U.S. stocks rallied as oil fell, but Bitcoin hovered near $75,000 after a wave of liquidations, with Tuesday’s inflation report set to test bets on a December Fed rate hike."
+  },
+  {
     "title": "Nvidia's $350 Billion Scare: What Happens If Jensen Huang Leaves?",
     "source": "Decrypt",
     "url": "https://decrypt.co/382838/nvidias-350-billion-scare-what-happens-if-jensen-huang-leaves",
@@ -102,22 +118,6 @@
     "date": "Mon, 09 Nov 2026",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/vitalik-buterin-ethereum-decrypt-style-05-1-gID_7.jpg@png",
     "content": "The Ethereum co-founder says ETH's value comes from stability, not fee burns, citing its decentralization, censorship resistance and security."
-  },
-  {
-    "title": "Tom Lee’s Bitmine Adds $20M in Ethereum, Seizing on Vitalik’s 'ETH Is Money' Declaration",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/382854/tom-lee-bitmine-adds-20m-ethereum-vitalik-eth-money",
-    "date": "Mon, 09 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/10/tom-lee-decrypt-style-04-gID_7.jpg@png",
-    "content": "The firm’s stash reached 6.07 million ETH—4.97% of supply and 99% of the way to its “Alchemy of 5%” goal—as chairman Tom Lee called Vitalik Buterin’s “ETH is money” comments a “seismic shift.”"
-  },
-  {
-    "title": "NYSE Taps Avalanche to Settle Its Planned Tokenized Stock Platform",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/382833/nyse-avalanche-settle-tokenized-stock-platform",
-    "date": "Mon, 09 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/stocks-gID_7.jpg@png",
-    "content": "Ava Labs said Avalanche will serve as the “core ledger technology” for the clearing firm behind the NYSE-affiliated venue, which aims to bring 24/7 trading, clearing and settlement of tokenized securities onchain."
   },
   {
     "title": "North Korea Is Minting Its Own Meme Coins to Launder Binance Hack Loot",
