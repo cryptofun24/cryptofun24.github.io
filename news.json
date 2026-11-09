@@ -1,5 +1,13 @@
 [
   {
+    "title": "Coinbase gets full U.S. trust charter from federal banking regulator",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/policy/2026/11/09/coinbase-gets-full-u-s-trust-charter-from-federal-banking-regulator",
+    "date": "Mon, 09 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/73ff5902b975f54122994ceeb39606463e975438-2732x1535.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "The Office of the Comptroller of the Currency elevated the biggest U.S. exchange's trust status from conditional to a full-fledged charter, the company said."
+  },
+  {
     "title": "U.S. inflation, corporate earnings: Crypto Week Ahead",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/markets/2026/11/09/u-s-inflation-corporate-earnings-crypto-week-ahead",
@@ -32,12 +40,12 @@
     "content": "The proposals aim to keep Ethereum’s planned gas changes from breaking existing contracts, using different approaches to what contracts see and what users pay."
   },
   {
-    "title": "Binance's bitcoin mining pool finds just one block in a week as shutdown nears",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/tech/2026/11/09/binance-s-bitcoin-mining-pool-finds-just-one-block-in-a-week-as-shutdown-nears",
+    "title": "BTC price eyes $73K amid Nvidia volatility: Three things to know in Bitcoin this week",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/markets/btc-price-nvidia-volatility-three-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "date": "Mon, 09 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/54bd04de039305784bf732dce245207bcc75ba21-7008x3942.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "The exchange's once significant mining operation has nearly disappeared from Bitcoin's block-production rankings ahead of its November 10 closure."
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6ZPZ3XN7CEBDWKGJCADW5H6/ai-falling-stock-prices-960x644-960x644.webp",
+    "content": "Bitcoin price action fell to its lowest levels since mid-August as Nvidia reports added to sell-side pressure across stock-market futures."
   },
   {
     "title": "Binance, Tether and Trump crypto firms face Senate records deadline",
@@ -70,14 +78,6 @@
     "date": "Mon, 09 Nov 2026",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6ZCTV693BR2130FJ37YTBT0/hi-bounties-and-do-they-work-zcash-2.jpg",
     "content": "The proposed reduction aims to shorten transaction confirmation times and improve the user experience for point-of-sale payments, exchange deposits and cross-chain swaps."
-  },
-  {
-    "title": "tBTC bridge partially resumes as $120M Aave reserve remains frozen",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/tbtc-bridge-resumes-aave-120m-reserve-frozen?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "date": "Mon, 09 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6Z7HEM0J3VD1G6Q7DHXMEMM/bitcoin-bridge-paused.png",
-    "content": "Threshold halted its tBTC bridge on Oct. 30 as operators addressed a critical Linux kernel vulnerability that could allow attackers to execute code on unpatched servers."
   },
   {
     "title": "Nvidia Board Investigates Jensen Huang After Report He Was Target of Chinese Spy Effort",
