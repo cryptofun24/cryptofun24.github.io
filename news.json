@@ -1,5 +1,21 @@
 [
   {
+    "title": "Google’s AI chip push adds more pressure on Nvidia",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/11/09/google-s-ai-chip-push-adds-more-pressure-on-nvidia",
+    "date": "Mon, 09 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/90f39fc46356434c7e4ffade0abab7f574c575c3-1719x864.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "Google’s specialised AI chips threaten greater competition as Nvidia faces a leadership investigation."
+  },
+  {
+    "title": "North Korean hackers are creating memecoins to wash loot from $6.3 billion Binance hack",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/business/2026/11/09/north-korean-hackers-are-creating-memecoins-to-wash-loot-from-usd6-3-billion-binance-hack",
+    "date": "Mon, 09 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c18c9af8ef94bcbc9a17fac89a01b83bfc76fd8f-5472x3648.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "North Korean hackers used six homemade memecoins to launder 117,000 NEAR, worth about $430,000, from the $6.3 billion Binance hack, Elliptic says."
+  },
+  {
     "title": "NYSE picks Avalanche to settle tokenized stocks amid Wall Street's blockchain race",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/business/2026/11/09/nyse-picks-avalanche-to-settle-tokenized-stocks-amid-wall-street-s-blockchain-race",
@@ -22,22 +38,6 @@
     "date": "Mon, 09 Nov 2026",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/13cd4f14be950fbfb70e6dc6ab16bf0fdc1d8647-4533x2550.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "content": "Trump confirmed he co-owns World Liberty, whose UAE ownership could derail Justin Sun’s federal lawsuit over frozen WLFI tokens"
-  },
-  {
-    "title": "Bitcoin bulls can't rely on ETF flows",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/daybook-us/2026/11/09/bitcoin-bulls-can-t-rely-on-etf-flows",
-    "date": "Mon, 09 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/fdc01a046b1cc2d4ab2bfa14f68d55fb0077e72e-1012x602.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "Your day-ahead look for Nov. 9, 2026"
-  },
-  {
-    "title": "Nvidia-led tech selloff weighs on crypto majors",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/markets/2026/11/09/tech-selloff-weighs-on-crypto-majors",
-    "date": "Mon, 09 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2db4e3ac4155cccb53f788ece2b4c9d006f4607e-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "Only five of the top 100 cryptocurrencies by market value are up 1% or more over the past 24 hours. That is the state of the market today."
   },
   {
     "title": "Analysts see no broader ‘contagion’ from $6.3B Binance hack",
@@ -80,6 +80,14 @@
     "content": "Applications close Nov. 27 for an industry group that aims to draft initial standards for holding and settling tokenized securities by early 2028."
   },
   {
+    "title": "NYSE Taps Avalanche to Settle Its Planned Tokenized Stock Platform",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/382833/nyse-avalanche-settle-tokenized-stock-platform",
+    "date": "Mon, 09 Nov 2026",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/stocks-gID_7.jpg@png",
+    "content": "Ava Labs said Avalanche will serve as the “core ledger technology” for the clearing firm behind the NYSE-affiliated venue, which aims to bring 24/7 trading, clearing and settlement of tokenized securities onchain."
+  },
+  {
     "title": "Strategy Buys $82M in Bitcoin, Buys Back $188M of STRC",
     "source": "Decrypt",
     "url": "https://decrypt.co/382820/strategy-buys-82m-in-bitcoin-buys-back-188m-of-strc",
@@ -112,12 +120,36 @@
     "content": "Pressed on why he doesn't divest from the family's crypto venture, Trump said his sons run the business and every president faces conflicts."
   },
   {
-    "title": "Nvidia Board Investigates Jensen Huang After Report He Was Target of Chinese Spy Effort",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/382793/nvidia-board-investigates-jensen-huang-after-report-he-was-target-of-chinese-spy-effort",
+    "title": "Binance to Close Accounts in Four EU Countries Dec. 31, Charging Idle Balances From Nov. 29",
+    "source": "Bitcoin Magazine",
+    "url": "https://bitcoinmagazine.com/news/binance-closing-accounts-four-eu-countries",
     "date": "Mon, 09 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/jensen-huang-nvidia-decrypt-style-03-e1794217137922-gID_7.jpg@png",
-    "content": "Huang told staff he had been \"unfaithful\" to his wife, as Nvidia shares fell nearly 5% in premarket trading on Monday."
+    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
+    "content": "Bitcoin Magazine Binance to Close Accounts in Four EU Countries Dec. 31, Charging Idle Balances From Nov. 29 Binance told users in France, Spain, Italy and Poland to withdraw their crypto, with deposits blocked, accounts closing Dec. 31 and a monthly fee starting Nov. 29, as the exchange still lacks an EU license. This post Binance to Close Accounts in Four EU Countries Dec. 31, Charging Idle Balances From Nov. 29 first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
+  },
+  {
+    "title": "U.S. Regulators Drop $250 Travel Rule Plan, Crypto Language Too",
+    "source": "Bitcoin Magazine",
+    "url": "https://bitcoinmagazine.com/news/fincen-fed-withdraw-travel-rule-250",
+    "date": "Mon, 09 Nov 2026",
+    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
+    "content": "Bitcoin Magazine U.S. Regulators Drop $250 Travel Rule Plan, Crypto Language Too FinCEN and the Federal Reserve formally withdrew a 2020 proposal that would have cut the cross-border funds-transfer threshold from $3,000 to $250 and spelled out that the rules cover crypto, saying any future version needs a fresh comment period. This post U.S. Regulators Drop $250 Travel Rule Plan, Crypto Language Too first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
+  },
+  {
+    "title": "Kraken’s Dave Ripley: “That Was the Bear Market” and Bitcoin Is “On Our Way Out of It”",
+    "source": "Bitcoin Magazine",
+    "url": "https://bitcoinmagazine.com/videos/krakens-dave-ripley-that-was-the-bear-market-and-bitcoin-is-on-our-way-out-of-it",
+    "date": "Mon, 09 Nov 2026",
+    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
+    "content": "&#9654; Bitcoin Magazine Kraken&#8217;s Dave Ripley: &#8220;That Was the Bear Market&#8221; and Bitcoin Is &#8220;On Our Way Out of It&#8221; Kraken’s Dave Ripley explains why Bitcoin’s rebound past $80K hints the bear market is over, marking the softest macro pullback in the asset’s history. This post Kraken&#8217;s Dave Ripley: &#8220;That Was the Bear Market&#8221; and Bitcoin Is &#8220;On Our Way Out of It&#8221; first appeared on Bitcoin Magazine and is written by Mark Mason ."
+  },
+  {
+    "title": "Strive (ASST) Adds 29 Bitcoin for $2.2 Million as Weekly Buys Slow After Crossing 43,000",
+    "source": "Bitcoin Magazine",
+    "url": "https://bitcoinmagazine.com/news/strive-asst-adds-29-bitcoin-holdings-43153",
+    "date": "Mon, 09 Nov 2026",
+    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
+    "content": "Bitcoin Magazine Strive (ASST) Adds 29 Bitcoin for $2.2 Million as Weekly Buys Slow After Crossing 43,000 Strive purchased 29 bitcoin from Oct. 31 to Nov. 6 at an average of $75,721, lifting holdings to 43,153 BTC while cash slipped to $487.6 million and SATS preferred shares edged higher. This post Strive (ASST) Adds 29 Bitcoin for $2.2 Million as Weekly Buys Slow After Crossing 43,000 first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
   },
   {
     "title": "Coinbase Wins Full Federal Trust Charter From OCC",
@@ -126,37 +158,5 @@
     "date": "Mon, 09 Nov 2026",
     "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
     "content": "Bitcoin Magazine Coinbase Wins Full Federal Trust Charter From OCC Coinbase's custody arm has completed its national trust bank charter with the OCC, upgrading April's conditional approval, but the license does not let it take deposits, make loans or issue stablecoins. This post Coinbase Wins Full Federal Trust Charter From OCC first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
-  },
-  {
-    "title": "Bitcoin Price Drops Below $74,000 as Nvidia Probe and Regulation Fears Spark $1 Billion in Liquidations",
-    "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/markets/bitcoin-price-drops-to-73477",
-    "date": "Mon, 09 Nov 2026",
-    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "Bitcoin Magazine Bitcoin Price Drops Below $74,000 as Nvidia Probe and Regulation Fears Spark $1 Billion in Liquidations Bitcoin price fell to $73,477 overnight, its lowest since August, before bouncing to about $74,700 Monday morning as a Nvidia probe, Democratic regulation fears and ETF outflows hit risk appetite. This post Bitcoin Price Drops Below $74,000 as Nvidia Probe and Regulation Fears Spark $1 Billion in Liquidations first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
-  },
-  {
-    "title": "Strategy (MSTR) Adds 1,036 Bitcoin for $81.9 Million as Holdings Slip Below Cost",
-    "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/news/strategy-mstr-adds-1036-bitcoin-holdings",
-    "date": "Mon, 09 Nov 2026",
-    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "Bitcoin Magazine Strategy (MSTR) Adds 1,036 Bitcoin for $81.9 Million as Holdings Slip Below Cost Strategy bought 1,036 bitcoin last week for $81.9 million at an average of $79,012, lifting its stack to 850,364 BTC. This post Strategy (MSTR) Adds 1,036 Bitcoin for $81.9 Million as Holdings Slip Below Cost first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
-  },
-  {
-    "title": "U.S. Treasury Cuts Off MEXC From U.S. Financial System Over Alleged $16 Billion in Illicit Flows",
-    "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/news/fincen-cuts-off-mexc-us-financial-system",
-    "date": "Fri, 06 Nov 2026",
-    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "Bitcoin Magazine U.S. Treasury Cuts Off MEXC From U.S. Financial System Over Alleged $16 Billion in Illicit Flows FinCEN issued a final order under section 9714(a) that will bar U.S. financial institutions from sending or receiving funds with MEXC Global 30 days after Federal Register publication, citing at least $16 billion in alleged illicit activity. This post U.S. Treasury Cuts Off MEXC From U.S. Financial System Over Alleged $16 Billion in Illicit Flows first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
-  },
-  {
-    "title": "Bitcoin Magazine Books Opens 333-Copy Genesis Book Collector Edition for 3rd Anniversary",
-    "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/news/genesis-book-333-collector-3rd-anniversary",
-    "date": "Fri, 06 Nov 2026",
-    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "Bitcoin Magazine Bitcoin Magazine Books Opens 333-Copy Genesis Book Collector Edition for 3rd Anniversary Bitcoin Magazine Books opened a third-anniversary campaign for Aaron van Wirdum's The Genesis Book, capping a hand-signed Collectors Edition at 333 numbered copies. This post Bitcoin Magazine Books Opens 333-Copy Genesis Book Collector Edition for 3rd Anniversary first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
   }
 ]
