@@ -1,5 +1,21 @@
 [
   {
+    "title": "SpaceX proposes a $24 billion Texas supercomputer worth 17 times its bitcoin pile",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/11/09/spacex-proposes-a-usd24-billion-texas-supercomputer-worth-17-times-its-bitcoin-pile",
+    "date": "Mon, 09 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/83d0912d3450cbd9352755a8558ea6c425c541a8-3000x2000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "The $24 billion project, which includes an AI supercomputer in Texas with its own gas-fired power plant, is about 17 times the value of SpaceX's bitcoin holdings."
+  },
+  {
+    "title": "Solana moves to scrap the transaction feature used in the $270 million Drift hack",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/tech/2026/11/09/solana-moves-to-scrap-the-transaction-feature-used-in-the-usd270-million-drift-hack",
+    "date": "Mon, 09 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/54c0f3b41e62df4cdf774aab4c7d68c64e5e976c-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "A draft proposal would end the 'durable nonces' feature no earlier than May 5, 2027, forcing custodians that sign offline to rebuild how they move coins."
+  },
+  {
     "title": "Two rival Ethereum proposals aim to stop Glamsterdam breaking old contracts",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/tech/2026/11/09/two-rival-ethereum-proposals-aim-to-stop-glamsterdam-breaking-old-contracts",
@@ -24,20 +40,12 @@
     "content": "Volatile price action has once again liquidated leveraged bullish plays worth millions."
   },
   {
-    "title": "What the election results mean for crypto: State of Crypto ",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/policy/2026/11/08/what-the-election-results-mean-for-crypto-state-of-crypto",
-    "date": "Sun, 08 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3d14ee5efae01770bbbc627c6ecb94cb0e826a8d-4027x2265.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "Democrats had an astoundingly good night, smashing all expectations. Is that actually bad news for the industry?"
-  },
-  {
-    "title": "Stablecoin growth has stalled. The payments boom hasn't",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/business/2026/11/08/stablecoin-growth-has-stalled-the-payments-boom-hasn-t",
-    "date": "Sun, 08 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2938a6854f6b95a5f0c13955284d00b625510f76-5760x3840.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "Stablecoin supply has barely grown this year, even as payments using the tokens surge. Circle's latest earnings offer another example of the divergence between dollars outstanding and activity on blockchain networks."
+    "title": "Bitcoin ETFs shed $1.3B in biggest weekly outflow since late June",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/markets/bitcoin-etfs-13b-biggest-weekly-outflow-late-june?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "Mon, 09 Nov 2026",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2M5WQHM74XV1CTRDCQ9ZXS3/bitcoin-etf-4.jpg",
+    "content": "Investors pulled a net $1.21 billion from BlackRock’s IBIT last week as Bitcoin fell below $76,000 and US technology stocks sold off."
   },
   {
     "title": "Here’s what happened in crypto today",
@@ -70,14 +78,6 @@
     "date": "Sun, 08 Nov 2026",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6YMNVH88N4KSXQB6XWMMW2K/screenshot-2026-11-09-093227.jpg",
     "content": "Vitalik Buterin wants Ethereum to embrace a store of value narrative, upsetting Bitcoin maxis. The crypto industry faces an uncertain future following the US elections."
-  },
-  {
-    "title": "Binance France emails announce closure of its users’ accounts on Dec. 31",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/binance-france-emails-announce-closure-of-its-users-accounts-on-dec-31?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "date": "Sun, 08 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6XKMA4GCCY02X2C5H5XBVBP/hi-consortium-open-doors-binance.jpg",
-    "content": "Any assets left on the exchange will be charged monthly fees starting on Nov. 29, company says."
   },
   {
     "title": "This Bitcoin Developer’s Idea Would Make Quantum Attacks a Losing Bet",
