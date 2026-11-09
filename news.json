@@ -1,5 +1,13 @@
 [
   {
+    "title": "NYSE picks Avalanche to settle tokenized stocks amid Wall Street's blockchain race",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/business/2026/11/09/nyse-picks-avalanche-to-settle-tokenized-stocks-amid-wall-street-s-blockchain-race",
+    "date": "Mon, 09 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e5010be687a255fbd4ca9b45cb952c3ec72fe13a-6302x3545.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "Avalanche will serve as the core settlement ledger for the exchange's planned blockchain stock market"
+  },
+  {
     "title": "Solana set for its first tokenized stock venue under SEC framework, listing Galaxy",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/business/2026/11/06/solana-lset-for-its-first-tokenized-stock-venue-under-sec-framework-listing-galaxy",
@@ -32,12 +40,36 @@
     "content": "Only five of the top 100 cryptocurrencies by market value are up 1% or more over the past 24 hours. That is the state of the market today."
   },
   {
-    "title": "Zcash developers want 20-second blocks just days after major speed upgrade",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/tech/2026/11/09/zcash-developers-want-20-second-blocks-just-days-after-major-speed-upgrade",
+    "title": "Analysts see no broader ‘contagion’ from $6.3B Binance hack",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/markets/analysts-no-contagion-effect-63b-binance-hack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "date": "Mon, 09 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ed9521634a0a1d5f03a2fa414456c42344f4bfd4-1398x776.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "Early data shows Zcash's orphan-block rate holding close to pre-upgrade levels despite blocks arriving three times faster, encouraging developers to push for another reduction."
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M708577YNJM1YTD403ZVNDXB/hi-volatility2.jpg",
+    "content": "Binance’s pledge to cover all user losses helped contain the fallout from the $6.3 billion hack, analysts said."
+  },
+  {
+    "title": "Here’s what happened in crypto today",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "Mon, 09 Nov 2026",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+  },
+  {
+    "title": "The $2.85B Binance hackers lost shows why the UK needs stablecoin freeze rules ",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/opinion/285b-binance-hackers-lost-shows-why-uk-needs-stablecoin-freeze-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "Mon, 09 Nov 2026",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M33DXG3A0A4EZ0MK4MVHFSA0/binance.jpg",
+    "content": "The Binance hack proved stablecoin freezes work. Now the UK should make clear freeze rules a condition of listing coins."
+  },
+  {
+    "title": "Strategy buys 1,036 Bitcoin as BTC holdings climb to 850,364",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/strategy-buy-1036-bitcoin-holdings-850364-btc?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "Mon, 09 Nov 2026",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3KYHA0Z0DAFRPRWE639Z8D7/hi-why-saylors-strategy-keeps-buying-bitcoin-the-long-term-bet-explained-6.jpg",
+    "content": "Strategy bought $81.9 million in Bitcoin last week while spending $188.3 million repurchasing STRC preferred shares, according to its latest SEC filing."
   },
   {
     "title": "EU taps industry to set standards for tokenized securities",
@@ -48,36 +80,20 @@
     "content": "Applications close Nov. 27 for an industry group that aims to draft initial standards for holding and settling tokenized securities by early 2028."
   },
   {
-    "title": "Coinbase’s US national trust bank charter takes effect",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/coinbase-occ-approval-national-trust-bank-charter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Strategy Buys $82M in Bitcoin, Buys Back $188M of STRC",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/382820/strategy-buys-82m-in-bitcoin-buys-back-188m-of-strc",
     "date": "Mon, 09 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2MT4V83BPCA5X7B3XFWNYE8/hi-crypto-derivatives-are-now-available-how-much-interest-is-there-for-us-coinbase.jpg",
-    "content": "Coinbase plans to expand its institutional crypto custody business under the federal charter and is exploring digital asset payment products."
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/michael-saylor-microstrategy-youtube-gID_7.png@png",
+    "content": "The Bitcoin treasury firm sold $284 million of MSTR stock to fund the moves, days before MSCI names companies facing index removal."
   },
   {
-    "title": "Robinhood opens access to US IPOs for UK retail investors",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/robinhood-us-ipo-access-uk-retail-investors?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Microsoft-Backed Space and Time Launches Platform to Let AI Agents Verify Private Data",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/382697/microsoft-backed-space-and-time-launches-platform-to-let-ai-agents-verify-private-data",
     "date": "Mon, 09 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M283JZSQVMT1TPB7GVMGKVNK/robinhood2-2.jpg",
-    "content": "Robinhood’s UK customers can request shares in eligible US initial public offerings at the offer price before the stocks begin trading."
-  },
-  {
-    "title": "BTC price eyes $73K amid Nvidia volatility: Three things to know in Bitcoin this week",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/markets/btc-price-nvidia-volatility-three-things-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "date": "Mon, 09 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6ZPZ3XN7CEBDWKGJCADW5H6/ai-falling-stock-prices-960x644-960x644.webp",
-    "content": "Bitcoin price action fell to its lowest levels since mid-August as Nvidia reports added to sell-side pressure across stock-market futures."
-  },
-  {
-    "title": "Binance, Tether and Trump crypto firms face Senate records deadline",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/binance-tether-wlfi-senate-crypto-investigation-records-deadline?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "date": "Mon, 09 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6ZMS02Q1MEXVDRE9TMMRDPD/hi-the-evolution-of-crypto-regulations-in-2024-what-it-means-for-2026.jpg",
-    "content": "Sen. Richard Blumenthal asked four crypto firms to start sending records by Nov. 30 and warned of further action if they miss the Jan. 4 deadline."
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/ai-agentic-payments-1-gID_7.jpg@png",
+    "content": "Space and Time Enterprise uses Proof of SQL to prove calculations on private business data without exposing the records to AI agents."
   },
   {
     "title": "Coinbase Joins Circle, Ripple With Final OCC Approval for Federal Trust Bank Charter",
@@ -104,20 +120,28 @@
     "content": "Huang told staff he had been \"unfaithful\" to his wife, as Nvidia shares fell nearly 5% in premarket trading on Monday."
   },
   {
-    "title": "This Bitcoin Developer’s Idea Would Make Quantum Attacks a Losing Bet",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/382761/bitcoin-developer-quantum-landmines-losing-bet",
-    "date": "Sun, 08 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/quantum-decrypt-style-gID_7.jpg@png",
-    "content": "Cory Fields wants future quantum attackers to post Bitcoin as collateral before touching vulnerable wallets, giving prepared owners a chance to recover their coins and collect a potentially costly penalty."
+    "title": "Coinbase Wins Full Federal Trust Charter From OCC",
+    "source": "Bitcoin Magazine",
+    "url": "https://bitcoinmagazine.com/news/coinbase-full-occ-national-trust-charter",
+    "date": "Mon, 09 Nov 2026",
+    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
+    "content": "Bitcoin Magazine Coinbase Wins Full Federal Trust Charter From OCC Coinbase's custody arm has completed its national trust bank charter with the OCC, upgrading April's conditional approval, but the license does not let it take deposits, make loans or issue stablecoins. This post Coinbase Wins Full Federal Trust Charter From OCC first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
   },
   {
-    "title": "Apple Completes the Set: Every Magnificent Seven Stock Opts Out of OKX-ICE Venue",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/382768/apple-meta-every-magnificent-seven-stock-opts-out-okx-ice-venue",
-    "date": "Sat, 07 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/apple-logo-decrypy-style-01-gID_7.png@png",
-    "content": "Apple and Meta’s objections mean all seven of the biggest U.S. tech companies have now asked to keep their shares off the planned OKX-ICE venue."
+    "title": "Bitcoin Price Drops Below $74,000 as Nvidia Probe and Regulation Fears Spark $1 Billion in Liquidations",
+    "source": "Bitcoin Magazine",
+    "url": "https://bitcoinmagazine.com/markets/bitcoin-price-drops-to-73477",
+    "date": "Mon, 09 Nov 2026",
+    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
+    "content": "Bitcoin Magazine Bitcoin Price Drops Below $74,000 as Nvidia Probe and Regulation Fears Spark $1 Billion in Liquidations Bitcoin price fell to $73,477 overnight, its lowest since August, before bouncing to about $74,700 Monday morning as a Nvidia probe, Democratic regulation fears and ETF outflows hit risk appetite. This post Bitcoin Price Drops Below $74,000 as Nvidia Probe and Regulation Fears Spark $1 Billion in Liquidations first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
+  },
+  {
+    "title": "Strategy (MSTR) Adds 1,036 Bitcoin for $81.9 Million as Holdings Slip Below Cost",
+    "source": "Bitcoin Magazine",
+    "url": "https://bitcoinmagazine.com/news/strategy-mstr-adds-1036-bitcoin-holdings",
+    "date": "Mon, 09 Nov 2026",
+    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
+    "content": "Bitcoin Magazine Strategy (MSTR) Adds 1,036 Bitcoin for $81.9 Million as Holdings Slip Below Cost Strategy bought 1,036 bitcoin last week for $81.9 million at an average of $79,012, lifting its stack to 850,364 BTC. This post Strategy (MSTR) Adds 1,036 Bitcoin for $81.9 Million as Holdings Slip Below Cost first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
   },
   {
     "title": "U.S. Treasury Cuts Off MEXC From U.S. Financial System Over Alleged $16 Billion in Illicit Flows",
@@ -134,29 +158,5 @@
     "date": "Fri, 06 Nov 2026",
     "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
     "content": "Bitcoin Magazine Bitcoin Magazine Books Opens 333-Copy Genesis Book Collector Edition for 3rd Anniversary Bitcoin Magazine Books opened a third-anniversary campaign for Aaron van Wirdum's The Genesis Book, capping a hand-signed Collectors Edition at 333 numbered copies. This post Bitcoin Magazine Books Opens 333-Copy Genesis Book Collector Edition for 3rd Anniversary first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
-  },
-  {
-    "title": "Thailand SEC Files Criminal Complaint Against Bitget Ahead of Dec. 5 Access Block",
-    "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/news/thailand-sec-bitget-criminal-dec-5",
-    "date": "Fri, 06 Nov 2026",
-    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "Bitcoin Magazine Thailand SEC Files Criminal Complaint Against Bitget Ahead of Dec. 5 Access Block Thailand's SEC filed a criminal complaint against Bitget operator BG Limited for unlicensed Thai trading from 2022 to 2025. This post Thailand SEC Files Criminal Complaint Against Bitget Ahead of Dec. 5 Access Block first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
-  },
-  {
-    "title": "Former FBI Agent Pleads Guilty to Stealing $2.47 Million in Crypto From Investigations",
-    "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/news/former-fbi-agent-pleads-crypto-theft",
-    "date": "Fri, 06 Nov 2026",
-    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "Bitcoin Magazine Former FBI Agent Pleads Guilty to Stealing $2.47 Million in Crypto From Investigations Patrick Steven Yaroch, 37, of Ashburn, Virginia, pleaded guilty Thursday to wire fraud and money laundering after using wallet credentials from 35 FBI investigations to take about $2.47 million in cryptocurrency. This post Former FBI Agent Pleads Guilty to Stealing $2.47 Million in Crypto From Investigations first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
-  },
-  {
-    "title": "Strive (ASST) Posts $474.8 Million Common Net Income as Bitcoin Yield Hits 63.2%",
-    "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/news/strive-asst-posts-474-8m-common-net-income",
-    "date": "Fri, 06 Nov 2026",
-    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "Bitcoin Magazine Strive (ASST) Posts $474.8 Million Common Net Income as Bitcoin Yield Hits 63.2% Strive posted $474.8M in Q3 net income to common holders, almost entirely a $533.7M unrealized bitcoin gain, and touted 103.7% year-to-date outperformance versus bitcoin. This post Strive (ASST) Posts $474.8 Million Common Net Income as Bitcoin Yield Hits 63.2% first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
   }
 ]
