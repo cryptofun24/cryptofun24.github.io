@@ -1,5 +1,13 @@
 [
   {
+    "title": "A Bitcoin block just neared a 2015 transaction record, but paid only $180 in fees",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/tech/2026/11/09/a-bitcoin-block-just-neared-a-2015-transaction-record-but-paid-only-usd180-in-fees",
+    "date": "Mon, 09 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6bc97519d5345c3c5216389198cb36d38f7f90b3-3924x3024.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "The AntPool block came within 984 transactions of Bitcoin’s 2015 record, even as fees made up less than 0.1% of the miner’s payout."
+  },
+  {
     "title": "Google’s AI chip push adds more pressure on Nvidia",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/markets/2026/11/09/google-s-ai-chip-push-adds-more-pressure-on-nvidia",
@@ -30,14 +38,6 @@
     "date": "Mon, 09 Nov 2026",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/2e14ef9e0ece47068da06c0d0405ba1e13c15bd8-3904x2196.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "content": "Formation Securities plans to launch in early 2027 with Galaxy, Exodus and Forward Industries shares, expanding the U.S. regulator's experiment in blockchain-based stock trading."
-  },
-  {
-    "title": "Trump says he knows ‘nothing’ about World Liberty’s UAE ties as Justin Sun challenges filings",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/business/2026/11/09/trump-says-he-knows-nothing-about-world-liberty-s-uae-ties-as-justin-sun-challenges-filings",
-    "date": "Mon, 09 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/13cd4f14be950fbfb70e6dc6ab16bf0fdc1d8647-4533x2550.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "Trump confirmed he co-owns World Liberty, whose UAE ownership could derail Justin Sun’s federal lawsuit over frozen WLFI tokens"
   },
   {
     "title": "Analysts see no broader ‘contagion’ from $6.3B Binance hack",
@@ -120,6 +120,14 @@
     "content": "Pressed on why he doesn't divest from the family's crypto venture, Trump said his sons run the business and every president faces conflicts."
   },
   {
+    "title": "BlackRock: Security Fears Are Driving Bitcoin Whales Into IBIT",
+    "source": "Bitcoin Magazine",
+    "url": "https://bitcoinmagazine.com/news/blackrock-bitcoin-whales-self-custody-ibit",
+    "date": "Mon, 09 Nov 2026",
+    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
+    "content": "Bitcoin Magazine BlackRock: Security Fears Are Driving Bitcoin Whales Into IBIT BlackRock's Robbie Mitchnick told Barron's demand to swap directly held bitcoin for IBIT shares is at its highest yet, with \"security and peace of mind\" the top reason as kidnappings and hacks rise. This post BlackRock: Security Fears Are Driving Bitcoin Whales Into IBIT first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
+  },
+  {
     "title": "Binance to Close Accounts in Four EU Countries Dec. 31, Charging Idle Balances From Nov. 29",
     "source": "Bitcoin Magazine",
     "url": "https://bitcoinmagazine.com/news/binance-closing-accounts-four-eu-countries",
@@ -150,13 +158,5 @@
     "date": "Mon, 09 Nov 2026",
     "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
     "content": "Bitcoin Magazine Strive (ASST) Adds 29 Bitcoin for $2.2 Million as Weekly Buys Slow After Crossing 43,000 Strive purchased 29 bitcoin from Oct. 31 to Nov. 6 at an average of $75,721, lifting holdings to 43,153 BTC while cash slipped to $487.6 million and SATS preferred shares edged higher. This post Strive (ASST) Adds 29 Bitcoin for $2.2 Million as Weekly Buys Slow After Crossing 43,000 first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
-  },
-  {
-    "title": "Coinbase Wins Full Federal Trust Charter From OCC",
-    "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/news/coinbase-full-occ-national-trust-charter",
-    "date": "Mon, 09 Nov 2026",
-    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "Bitcoin Magazine Coinbase Wins Full Federal Trust Charter From OCC Coinbase's custody arm has completed its national trust bank charter with the OCC, upgrading April's conditional approval, but the license does not let it take deposits, make loans or issue stablecoins. This post Coinbase Wins Full Federal Trust Charter From OCC first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
   }
 ]
