@@ -1,5 +1,13 @@
 [
   {
+    "title": "Will stablecoins survive once the banks catch up?",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/opinion/2026/11/10/will-stablecoins-survive-once-the-banks-catch-up",
+    "date": "Tue, 10 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/041cb93d9a2c90ce28847a6b4c8f7283902171a9-5616x3744.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "As crypto firms and banks converge, it is fair to ask what lasting advantage stablecoins have, argues Alessandro Hatami, founder of Pacemakers and former COO of Digital Banking at Lloyds Banking Group."
+  },
+  {
     "title": "U.S. CPI rose stronger than expected 0.4% in October; core rate rose 0.3%",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/markets/2026/11/10/u-s-cpi-rose-stronger-than-expected-0-4-in-october-core-rate-rose-0-3",
@@ -30,14 +38,6 @@
     "date": "Tue, 10 Nov 2026",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/9d1de327c2da0fd433855510ffe93f13db4bfcd7-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "content": "Bitcoin slipped despite a Monday rebound in U.S. stocks, with spot ETFs losing $201 million as traders await October inflation data later today."
-  },
-  {
-    "title": "Bitcoin slips before U.S. inflation report as traders price in Fed rate increase",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-slips-before-u-s-inflation-report-as-traders-price-in-fed-rate-increase",
-    "date": "Tue, 10 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/fc32cdfe2379f454c7160b98435207e28877a3d9-4132x2324.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "Fed Governor Waller backs December tightening even if inflation cools, while falling oil prices offer some relief and Anthropic withdraws IPO pricing details."
   },
   {
     "title": "Poland’s lower house backs sanctions bill covering crypto freezes",
@@ -80,6 +80,30 @@
     "content": "Coinbase, Kalshi and four other companies backed the CFTC in a lawsuit over whether US exchanges can list perpetual futures tied to individual stocks."
   },
   {
+    "title": "Solana's Jupiter Expands Beyond Trading With Token Baskets, Yield Vaults and New Portfolio",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/382836/solanas-jupiter-expands-beyond-trading-with-token-baskets-yield-vaults-and-new-portfolio",
+    "date": "Tue, 10 Nov 2026",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-02-gID_7.png@png",
+    "content": "The trading platform, which says it has routed more than $1.3 trillion in trades, is launching four products ahead of Solana Breakpoint."
+  },
+  {
+    "title": "Decrypt Money Account Gets Confidential Transfers With Solana Privacy Firm Helius",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/382806/decrypt-money-account-gets-confidential-transfers-with-solana-privacy-firm-helius",
+    "date": "Tue, 10 Nov 2026",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/decrypt-the-information-exchange-helius-gID_7.png@png",
+    "content": "Helius' Solana Privacy Rings will let Decrypt users send funds without broadcasting amounts, as it grows out The Information Exchange."
+  },
+  {
+    "title": "Anthropic Sets IPO Price Range at $70 to $78, Valuing Company at Up to $1.4 Trillion",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/382939/anthropic-sets-ipo-price-range-at-70-to-78-valuing-company-at-up-to-1-4-trillion",
+    "date": "Tue, 10 Nov 2026",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/06/decrypt-style-anthropic-dario-amodei-2-gID_7.png@png",
+    "content": "The Claude developer is also lining up $26 billion from Nvidia, Google and other tech giants in a private placement alongside the listing."
+  },
+  {
     "title": "Moody’s Taps Chainlink to Send Credit Ratings Across Multiple Blockchains",
     "source": "Decrypt",
     "url": "https://decrypt.co/382888/moodys-chainlink-credit-ratings-across-multiple-blockchains",
@@ -96,67 +120,43 @@
     "content": "It’s a big shift for Ethereum from the “ultrasound money” days. But can ETH compete as a store-of-value play?"
   },
   {
-    "title": "Binance Warns of Apple iOS Flaw That Could Expose iPhone Users' Private Keys",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/382928/binance-warns-of-apple-ios-flaw-that-could-expose-iphone-users-private-keys",
+    "title": "Trump Media (DJT) Pledges 73% of Its Bitcoin to an Options Program as $1 Billion Note Deadline Nears",
+    "source": "Bitcoin Magazine",
+    "url": "https://bitcoinmagazine.com/news/trump-media-pledges-73-percent-bitcoin",
     "date": "Tue, 10 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-apple-iphone-gID_7.png@png",
-    "content": "Apple has not publicly confirmed the \"worse_query\" bug, which a researcher published days before its latest iOS security update."
+    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
+    "content": "Bitcoin Magazine Trump Media (DJT) Pledges 73% of Its Bitcoin to an Options Program as $1 Billion Note Deadline Nears Trump Media's Q3 10-Q shows 11,385 of its roughly 15,649 bitcoin pledged to an options program whose counterparty can reuse the coins, with nearly all the rest backing $1 billion of notes holders can put back Nov. 30. This post Trump Media (DJT) Pledges 73% of Its Bitcoin to an Options Program as $1 Billion Note Deadline Nears first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
   },
   {
-    "title": "Binance Halts MEXC Transfers as FinCEN Cuts Exchange Off From US Financial System",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/382926/binance-halts-mexc-transfers-as-fincen-cuts-exchange-off-from-us-financial-system",
+    "title": "MARA Sells 13,597 Bitcoin for $1.1 Billion, Says More Sales Are Coming",
+    "source": "Bitcoin Magazine",
+    "url": "https://bitcoinmagazine.com/news/mara-sells-13597-bitcoin-1-1-billion",
     "date": "Tue, 10 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/cryptocurrency-world-decrypt-style-gID_7.jpg@png",
-    "content": "The exchange will reject withdrawals to MEXC and hold deposits from it for review, after FinCEN tied it to $16 billion in suspicious flows."
+    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
+    "content": "Bitcoin Magazine MARA Sells 13,597 Bitcoin for $1.1 Billion, Says More Sales Are Coming MARA sold about 40% of its bitcoin stack after Sept. 30, used $750 million to repay all its BTC-backed term loans and said it will keep selling to fund AI infrastructure, convertible note puts and buybacks. This post MARA Sells 13,597 Bitcoin for $1.1 Billion, Says More Sales Are Coming first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
   },
   {
-    "title": "Nvidia, Jensen Huang Sued by Shareholders Over Alleged Ties to Suspected Chinese Spy",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/382913/nvidia-jensen-huang-sued-by-shareholders-over-alleged-ties-to-suspected-chinese-spy",
+    "title": "Hyperscale Data (GPUS) Sells Its Last Bitcoin for AI Data Center, Months After Chasing $100 Million Treasury",
+    "source": "Bitcoin Magazine",
+    "url": "https://bitcoinmagazine.com/news/hyperscale-data-sells-last-bitcoin-ai",
     "date": "Tue, 10 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/jensen-huang-nvidia-decrypt-style-04-gID_7.jpg@png",
-    "content": "A proposed class action claims the chipmaker misled investors about the CEO's alleged affair and the national security risks it posed."
+    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
+    "content": "Bitcoin Magazine Hyperscale Data (GPUS) Sells Its Last Bitcoin for AI Data Center, Months After Chasing $100 Million Treasury Hyperscale Data sold its remaining 211.56 bitcoin for about $16 million by Nov. 8, bringing sales since late July to about 1,113 BTC as it races to energize 10 MW of AI capacity in Michigan in December. This post Hyperscale Data (GPUS) Sells Its Last Bitcoin for AI Data Center, Months After Chasing $100 Million Treasury first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
   },
   {
-    "title": "Amundi Boosts Strategy (MSTR) Stake 44% to $291 Million as Shares Slide",
+    "title": "Onramp Launches Business Bitcoin Accounts With Two-Person Withdrawal Approvals as Wrench Attacks Climb",
     "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/news/amundi-boosts-strategy-mstr-stake-44",
-    "date": "Mon, 09 Nov 2026",
+    "url": "https://bitcoinmagazine.com/news/onramp-launches-business-bitcoin-accounts-approvals",
+    "date": "Tue, 10 Nov 2026",
     "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "Bitcoin Magazine Amundi Boosts Strategy (MSTR) Stake 44% to $291 Million as Shares Slide Europe's largest asset manager raised its Strategy holding to 1.9 million shares in the third quarter, a 13F shows, even as MSTR has since fallen about 18% from quarter-end. This post Amundi Boosts Strategy (MSTR) Stake 44% to $291 Million as Shares Slide first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
+    "content": "Bitcoin Magazine Onramp Launches Business Bitcoin Accounts With Two-Person Withdrawal Approvals as Wrench Attacks Climb The Austin firm rolled out a free company account with named users and second-person withdrawal approvals, plus a higher Treasury tier that splits keys across three institutions. This post Onramp Launches Business Bitcoin Accounts With Two-Person Withdrawal Approvals as Wrench Attacks Climb first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
   },
   {
-    "title": "Elizabeth Warren Plans Prediction Market Crackdown as She Prepares to Chair Senate Banking",
+    "title": "Bitcoin Price Trades Down Near $73,500 After Hot CPI Print Lifts Fed Hike Bets",
     "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/news/elizabeth-warren-prediction-crackdown",
-    "date": "Mon, 09 Nov 2026",
+    "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-73900-cpi",
+    "date": "Tue, 10 Nov 2026",
     "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "Bitcoin Magazine Elizabeth Warren Plans Prediction Market Crackdown as She Prepares to Chair Senate Banking A Warren banking aide says the incoming Senate Banking chair will target prediction markets' \"Wild West-style lack of oversight,\" after she and Sen. John Curtis pressed Kalshi and Polymarket on election trading. This post Elizabeth Warren Plans Prediction Market Crackdown as She Prepares to Chair Senate Banking first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
-  },
-  {
-    "title": "North Korea Is Minting Its Own Meme Coins to Launder Binance Hack Loot",
-    "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/news/north-korea-meme-coins-binance-hack",
-    "date": "Mon, 09 Nov 2026",
-    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "Bitcoin Magazine North Korea Is Minting Its Own Meme Coins to Launder Binance Hack Loot Elliptic says North Korean launderers created six throwaway meme tokens on NEAR between Nov. 5 and 7, moving about $430,000 of stolen Binance funds through homemade liquidity pools. This post North Korea Is Minting Its Own Meme Coins to Launder Binance Hack Loot first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
-  },
-  {
-    "title": "TD Cowen Gives Stablecoin Yield Ban 10% Odds as Banks Plan Push in Democrat-Led Congress",
-    "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/news/td-cowen-stablecoin-yield-ban-10-odds",
-    "date": "Mon, 09 Nov 2026",
-    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "Bitcoin Magazine TD Cowen Gives Stablecoin Yield Ban 10% Odds as Banks Plan Push in Democrat-Led Congress TD Cowen's Jaret Seiberg puts only a 10% chance on a congressional ban on platform stablecoin yield over the next two years, even as banks renew their push after Democratic midterm wins. This post TD Cowen Gives Stablecoin Yield Ban 10% Odds as Banks Plan Push in Democrat-Led Congress first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
-  },
-  {
-    "title": "BlackRock: Security Fears Are Driving Bitcoin Whales Into IBIT",
-    "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/news/blackrock-bitcoin-whales-self-custody-ibit",
-    "date": "Mon, 09 Nov 2026",
-    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "Bitcoin Magazine BlackRock: Security Fears Are Driving Bitcoin Whales Into IBIT BlackRock's Robbie Mitchnick told Barron's demand to swap directly held bitcoin for IBIT shares is at its highest yet, with \"security and peace of mind\" the top reason as kidnappings and hacks rise. This post BlackRock: Security Fears Are Driving Bitcoin Whales Into IBIT first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
+    "content": "Bitcoin Magazine Bitcoin Price Trades Down Near $73,500 After Hot CPI Print Lifts Fed Hike Bets Bitcoin price slipped to $73,500 Tuesday morning after October consumer prices rose 0.4%, topping forecasts and pushing traders toward a bigger Federal Reserve rate hike in December. This post Bitcoin Price Trades Down Near $73,500 After Hot CPI Print Lifts Fed Hike Bets first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
   }
 ]
