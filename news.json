@@ -1,5 +1,21 @@
 [
   {
+    "title": "Warren: What is White House doing to prevent a repeat of teleprompter's Trump bets?",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/policy/2026/11/10/warren-what-is-white-house-doing-to-prevent-a-repeat-of-teleprompter-s-trump-bets",
+    "date": "Tue, 10 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/0744d990d8ce75f33bcf36b051a9938919a56037-5491x3661.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "U.S. Senator Elizabeth Warren argued the administration is not doing enough about staff insider trading, questioning whether CFTC enforcement action was sufficient."
+  },
+  {
+    "title": "Former NYSE president says stock issuers hold the key to tokenization as Bullish builds its platform",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/business/2026/11/10/former-nyse-president-says-stock-issuers-hold-the-key-to-tokenization-as-bullish-builds-its-platform",
+    "date": "Tue, 10 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/dbf5a1c1e6dfbcebc39fe5f594dfd86eb883c3c0-3000x2000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "Stacey Cunningham, who recently joined digital asset platform Bullish as President, sees the company’s planned Equiniti acquisition and focus on stock issuers as key to its tokenization ambitions."
+  },
+  {
     "title": "Goldman Sachs, Citi among banks said to commit $270 million to stablecoin venture",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/business/2026/11/10/goldman-sachs-citi-among-banks-said-to-commit-usd270-million-to-stablecoin-venture",
@@ -24,20 +40,12 @@
     "content": "Kimber Digital Securities secured SEC and Finra approvals, a regulatory milestone paving the way for the delivery of legally binding claims, dividends, and yield-bearing products directly to self-custodial wallets and stablecoin applications in the U.S."
   },
   {
-    "title": "Will stablecoins survive once the banks catch up?",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/opinion/2026/11/10/will-stablecoins-survive-once-the-banks-catch-up",
+    "title": "Kimber Digital Securities gains broker-dealer status for tokenized assets",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/kimber-digital-securities-broker-dealer-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "date": "Tue, 10 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/041cb93d9a2c90ce28847a6b4c8f7283902171a9-5616x3744.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "As crypto firms and banks converge, it is fair to ask what lasting advantage stablecoins have, argues Alessandro Hatami, founder of Pacemakers and former COO of Digital Banking at Lloyds Banking Group."
-  },
-  {
-    "title": "U.S. CPI rose stronger than expected 0.4% in October; core rate rose 0.3%",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/markets/2026/11/10/u-s-cpi-rose-stronger-than-expected-0-4-in-october-core-rate-rose-0-3",
-    "date": "Tue, 10 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/51b1716c6a080eb7ea2f00c7c72ad06e2dc13cf7-1920x1040.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "A December rate hike appears completely assured, with Fed Governor Chris Waller suggesting even a 50-basis-point move could be appropriate."
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M73FG8EC57FA8HQ9HDV8619S/hi-what-are-pig-butchering-crypto-scams-and-how-to-combat-them.png",
+    "content": "The Plume affiliate plans to offer tokenized US stocks, ETFs and bonds through self-custodial wallets, with traditional shareholder rights preserved."
   },
   {
     "title": "Mercado Bitcoin to resume cash withdrawals after $49M hack",
@@ -72,12 +80,12 @@
     "content": "Bitcoin and US stocks initially fall after October inflation tops forecasts, with traders expecting a quarter-point Fed rate hike in December."
   },
   {
-    "title": "Poland’s lower house backs sanctions bill covering crypto freezes",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/poland-bill-freeze-sanctions-crypto-assets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Near AI Breach Exposes User Details and Data From 18 AI Agents",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/382965/near-ai-breach-exposes-user-details-data-ai-agents",
     "date": "Tue, 10 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M72PYD519ZQBWS31RRW4K0PX/edited-cointelegraph-illustration.png",
-    "content": "The bill is now before the Senate and would broaden the grounds for adding people and companies to Poland’s national sanctions list."
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Hacker-hack-decrypt-style-04-gID_7.jpg@png",
+    "content": "An SGLang flaw let an attacker reach internal systems and potentially view confidential AI requests, exposing the limits of hardware-backed privacy protections."
   },
   {
     "title": "Elon Musk Calls Claude Opus 5.5 a 'Masterpiece', Admits Grok 4.8 Won't Match It",
@@ -112,12 +120,12 @@
     "content": "Bitcoin fell below $74,000 after October inflation beat forecasts, increasing pressure on the Federal Reserve to raise rates again at its December meeting."
   },
   {
-    "title": "Solana's Jupiter Expands Beyond Trading With Token Baskets, Yield Vaults and New Portfolio",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/382836/solanas-jupiter-expands-beyond-trading-with-token-baskets-yield-vaults-and-new-portfolio",
+    "title": "Texas Rep. Files Bill Letting Cities Invest $10 Million in Bitcoin",
+    "source": "Bitcoin Magazine",
+    "url": "https://bitcoinmagazine.com/news/texas-bill-invest-10-million-bitcoin",
     "date": "Tue, 10 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-02-gID_7.png@png",
-    "content": "The trading platform, which says it has routed more than $1.3 trillion in trades, is launching four products ahead of Solana Breakpoint."
+    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
+    "content": "Bitcoin Magazine Texas Rep. Files Bill Letting Cities Invest $10 Million in Bitcoin Rep. Ron Reynolds filed House Bill 815 on Monday, allowing each Texas city or county to put up to $10 million of public money into bitcoin starting Sept. 1, 2027. This post Texas Rep. Files Bill Letting Cities Invest $10 Million in Bitcoin first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
   },
   {
     "title": "Poland’s Parliament Votes 240-202 to Let Officials Freeze Crypto Before Court Review",
@@ -150,13 +158,5 @@
     "date": "Tue, 10 Nov 2026",
     "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
     "content": "Bitcoin Magazine Miami-Dade County Now Accepts Bitcoin for Property Taxes Miami-Dade Tax Collector Dariel Fernandez said Monday his office now accepts bitcoin for property taxes online and in person, with every payment converted to dollars before it reaches the county. This post Miami-Dade County Now Accepts Bitcoin for Property Taxes first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
-  },
-  {
-    "title": "Trump Media (DJT) Pledges 73% of Its Bitcoin to an Options Program as $1 Billion Note Deadline Nears",
-    "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/news/trump-media-pledges-73-percent-bitcoin",
-    "date": "Tue, 10 Nov 2026",
-    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "Bitcoin Magazine Trump Media (DJT) Pledges 73% of Its Bitcoin to an Options Program as $1 Billion Note Deadline Nears Trump Media's Q3 10-Q shows 11,385 of its roughly 15,649 bitcoin pledged to an options program whose counterparty can reuse the coins, with nearly all the rest backing $1 billion of notes holders can put back Nov. 30. This post Trump Media (DJT) Pledges 73% of Its Bitcoin to an Options Program as $1 Billion Note Deadline Nears first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
   }
 ]
