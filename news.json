@@ -1,5 +1,29 @@
 [
   {
+    "title": "Bitcoin slips before U.S. inflation report as traders price in Fed rate increase",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-slips-before-u-s-inflation-report-as-traders-price-in-fed-rate-increase",
+    "date": "Tue, 10 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/fc32cdfe2379f454c7160b98435207e28877a3d9-4132x2324.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "Fed Governor Waller backs December tightening even if inflation cools, while falling oil prices offer some relief and Anthropic withdraws IPO pricing details."
+  },
+  {
+    "title": "Live news: Traders price in fed rate hike for December as bitcoin and gold retreat",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/11/10/live-news-traders-price-in-fed-rate-hike-for-december-as-bitcoin-and-gold-retreat",
+    "date": "Tue, 10 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b90a41b26ad053de8023339bd38828f2873dd116-1542x969.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "Markets price in a December Fed rate hike ahead of U.S. inflation data, while bitcoin and gold fall and oil retreats on easing Iran tensions."
+  },
+  {
+    "title": "The crypto wallet that grew up inside Telegram is striking out on its own",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/business/2026/11/10/the-crypto-wallet-that-grew-up-inside-telegram-is-striking-out-on-its-own",
+    "date": "Tue, 10 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/492d30746a239be60b7c8d223b589f4b563d4cda-1920x1280.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "The app will offer crypto trading, tokenized U.S. stocks and ETFs, and perpetual futures, all already available through Telegram."
+  },
+  {
     "title": "Coinbase, Kalshi, Kraken parent back CFTC in legal fight over stock perpetual futures",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/policy/2026/11/10/coinbase-kalshi-kraken-parent-back-cftc-in-legal-fight-over-stock-perpetual-futures",
@@ -16,28 +40,12 @@
     "content": "Bots spotted a wallet from Ethereum’s 2015 launch the moment it stirred and planted lookalike addresses in its history, but the owner sent the money to the right place anyway."
   },
   {
-    "title": "Bitcoin miner MARA sold 13,597 BTC for $1.1 billion in six weeks, plans to sell more",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-miner-mara-sold-13-597-btc-for-usd1-1-billion-in-six-weeks-plans-to-sell-more",
+    "title": "Bitcoin price eyes $74K as Fed rate-hike bets hit 96% after Waller speech",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/markets/bitcoin-price-eyes-74k-fed-rate-hike-expected-after-waller-speech?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "date": "Tue, 10 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5a1c20851ae32daabe4820e89ae7049b9efddc85-1000x563.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "MARA paid off every loan backed by its bitcoin and says the rest of its coins can fund AI datacenters."
-  },
-  {
-    "title": "XRP Ledger maps out quantum-proof accounts, with no extra fees for users",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/tech/2026/11/10/xrp-ledger-maps-out-quantum-proof-accounts-with-no-extra-fees-for-users",
-    "date": "Tue, 10 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/af945cfdd3152f9ebc96d44f89ccafea550ccb57-5760x3840.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "The XRP Ledger Foundation’s design lets owners add a quantum-resistant key and switch off the old one, part of a roadmap that puts the network on track for a full transition by 2028."
-  },
-  {
-    "title": "Bitcoin faces U.S. CPI test as analysts warn inflation relief may not be enough",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/markets/2026/11/10/bitcoin-faces-u-s-cpi-test-as-analysts-warn-inflation-relief-may-not-be-enough",
-    "date": "Tue, 10 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b5c969ee70de7444f1035edf7701cc88d16ae253-3000x2001.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "Bitcoin trades below $75,000 ahead of the October inflation data. Analysts warning that sustainable recovery depends on improving liquidity and spot ETF demand rather than temporary macro relief."
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M72E53YB00WRJ8DEC2G296HR/article-covers-210628-fed-governor-tells-peers-defi-isnt-scary-960x640.webp",
+    "content": "Bitcoin price action and stock futures trended lower after Fed governor Christopher Waller said that he would vote to raise interest rates by 0.25% at the December FOMC meeting."
   },
   {
     "title": "BitGo Q3 profit nearly doubles on crypto gains as revenue falls 51%",
@@ -72,12 +80,12 @@
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
   },
   {
-    "title": "Crypto exchanges need hard dollar caps on hot wallets, CertiK says",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/crypto-exchanges-need-dollar-caps-on-hot-wallets-certik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "'Tough Questions' Ahead: Warren Targets Prediction Markets, Trump Crypto as Banking Chair",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/382910/tough-questions-ahead-warren-targets-prediction-markets-trump-crypto-as-banking-chair",
     "date": "Tue, 10 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M71XK0AKCR5VV61ST5J6AGKW/cold-wallet-1.jpg",
-    "content": "“Cold storage is a useful measure of online exposure, but it is not a standalone security score,” the cybersecurity firm told Cointelegraph."
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/senator-elizabeth-warren-decrypt-style-02-gID_7.jpg@png",
+    "content": "An aide said Trump family crypto businesses should \"preserve their documents\" as Warren prepares to take over the Senate Banking Committee."
   },
   {
     "title": "Anthropic's Claude Fable 5.2 and Mythos 5.0 Are Impressive, But Be Prepared to Sell a Kidney to Afford Them",
@@ -110,14 +118,6 @@
     "date": "Mon, 09 Nov 2026",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/dprk-north-korea-hacker-decrypt-style-gID_7.jpg@png",
     "content": "Elliptic says the hackers are minting their own worthless tokens—complete with cartoon animal and Elon Musk logos—and routing stolen funds through liquidity pools to break the trail."
-  },
-  {
-    "title": "Bitcoin in Limbo as Stocks Rebound Ahead of US Inflation Report",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/382861/bitcoin-limbo-stocks-rebound-us-inflation",
-    "date": "Mon, 09 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/bitcoin-down-crash-decrypt-style-1-gID_7.jpg@png",
-    "content": "U.S. stocks rallied as oil fell, but Bitcoin hovered near $75,000 after a wave of liquidations, with Tuesday’s inflation report set to test bets on a December Fed rate hike."
   },
   {
     "title": "Amundi Boosts Strategy (MSTR) Stake 44% to $291 Million as Shares Slide",
