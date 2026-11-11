@@ -1,5 +1,21 @@
 [
   {
+    "title": "Live news: CoreWeave jumps 14% as earnings fuel rebound across battered AI stocks",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/tech/2026/11/11/live-news-coreweave-jumps-14-as-earnings-fuel-rebound-across-battered-ai-stocks",
+    "date": "Wed, 11 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e1c6b75a8b74bc87b66e15947b85122a0ef80c34-960x640.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "The DRAM ETF jumps 8% and semiconductor stocks gain more than 4%, while bitcoin edges higher after testing its 200-day moving average."
+  },
+  {
+    "title": "Bitcoin barely flinches at hot CPI as ETF selling slows",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/daybook-us/2026/11/11/bitcoin-barely-flinches-at-hot-cpi-as-etf-selling-slows",
+    "date": "Wed, 11 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e3f18a716f3852d35d7aadc9c4c60f1ee22fd9ce-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "Your day-ahead look for Nov. 11, 2026"
+  },
+  {
     "title": "Bitcoin sits out stock rebound as ETF outflows extend to fourth day",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/markets/2026/11/11/bitcoin-sits-out-stock-rebound-as-etf-outflows-extend-to-fourth-day",
@@ -24,20 +40,28 @@
     "content": "CoreWeave’s revenue surge lifted AI infrastructure stocks and Nasdaq futures, while bitcoin was little changed over 24 hours."
   },
   {
-    "title": "Warren: What is White House doing to prevent a repeat of teleprompter's Trump bets?",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/policy/2026/11/10/warren-what-is-white-house-doing-to-prevent-a-repeat-of-teleprompter-s-trump-bets",
-    "date": "Tue, 10 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/0744d990d8ce75f33bcf36b051a9938919a56037-5491x3661.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "U.S. Senator Elizabeth Warren argued the administration is not doing enough about staff insider trading, questioning whether CFTC enforcement action was sufficient."
+    "title": "FSB urgest Turkey to tighten crypto oversight, set stablecoin rules",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/fsb-turkey-crypto-oversight-stablecoin-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "Wed, 11 Nov 2026",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7578X1R0G4ARNS1V00H1SJF/regulation-office-document-paper-turkey.jpg",
+    "content": "The Financial Stability Board cited progress on crypto licensing and urged stronger enforcement and cooperation with foreign regulators."
   },
   {
-    "title": "Former NYSE president says stock issuers hold the key to tokenization as Bullish builds its platform",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/business/2026/11/10/former-nyse-president-says-stock-issuers-hold-the-key-to-tokenization-as-bullish-builds-its-platform",
-    "date": "Tue, 10 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/dbf5a1c1e6dfbcebc39fe5f594dfd86eb883c3c0-3000x2000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "Stacey Cunningham, who recently joined digital asset platform Bullish as President, sees the company’s planned Equiniti acquisition and focus on stock issuers as key to its tokenization ambitions."
+    "title": "Zcash falls below $1,000 for first time since September",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/markets/zcash-falls-1k-grayscales-1m-ecosystem-commitment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "Wed, 11 Nov 2026",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2T25M0MFG1XWDPQYKESEV30/hi-why-zec-fell-40-even-after-zcash-patched-a-shielded-pool-bug.jpg",
+    "content": "Zcash fell nearly 15% amid a broader sell-off in privacy coins, a day after Grayscale pledged $1 million to ecosystem initiatives."
+  },
+  {
+    "title": "Barclays boosts BlackRock Bitcoin ETF stake 48% as banks expand holdings",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/barclays-blackrock-ibit-boost-key-q3-filings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "Wed, 11 Nov 2026",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M750XDAB96KNY5BNHMGJV4GV/2222222-1.png",
+    "content": "Barclays reported a $187 million stake as of Sept. 30, while Citigroup disclosed a new $119 million position in Fidelity’s Bitcoin ETF."
   },
   {
     "title": "Kraken parent adds over 200 tokenized UK and EU stocks to xStocks",
@@ -56,28 +80,28 @@
     "content": "Bitcoin fell to an 11-week low of $72,670 after slipping below short-term holders’ average cost basis of about $75,700, according to CryptoQuant."
   },
   {
-    "title": "Bitget Wallet reports sevenfold jump in crypto phishing risk alerts",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/bitget-wallet-crypto-phishing-risk-detections-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Morning Minute: What Anthropic’s $1.4 Trillion IPO Means for Crypto",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/383001/morning-minute-what-anthropics-1-4-trillion-ipo-means-for-crypto",
     "date": "Wed, 11 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M74XJ4WMC2Y8989W9ZMJ1S56/hi-how-to-use-bitget-to-buy-and-sell-crypto.jpg",
-    "content": "The wallet flagged about 37,000 signing requests a week for phishing in Q3 and said better monitoring likely contributed to the increase."
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-anthropic-dario-amodei-gID_7.png@png",
+    "content": "Hint: if it plays out similarly to the SpaceX IPO, it means the Bitcoin bottom is very close."
   },
   {
-    "title": "Bitmine posts $6.3B net loss for fiscal 2026 as Ether prices slide",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/bitmine-6b-net-loss-eth-treasury-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Kraken Parent Payward Brings 200 UK and EU Stocks Onchain as xStocks",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/383000/kraken-parent-payward-brings-200-uk-and-eu-stocks-onchain-as-xstocks",
     "date": "Wed, 11 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M74Y3ZPHA7Y94N8HTNM4RMEM/eth-bitmine-2.jpg",
-    "content": "Bitmine booked $6.2 billion in unrealized losses on digital assets. It held 6.07 million ETH on Sunday, or 4.97% of Ether’s supply."
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-01-gID_7.png@png",
+    "content": "The expansion takes xStocks past 1,500 tokenized assets, though the new UK tokens still can't be bought by investors in the UK."
   },
   {
-    "title": "ECB warns legislative delays could postpone digital euro launch",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/ecb-warns-legislative-delays-digital-euro-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Nvidia Sheds $430B in Two Days as Jensen Huang Faces Calls to Resign",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/382991/nvidia-sheds-430b-in-two-days-as-jensen-huang-faces-calls-to-resign",
     "date": "Wed, 11 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M74SWF2QW66F7C324VAAGKYJ/hi-european-union-moves-to-regulate-crypto-asset-market2-1.jpg",
-    "content": "ECB Executive Board member Piero Cipollone warned EU lawmakers that delays in finalizing digital euro legislation could push back its potential 2029 rollout."
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/jensen-huang-nvidia-decrypt-style-03-e1794217137922-gID_7.jpg@png",
+    "content": "Nvidia's independent directors have hired Wachtell Lipton to investigate its CEO's ties to an alleged Chinese spy, as pressure mounts."
   },
   {
     "title": "Avalanche Won Over the NYSE. Now It Has to ‘Capture Value’ for AVAX",
@@ -94,30 +118,6 @@
     "date": "Wed, 11 Nov 2026",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Jail-cell-2-gID_7.png@png",
     "content": "Robert Barr planned to have accomplices force a crypto investor to install remote-access software so he could drain the wallet from prison."
-  },
-  {
-    "title": "Bitcoin Miner HIVE Eyes $45 Million in Annual Revenue From AI Deal",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/382982/bitcoin-miner-hive-eyes-45-million-ai-data-center",
-    "date": "Tue, 10 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/bitcoin-mining-decrypt-style-03-gID_7.png@png",
-    "content": "The Bitcoin miner says its Boden facility could generate $45 million annually, but a June letter of intent remains nonbinding as executives negotiate financing and customer protections for the project."
-  },
-  {
-    "title": "Trump Media Posts $410 Million Profit. Bitcoin Gains Did the Heavy Lifting",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/382967/trump-media-posts-410-million-profit-bitcoin-gains",
-    "date": "Tue, 10 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/donald-trump-bitcoin-statue2-gID_7.jpeg@png",
-    "content": "Truth Social’s parent booked $409.7 million in quarterly income largely from crypto investments, even as its stock remained more than 94% below its March 2024 peak."
-  },
-  {
-    "title": "Nvidia Erases 2026 Gains as Republicans Threaten Jensen Huang With Subpoena",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/382974/nvidia-erases-2026-gains-republicans-threaten-ceo-subpoena",
-    "date": "Tue, 10 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/nvidia-logo-decrypt-style-02-gID_7.png@png",
-    "content": "The chipmaker has erased its 2026 gains as a suspected Chinese espionage case brings fresh scrutiny of CEO Jensen Huang."
   },
   {
     "title": "Bitcoin Heated Hot Tubs and 278 Washington Bitcoin Merchants : Now Accepting Bitcoin",
