@@ -1,11 +1,27 @@
 [
   {
-    "title": "Live news: CoreWeave jumps 14% as earnings fuel rebound across battered AI stocks",
+    "title": "OKXICE to debut tokenized stock trading with Strategy, Coinbase, Circle this month",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/business/2026/11/10/okxice-to-debut-tokenized-stock-trading-with-strategy-coinbase-circle-this-month",
+    "date": "Wed, 11 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/5edaabfa8b7541835109ec0ac755c451f9b8f2c4-2760x1518.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "After initial issuer pushback, the blockchain venue is set to start trading on Nov. 23 and said will list over 70 assets, including Strategy’s common and preferred shares and 59 of Direxion's ETFs."
+  },
+  {
+    "title": "Meet Spiko, the largest tokenized fund in the world you’ve probably never heard about",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/business/2026/11/11/meet-spiko-the-largest-tokenized-fund-in-the-world-you-ve-probably-never-heard-about",
+    "date": "Wed, 11 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b0389aa1104b7ab4b6ec57687b8eaf3039d9ce76-2048x1365.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "The firm’s flagship Spiko Amundi Overnight Swap Fund (SAFO) held $2.39 billion in assets under management as of late last month."
+  },
+  {
+    "title": "Live news: Bitcoin remains under pressure as CoreWeave, Nvidia lead AI rebound",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/tech/2026/11/11/live-news-coreweave-jumps-14-as-earnings-fuel-rebound-across-battered-ai-stocks",
     "date": "Wed, 11 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e1c6b75a8b74bc87b66e15947b85122a0ef80c34-960x640.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "The DRAM ETF jumps 8% and semiconductor stocks gain more than 4%, while bitcoin edges higher after testing its 200-day moving average."
+    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
+    "content": "The DRAM ETF jumps 8% and semiconductor stocks gain more than 4%, while bitcoin continues to test its 200-day moving average."
   },
   {
     "title": "Bitcoin barely flinches at hot CPI as ETF selling slows",
@@ -24,20 +40,36 @@
     "content": "Bitcoin held steady near $74,000 as Tuesday's hot inflation figure lifted the odds on a U.S. interest-rate increase to around 90%. ETF outflows extended to a fourth day and liquidations jumped."
   },
   {
-    "title": " Kraken's xStocks adds 200 UK and EU shares as its assets top $1.1 billion",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/business/2026/11/11/kraken-s-xstocks-adds-200-uk-and-eu-shares-as-its-assets-top-usd1-1-billion",
+    "title": "Here’s what happened in crypto today",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "date": "Wed, 11 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b2b575e5fb400b044ebb5d3c2d88d2a80846eafb-1920x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "Payward says xStocks holds over $1.1 billion. Each token is backed by a share but gives no ownership of the underlying company."
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
   },
   {
-    "title": "Bitcoin holds steady as CoreWeave earnings revive AI outlook, Anthropic said to raise IPO valuation",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/markets/2026/11/11/coreweave-earnings-revive-ai-outlook-as-anthropic-weighs-higher-ipo-valuation",
+    "title": "Paraguay bank collapse shows stablecoins can offer a lifeline... of sorts",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/magazine/paraguay-bank-collapse-shows-stablecoins-can-offer-a-lifeline-of-sorts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "date": "Wed, 11 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/bd1667e953628c574961cbe60899f8830ed88385-6000x3375.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "CoreWeave’s revenue surge lifted AI infrastructure stocks and Nasdaq futures, while bitcoin was little changed over 24 hours."
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M72P50QB7YYQYFYB7ABTSVZ2/magazineai-banking-the-unbanked-in-africa-1.png",
+    "content": "Ueno’s collapse exposed the fragility of digital banking in Paraguay, as customers scrambled for access to their money and stablecoins offered a lifeline."
+  },
+  {
+    "title": "Bitcoin Covenants Part 5: MATT and OP_CHECKCONTRACTVERIFY — How Bitcoin could carry state across transactions",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/research/bitcoin-covenants-part-5-matt-op-ccv?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "Wed, 11 Nov 2026",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5YMN410HHB04XQCTHZ2P4NF/crypto-bitcoin-storage.jpg",
+    "content": "OP_CCV embeds contract state directly into Taproot output keys and enforces valid state transitions onchain. This makes it possible to achieve stateful contracts and compact fraud proofs."
+  },
+  {
+    "title": "CoreWeave stock jumps 15% premarket after Q3 revenue beats estimates",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/markets/coreweave-stock-surges-pre-market-q3-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "Wed, 11 Nov 2026",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7572VRXC31WERWWDCXZ6ZM2/hi-how-wall-street-is-using-ethereum-without-talking-about-ethereum-1.jpg",
+    "content": "CoreWeave’s third-quarter revenue rose 168% to $3.66 billion, beating analyst estimates by 3.4%. Its revenue backlog reached $132.5 billion."
   },
   {
     "title": "FSB urgest Turkey to tighten crypto oversight, set stablecoin rules",
@@ -48,36 +80,12 @@
     "content": "The Financial Stability Board cited progress on crypto licensing and urged stronger enforcement and cooperation with foreign regulators."
   },
   {
-    "title": "Zcash falls below $1,000 for first time since September",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/markets/zcash-falls-1k-grayscales-1m-ecosystem-commitment?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Decrypt Becomes First News Publisher to Offer Perps Trading, Powered by Solana's Phoenix",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/382992/decrypt-becomes-first-news-publisher-to-offer-perps-trading-powered-by-solanas-phoenix",
     "date": "Wed, 11 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2T25M0MFG1XWDPQYKESEV30/hi-why-zec-fell-40-even-after-zcash-patched-a-shielded-pool-bug.jpg",
-    "content": "Zcash fell nearly 15% amid a broader sell-off in privacy coins, a day after Grayscale pledged $1 million to ecosystem initiatives."
-  },
-  {
-    "title": "Barclays boosts BlackRock Bitcoin ETF stake 48% as banks expand holdings",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/barclays-blackrock-ibit-boost-key-q3-filings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "date": "Wed, 11 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M750XDAB96KNY5BNHMGJV4GV/2222222-1.png",
-    "content": "Barclays reported a $187 million stake as of Sept. 30, while Citigroup disclosed a new $119 million position in Fidelity’s Bitcoin ETF."
-  },
-  {
-    "title": "Kraken parent adds over 200 tokenized UK and EU stocks to xStocks",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/kraken-xstocks-200-tokenized-uk-eu-equities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "date": "Wed, 11 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M754161WFNVA9S5R4FHHT1TZ/hi-cryptocurrency-vs-stocks-breaking-news.jpg",
-    "content": "The expansion adds more than 200 tokenized UK and EU equities, including all 40 companies in Germany’s DAX index, as xStocks plans further expansion into Hong Kong."
-  },
-  {
-    "title": "Bitcoin short-term holders send 47K BTC to exchanges at a loss",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/markets/bitcoin-speculators-btc-exchanges-unrealized-loss-727k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "date": "Wed, 11 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4FX2DFZ8H6KSQP3M3F615T4/article-covers-246541-three-signs-bitcoin-price-near-full-capitulation-960x640.webp",
-    "content": "Bitcoin fell to an 11-week low of $72,670 after slipping below short-term holders’ average cost basis of about $75,700, according to CryptoQuant."
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/phoenix-gID_7.png@png",
+    "content": "The integration brings perpetual futures trading into Decrypt, so readers can trade crypto, stocks and commodities without leaving the news."
   },
   {
     "title": "Morning Minute: What Anthropic’s $1.4 Trillion IPO Means for Crypto",
@@ -110,14 +118,6 @@
     "date": "Wed, 11 Nov 2026",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-avalanche-coins-gID_7.png@png",
     "content": "The New York Stock Exchange will use Avalanche infrastructure, but experts say that won't necessarily boost AVAX's price."
-  },
-  {
-    "title": "Prisoner Jailed for 8 Years Over $2.7M Crypto Theft Plot Run From His Cell",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/382984/prisoner-jailed-for-8-years-over-2-7m-crypto-theft-plot-run-from-his-cell",
-    "date": "Wed, 11 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Jail-cell-2-gID_7.png@png",
-    "content": "Robert Barr planned to have accomplices force a crypto investor to install remote-access software so he could drain the wallet from prison."
   },
   {
     "title": "Bitcoin Heated Hot Tubs and 278 Washington Bitcoin Merchants : Now Accepting Bitcoin",
