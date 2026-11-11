@@ -40,6 +40,14 @@
     "content": "Your day-ahead look for Nov. 11, 2026"
   },
   {
+    "title": "OKXICE moves ahead with tokenized stocks as blue chips push back",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/okxice-tokenized-stocks-blue-chips-push-back?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "Wed, 11 Nov 2026",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M75S911M6Z2QY1MHSS3BEKGB/hi-how-binance-plans-to-bring-tokenized-us-stocks-5.png",
+    "content": "The Nov. 23 debut puts a new SEC exemption to the test as Nasdaq pursues its own tokenized stock plans after warning that trading across platforms could fragment liquidity."
+  },
+  {
     "title": "Bitcoin hovers near $74K as stocks rise despite US bond yield rebound",
     "source": "CoinTelegraph",
     "url": "https://cointelegraph.com/markets/bitcoin-74k-stocks-us-bond-yield-inflation-cpi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -72,12 +80,12 @@
     "content": "Ueno’s collapse exposed the fragility of digital banking in Paraguay, as customers scrambled for access to their money and stablecoins offered a lifeline."
   },
   {
-    "title": "Bitcoin Covenants Part 5: MATT and OP_CHECKCONTRACTVERIFY — How Bitcoin could carry state across transactions",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/research/bitcoin-covenants-part-5-matt-op-ccv?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Bitcoin Faces First Back-to-Back Annual Losses in History, But There's a Catch",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/383049/bitcoin-first-back-to-back-annual-losses-history",
     "date": "Wed, 11 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5YMN410HHB04XQCTHZ2P4NF/crypto-bitcoin-storage.jpg",
-    "content": "OP_CCV embeds contract state directly into Taproot output keys and enforces valid state transitions onchain. This makes it possible to achieve stateful contracts and compact fraud proofs."
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Bitcoin-mountain-decrypt-style-gID_7.png@png",
+    "content": "Bitcoin is heading toward its first consecutive losing years, breaking an 18-year pattern. But there's some nuance in the data."
   },
   {
     "title": "What Are Solana Privacy Rings? Inside Helius’ Privacy Protocol for Solana",
@@ -112,12 +120,12 @@
     "content": "The integration brings perpetual futures trading into Decrypt, so readers can trade crypto, stocks and commodities without leaving the news."
   },
   {
-    "title": "Morning Minute: What Anthropic’s $1.4 Trillion IPO Means for Crypto",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/383001/morning-minute-what-anthropics-1-4-trillion-ipo-means-for-crypto",
+    "title": "Sam Lyman: “Bitcoin doesn’t need America. America needs Bitcoin.”",
+    "source": "Bitcoin Magazine",
+    "url": "https://bitcoinmagazine.com/videos/sam-lyman-bitcoin-doesnt-need-america-america-needs-bitcoin",
     "date": "Wed, 11 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-anthropic-dario-amodei-gID_7.png@png",
-    "content": "Hint: if it plays out similarly to the SpaceX IPO, it means the Bitcoin bottom is very close."
+    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
+    "content": "&#9654; Bitcoin Magazine Sam Lyman: &#8220;Bitcoin doesn&#8217;t need America. America needs Bitcoin.&#8221; Dollar stablecoins, Sam Lyman says, are \"like Starlink for the US dollar system\": if you have an internet connection, you can access the dollar. This post Sam Lyman: &#8220;Bitcoin doesn&#8217;t need America. America needs Bitcoin.&#8221; first appeared on Bitcoin Magazine and is written by Patrick Green ."
   },
   {
     "title": "MSCI Rules Today on Cutting Strategy (MSTR) From Its Indexes After a Draft List Marks It Deleted",
@@ -150,13 +158,5 @@
     "date": "Wed, 11 Nov 2026",
     "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
     "content": "Bitcoin Magazine Deutsche Bank Switches On Bitcoin Custody for Paying Clients Germany's largest lender now holds bitcoin, ether and three stablecoins for institutional and corporate clients in Europe, but it has not named any customers or disclosed fees. This post Deutsche Bank Switches On Bitcoin Custody for Paying Clients first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
-  },
-  {
-    "title": "Bitcoin Heated Hot Tubs and 278 Washington Bitcoin Merchants : Now Accepting Bitcoin",
-    "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/news/washington-bitcoin-merchants-snorkel",
-    "date": "Tue, 10 Nov 2026",
-    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "Bitcoin Magazine Bitcoin Heated Hot Tubs and 278 Washington Bitcoin Merchants : Now Accepting Bitcoin Washington Bitcoin merchants, from Seattle coffee shops to a Snorkel hot tub heated by bitcoin miners. This post Bitcoin Heated Hot Tubs and 278 Washington Bitcoin Merchants : Now Accepting Bitcoin first appeared on Bitcoin Magazine and is written by Vagabond ."
   }
 ]
