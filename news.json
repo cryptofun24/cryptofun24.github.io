@@ -1,5 +1,13 @@
 [
   {
+    "title": "Crypto Long & Short: The GENIUS Act’s guarantees don’t cover DeFi lending",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/coindesk-indices/2026/11/11/crypto-long-and-short-the-genius-act-s-guarantees-don-t-cover-defi-lending",
+    "date": "Wed, 11 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b997b6fce8b36ab68140a325baf99f71a6118eec-1280x853.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "Institutions weighing DeFi lending tend to ask which markets are safest. Mike Hathaway and Joseph Quintilian of Ajna argue the better question is who can change a loan’s terms after the money is lent, and why a fully backed stablecoin offers no protection against a token vote or a faulty price feed."
+  },
+  {
     "title": "OKXICE to debut tokenized stock trading with Strategy, Coinbase, Circle this month",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/business/2026/11/10/okxice-to-debut-tokenized-stock-trading-with-strategy-coinbase-circle-this-month",
@@ -32,12 +40,12 @@
     "content": "Your day-ahead look for Nov. 11, 2026"
   },
   {
-    "title": "Bitcoin sits out stock rebound as ETF outflows extend to fourth day",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/markets/2026/11/11/bitcoin-sits-out-stock-rebound-as-etf-outflows-extend-to-fourth-day",
+    "title": "Bitcoin hovers near $74K as stocks rise despite US bond yield rebound",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/markets/bitcoin-74k-stocks-us-bond-yield-inflation-cpi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "date": "Wed, 11 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/18a4296c3a7993f330aba5083aa4a1bbe33d88df-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "Bitcoin held steady near $74,000 as Tuesday's hot inflation figure lifted the odds on a U.S. interest-rate increase to around 90%. ETF outflows extended to a fourth day and liquidations jumped."
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M75N52D7VC58F2MJTGJCRMV1/bungee-jumping-bitcoin-1-960x640.webp",
+    "content": "Bitcoin traded in a narrow range as investors bought the dip in tech stocks and US bond yields climbed on high CPI inflation data."
   },
   {
     "title": "Deutsche Bank launches crypto custody for companies and institutions",
@@ -72,12 +80,12 @@
     "content": "OP_CCV embeds contract state directly into Taproot output keys and enforces valid state transitions onchain. This makes it possible to achieve stateful contracts and compact fraud proofs."
   },
   {
-    "title": "CoreWeave stock jumps 15% premarket after Q3 revenue beats estimates",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/markets/coreweave-stock-surges-pre-market-q3-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "OKX-ICE Tokenized Stock Venue Sets Launch, Turning to Crypto Companies After Big Tech Opts Out",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/383040/okx-ice-tokenized-stock-venue-sets-launch-crypto-companies-big-tech-opts-out",
     "date": "Wed, 11 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7572VRXC31WERWWDCXZ6ZM2/hi-how-wall-street-is-using-ethereum-without-talking-about-ethereum-1.jpg",
-    "content": "CoreWeave’s third-quarter revenue rose 168% to $3.66 billion, beating analyst estimates by 3.4%. Its revenue backlog reached $132.5 billion."
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_red-gID_7.png@png",
+    "content": "OKXICE will open its tokenized securities venue Nov. 23 with more than 70 assets, led by crypto companies like Coinbase, Circle, Robinhood and Strategy, after 67 companies objected to having their shares listed."
   },
   {
     "title": "Decrypt Becomes First News Publisher to Offer Perps Trading, Powered by Solana's Phoenix",
@@ -112,12 +120,20 @@
     "content": "Nvidia's independent directors have hired Wachtell Lipton to investigate its CEO's ties to an alleged Chinese spy, as pressure mounts."
   },
   {
-    "title": "Avalanche Won Over the NYSE. Now It Has to ‘Capture Value’ for AVAX",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/382988/avalanche-won-over-the-nyse-now-it-has-to-capture-value-for-avax",
+    "title": "Russia’s Central Bank Clears Exchange to Open Bitcoin and Crypto Trading on Nov. 22",
+    "source": "Bitcoin Magazine",
+    "url": "https://bitcoinmagazine.com/news/russia-clears-exchange-crypto-trading",
     "date": "Wed, 11 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-avalanche-coins-gID_7.png@png",
-    "content": "The New York Stock Exchange will use Avalanche infrastructure, but experts say that won't necessarily boost AVAX's price."
+    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
+    "content": "Bitcoin Magazine Russia&#8217;s Central Bank Clears Exchange to Open Bitcoin and Crypto Trading on Nov. 22 A Bank of Russia ordinance published Wednesday lets exchanges start organized crypto trading on Nov. 22, but only after the central bank approves their rules. Moscow Exchange still aims for Dec. 1. This post Russia&#8217;s Central Bank Clears Exchange to Open Bitcoin and Crypto Trading on Nov. 22 first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
+  },
+  {
+    "title": "ICE and OKX Set Nov. 23 Tokenized Stock Launch After 67 Companies Opt Out",
+    "source": "Bitcoin Magazine",
+    "url": "https://bitcoinmagazine.com/news/ice-okx-nov-23-tokenized-stock-launch",
+    "date": "Wed, 11 Nov 2026",
+    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
+    "content": "Bitcoin Magazine ICE and OKX Set Nov. 23 Tokenized Stock Launch After 67 Companies Opt Out The joint venture will offer more than 70 assets, including tokenized shares of Strategy, Coinbase and Circle plus 59 Direxion ETFs, even after Tesla, Apple, Meta and Netflix objected. This post ICE and OKX Set Nov. 23 Tokenized Stock Launch After 67 Companies Opt Out first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
   },
   {
     "title": "Deutsche Bank Switches On Bitcoin Custody for Paying Clients",
@@ -142,21 +158,5 @@
     "date": "Tue, 10 Nov 2026",
     "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
     "content": "Bitcoin Magazine LNbits Releases 1.7.0 Urgent Security Update After November 8 Attacks Drain Funds LNbits released version 1.7.0 on November 10 as an urgent security update following active attacks that began November 8. Operators must upgrade before restarting servers as prior versions put funds at risk of theft. This post LNbits Releases 1.7.0 Urgent Security Update After November 8 Attacks Drain Funds first appeared on Bitcoin Magazine and is written by Juan Galt ."
-  },
-  {
-    "title": "Texas Rep. Files Bill Letting Cities Invest $10 Million in Bitcoin",
-    "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/news/texas-bill-invest-10-million-bitcoin",
-    "date": "Tue, 10 Nov 2026",
-    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "Bitcoin Magazine Texas Rep. Files Bill Letting Cities Invest $10 Million in Bitcoin Rep. Ron Reynolds filed House Bill 815 on Monday, allowing each Texas city or county to put up to $10 million of public money into bitcoin starting Sept. 1, 2027. This post Texas Rep. Files Bill Letting Cities Invest $10 Million in Bitcoin first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
-  },
-  {
-    "title": "Poland’s Parliament Votes 240-202 to Let Officials Freeze Crypto Before Court Review",
-    "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/news/poland-votes-240-202-freeze-crypto",
-    "date": "Tue, 10 Nov 2026",
-    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "Bitcoin Magazine Poland&#8217;s Parliament Votes 240-202 to Let Officials Freeze Crypto Before Court Review Poland's Sejm passed a sanctions bill Friday that lets the interior minister freeze bitcoin and bank funds of people on a national list, and a court appeal would not pause the freeze. This post Poland&#8217;s Parliament Votes 240-202 to Let Officials Freeze Crypto Before Court Review first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
   }
 ]
