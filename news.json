@@ -1,5 +1,13 @@
 [
   {
+    "title": "Bitcoin holds steady as CoreWeave earnings revive AI outlook, Anthropic said to raise IPO valuation",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/11/11/coreweave-earnings-revive-ai-outlook-as-anthropic-weighs-higher-ipo-valuation",
+    "date": "Wed, 11 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/bd1667e953628c574961cbe60899f8830ed88385-6000x3375.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "CoreWeave’s revenue surge lifted AI infrastructure stocks and Nasdaq futures, while bitcoin was little changed over 24 hours."
+  },
+  {
     "title": "Warren: What is White House doing to prevent a repeat of teleprompter's Trump bets?",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/policy/2026/11/10/warren-what-is-white-house-doing-to-prevent-a-repeat-of-teleprompter-s-trump-bets",
@@ -32,12 +40,20 @@
     "content": "Twice now, crypto firms have found themselves on the side of the U.S. Commodity Futures Trading Commission in holding that perpetual futures aren't swaps."
   },
   {
-    "title": "Plume affiliate lands broker-dealer license to bring real U.S. assets onchain",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/markets/2026/11/10/emb-10-am-et-plume-affiliate-gets-the-legal-green-light-to-trade-regulated-security-entitlements-onchain",
-    "date": "Tue, 10 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f6497c7ce4873e1f9565bdd49a38420ecf57be85-1500x881.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "Kimber Digital Securities secured SEC and Finra approvals, a regulatory milestone paving the way for the delivery of legally binding claims, dividends, and yield-bearing products directly to self-custodial wallets and stablecoin applications in the U.S."
+    "title": "Bitget Wallet reports sevenfold jump in crypto phishing risk alerts",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/bitget-wallet-crypto-phishing-risk-detections-surge?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "Wed, 11 Nov 2026",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M74XJ4WMC2Y8989W9ZMJ1S56/hi-how-to-use-bitget-to-buy-and-sell-crypto.jpg",
+    "content": "The wallet flagged about 37,000 signing requests a week for phishing in Q3 and said better monitoring likely contributed to the increase."
+  },
+  {
+    "title": "Bitmine posts $6.3B net loss for fiscal 2026 as Ether prices slide",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/bitmine-6b-net-loss-eth-treasury-holdings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "Wed, 11 Nov 2026",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M74Y3ZPHA7Y94N8HTNM4RMEM/eth-bitmine-2.jpg",
+    "content": "Bitmine booked $6.2 billion in unrealized losses on digital assets. It held 6.07 million ETH on Sunday, or 4.97% of Ether’s supply."
   },
   {
     "title": "ECB warns legislative delays could postpone digital euro launch",
@@ -64,20 +80,12 @@
     "content": "The SEC filed 348 actions in fiscal 2026, down from 456 a year earlier. Cases included alleged Bitcoin mining fraud and an FTX audit settlement."
   },
   {
-    "title": "Here’s what happened in crypto today",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Prisoner Jailed for 8 Years Over $2.7M Crypto Theft Plot Run From His Cell",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/382984/prisoner-jailed-for-8-years-over-2-7m-crypto-theft-plot-run-from-his-cell",
     "date": "Wed, 11 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-    "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-  },
-  {
-    "title": "Initia confirms second exploit in 3 weeks, $3.27M stolen in latest attack",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/initia-second-crypto-exploit-three-weeks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "date": "Wed, 11 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M74J6ATXFTZ5SBS14E1HH1X2/password-fraud-hacker-scam3-4.jpg",
-    "content": "Initia said an attacker exploited compromised cloud credentials to move $3.27 million in crypto assets, with about $2.16 million remaining frozen on its halted network."
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Jail-cell-2-gID_7.png@png",
+    "content": "Robert Barr planned to have accomplices force a crypto investor to install remote-access software so he could drain the wallet from prison."
   },
   {
     "title": "Bitcoin Miner HIVE Eyes $45 Million in Annual Revenue From AI Deal",
@@ -110,14 +118,6 @@
     "date": "Tue, 10 Nov 2026",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Hacker-hack-decrypt-style-04-gID_7.jpg@png",
     "content": "An SGLang flaw let an attacker reach internal systems and potentially view confidential AI requests, exposing the limits of hardware-backed privacy protections."
-  },
-  {
-    "title": "Elon Musk Calls Claude Opus 5.5 a 'Masterpiece', Admits Grok 4.8 Won't Match It",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/382956/elon-musk-calls-claude-opus-5-5-masterpiece-grok-wont-match",
-    "date": "Tue, 10 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/elon-musk-decrypt-style-03-gID_7.jpg@png",
-    "content": "Elon Musk says the incoming Grok 4.8 will trail Anthropic’s Claude Opus 5.5, praising his rival’s model while predicting Grok 5 could surpass it in two or three months."
   },
   {
     "title": "Bitcoin Heated Hot Tubs and 278 Washington Bitcoin Merchants : Now Accepting Bitcoin",
