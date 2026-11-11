@@ -40,6 +40,14 @@
     "content": "Bitcoin held steady near $74,000 as Tuesday's hot inflation figure lifted the odds on a U.S. interest-rate increase to around 90%. ETF outflows extended to a fourth day and liquidations jumped."
   },
   {
+    "title": "Deutsche Bank launches crypto custody for companies and institutions",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/deutsche-bank-debuts-digital-asset-custody-services-eu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "Wed, 11 Nov 2026",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M75D0RVNVRMGT5GMDFRH6PZQ/hi-us-banks-have-deeper-interest-in-digital-than-previously-thought.jpg",
+    "content": "Clients can store and transfer Bitcoin, Ether and select stablecoins through the bank, which manages their wallets and private keys."
+  },
+  {
     "title": "Here’s what happened in crypto today",
     "source": "CoinTelegraph",
     "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -70,14 +78,6 @@
     "date": "Wed, 11 Nov 2026",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7572VRXC31WERWWDCXZ6ZM2/hi-how-wall-street-is-using-ethereum-without-talking-about-ethereum-1.jpg",
     "content": "CoreWeave’s third-quarter revenue rose 168% to $3.66 billion, beating analyst estimates by 3.4%. Its revenue backlog reached $132.5 billion."
-  },
-  {
-    "title": "FSB urgest Turkey to tighten crypto oversight, set stablecoin rules",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/fsb-turkey-crypto-oversight-stablecoin-regulation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "date": "Wed, 11 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7578X1R0G4ARNS1V00H1SJF/regulation-office-document-paper-turkey.jpg",
-    "content": "The Financial Stability Board cited progress on crypto licensing and urged stronger enforcement and cooperation with foreign regulators."
   },
   {
     "title": "Decrypt Becomes First News Publisher to Offer Perps Trading, Powered by Solana's Phoenix",
@@ -120,6 +120,14 @@
     "content": "The New York Stock Exchange will use Avalanche infrastructure, but experts say that won't necessarily boost AVAX's price."
   },
   {
+    "title": "Deutsche Bank Switches On Bitcoin Custody for Paying Clients",
+    "source": "Bitcoin Magazine",
+    "url": "https://bitcoinmagazine.com/news/deutsche-bank-bitcoin-custody-live",
+    "date": "Wed, 11 Nov 2026",
+    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
+    "content": "Bitcoin Magazine Deutsche Bank Switches On Bitcoin Custody for Paying Clients Germany's largest lender now holds bitcoin, ether and three stablecoins for institutional and corporate clients in Europe, but it has not named any customers or disclosed fees. This post Deutsche Bank Switches On Bitcoin Custody for Paying Clients first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
+  },
+  {
     "title": "Bitcoin Heated Hot Tubs and 278 Washington Bitcoin Merchants : Now Accepting Bitcoin",
     "source": "Bitcoin Magazine",
     "url": "https://bitcoinmagazine.com/news/washington-bitcoin-merchants-snorkel",
@@ -150,13 +158,5 @@
     "date": "Tue, 10 Nov 2026",
     "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
     "content": "Bitcoin Magazine Poland&#8217;s Parliament Votes 240-202 to Let Officials Freeze Crypto Before Court Review Poland's Sejm passed a sanctions bill Friday that lets the interior minister freeze bitcoin and bank funds of people on a national list, and a court appeal would not pause the freeze. This post Poland&#8217;s Parliament Votes 240-202 to Let Officials Freeze Crypto Before Court Review first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
-  },
-  {
-    "title": "Canaan (CAN) Swings to an $8 Million Profit on Bitcoin Gains as Rig Sales Collapse 96%",
-    "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/news/canaan-can-swings-8-million-profit",
-    "date": "Tue, 10 Nov 2026",
-    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "Bitcoin Magazine Canaan (CAN) Swings to an $8 Million Profit on Bitcoin Gains as Rig Sales Collapse 96% Canaan's mining-machine sales fell to $4.8 million from $118.6 million a year earlier, but a $51.9 million fair-value gain turned an operating loss into $8.0 million of net income. This post Canaan (CAN) Swings to an $8 Million Profit on Bitcoin Gains as Rig Sales Collapse 96% first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
   }
 ]
