@@ -1,5 +1,13 @@
 [
   {
+    "title": "Bitcoin dips with Nvidia as ETF outflows reach day five",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/11/12/bitcoin-dips-with-nvidia-as-etf-outflows-reach-day-five",
+    "date": "Thu, 12 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/128bc68b867f06109625c6eae927136864633702-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "Bitcoin slips 0.7% as Nvidia falls on reports its board may oust CEO Jensen Huang, while U.S. spot bitcoin ETFs lose another $299.9 million."
+  },
+  {
     "title": "Polymarket trims workforce under investor pressure as Kalshi surges ahead",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/business/2026/11/12/polymarket-trims-workforce-under-investor-pressure-as-kalshi-surges-ahead",
@@ -32,12 +40,20 @@
     "content": "Nasdaq 100 futures retreat after Wednesday’s rally, while AI stocks slide, Strategy falls 4% and gold trades below $4,000."
   },
   {
-    "title": "Gemini sells UK and European operations to stablecoin payments firm KAST for under $10 million",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/business/2026/11/12/gemini-sells-uk-and-european-operations-to-stablecoin-payments-firm-kast-for-under-usd10-million",
+    "title": "Stablecoin supply falls $14.2B in biggest 30-day drop since June 2022",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/markets/stablecoin-supply-drops-worst-slump-since-mid-2022?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "date": "Thu, 12 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/8e7f143de173398091d41beb177dbda33ae0dcfa-4208x2367.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "The sale follows the Winklevoss-founded crypto exchange’s retreat from several overseas markets as it restructures its business."
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M77PBKEXBYJDHXJ50138KP8T/article-covers-259182-tether-may-delay-fundraising-500b-valuation-demand-report-1280x853.webp",
+    "content": "Crypto markets were left with “less fuel” to rally after the market cap of major stablecoins saw its biggest 30-day drop in over four years."
+  },
+  {
+    "title": "Tron and Tether bring in Chainalysis after T3 crime unit folds",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/tron-tether-chainalysis-cybercrime-task-force-laundering?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "Thu, 12 Nov 2026",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4ZBJQX8RA4RZN02APHYTQFS/hi-cybercrime-task-force-monitors-the-global-digital-financial-system.jpg",
+    "content": "The group will focus on illicit USDT activity on Tron and help law enforcement investigate suspicious transfers and freeze funds faster."
   },
   {
     "title": "Ethlabs drops Hegotá slot proposal in push for 2027 quantum readiness",
@@ -64,20 +80,12 @@
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
   },
   {
-    "title": "South Korea to permit crypto withdrawal freezes during hacking threats",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/south-korea-crypto-withdrawal-freezes-suspected-hacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Bitcoin ETFs Bleed $1.4B in Five Days as Investors Cut Risk",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/383122/bitcoin-etfs-bleed-1-4b-in-five-days-as-investors-cut-risk",
     "date": "Thu, 12 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M597BM0AMWQ1YPAXSBBRRVZN/south-korea-1.jpg",
-    "content": "The move follows recent security incidents involving South Korean crypto exchanges, including GOPAX’s precautionary suspension of services and a $70,000 hot-wallet breach at Prabang."
-  },
-  {
-    "title": "Binance CSO unwittingly foreshadowed $6.3B hack tactic months before attack",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/binance-cso-foreshadowed-6b-hack-tactic-months-before-attack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "date": "Thu, 12 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M772C3WKZ2V15SYTV41CF4T1/hi-a-fake-crypto-job-interview-nearly-installed-malware-on-my-computer.jpg",
-    "content": "In a July interview, Binance chief security officer Jimmy Su explained how fake coding assessments could compromise employee devices, a tactic later used in the exchange’s record-breaking hack."
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg@png",
+    "content": "U.S. spot Bitcoin exchange-traded funds have recorded five consecutive days of net outflows, as investors retreat from risk assets after a turbulent week for markets. The funds lost some $1.44 billion between November 5 and November 11, including $299.9 million on Wednesday, according to SoSoValue data. That brings net outflows for November so far to [&hellip;]"
   },
   {
     "title": "Pressure Mounts on Nvidia's Jensen Huang Amid Reports of Second Affair",
@@ -110,14 +118,6 @@
     "date": "Wed, 11 Nov 2026",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-03-gID_7.png@png",
     "content": "Recent buyers are moving billions in Bitcoin to exchanges below their purchase prices, while Binance sees sharp inflows from recently moved coins."
-  },
-  {
-    "title": "This New AI Music Model Is Already Better Than Suno—We Put ACE to the Test",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/383070/new-ai-music-model-already-better-than-suno-ace-review",
-    "date": "Wed, 11 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/AI-music-decrypt-style-03-gID_7.jpg@png",
-    "content": "ACE Music v1 tops the AI music rankings with more natural vocals and stronger song structure. Our tests found impressive results, though niche genres remain a challenge."
   },
   {
     "title": "MSCI Removes Strategy (MSTR) From Its USA Index, Forcing Index Funds to Sell by Nov. 30",
