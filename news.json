@@ -1,10 +1,34 @@
 [
   {
-    "title": "Live news: AI stocks slide with Nasdaq 100 futures in retreat following Wednesday's rally",
+    "title": "Polymarket trims workforce under investor pressure as Kalshi surges ahead",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/business/2026/11/12/polymarket-trims-workforce-under-investor-pressure-as-kalshi-surges-ahead",
+    "date": "Thu, 12 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/0986854ddf37c8aabeb88937cec47596eaad7185-4000x2250.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "More than half of those affected were contractors, a source told Reuters. The cuts follow investor pressure on founder Shayne Coplan."
+  },
+  {
+    "title": "Nomura weighs Laser Digital sale as European losses hit four straight quarters",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/business/2026/11/12/nomura-weighs-laser-digital-sale-as-european-losses-hit-four-straight-quarters-bloomberg",
+    "date": "Thu, 12 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/9929d1693d02a1e06cc35c05442476147dd21d09-1494x840.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "The Japanese brokerage has held talks with potential buyers, including Marex, as its European business posts more losses."
+  },
+  {
+    "title": "India’s financial crimes watchdog raids crypto exchanges CoinDCX and Delta over alleged illegal cross-border trades",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/policy/2026/11/12/india-s-financial-crimes-watchdog-raids-crypto-exchanges-coindcx-and-delta-over-alleged-illegal-cross-border-trades",
+    "date": "Thu, 12 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a3eceb8aeec24d03372ed17e149a9e6c5b546972-2304x1296.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "The Enforcement Directorate alleged illegal cross-border flows that violated India's foreign exchange laws."
+  },
+  {
+    "title": "Live updates: Bitcoin ETFs bleed $300 million as AI stocks slide again",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets",
     "date": "Thu, 12 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/dd98498dbda09f933fbeac48aac3591d14c0deee-3018x1697.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/93bf6449d7d12fdff5d4830c8cf02fe743df70bc-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "content": "Nasdaq 100 futures retreat after Wednesday’s rally, while AI stocks slide, Strategy falls 4% and gold trades below $4,000."
   },
   {
@@ -16,28 +40,12 @@
     "content": "The sale follows the Winklevoss-founded crypto exchange’s retreat from several overseas markets as it restructures its business."
   },
   {
-    "title": "Canaan may sell more bitcoin for stock buybacks as mining-rig revenue falls 96%",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/markets/2026/11/12/canaan-may-sell-more-bitcoin-for-stock-buybacks-as-mining-rig-revenue-falls-96",
+    "title": "Ethlabs drops Hegotá slot proposal in push for 2027 quantum readiness",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/ethlabs-ethereum-quantum-security-2027-quick-slots?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "date": "Thu, 12 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ff5cb9a14368e0ec679deae2d9127d7d94dd804e-5700x3800.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "The Avalon maker has launched a $20 million repurchase program, while most of its bitcoin holdings were pledged or placed in a fixed-term product at September’s end."
-  },
-  {
-    "title": "MSCI is dropping Strategy from its index, and the exclusion could hit its bitcoin-buying machine",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/markets/2026/11/12/msci-is-dropping-strategy-from-its-index-and-the-exclusion-could-hit-its-bitcoin-buying-machine",
-    "date": "Thu, 12 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f79b91e8670bd9e03760460c3a3750d7d34a5150-5021x3350.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "MSCI’s decision to exclude Strategy from its equity indexes could hamper the company’s ability to buy more bitcoin, according to some analysts."
-  },
-  {
-    "title": "Zcash holders to vote on pulling 50,000 ZEC, worth $50 million, from grants treasury",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/tech/2026/11/12/zcash-holders-to-vote-on-pulling-50-000-zec-from-grants-treasury",
-    "date": "Thu, 12 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6359a9ff83ee7ba7465c0ff2289cb8ae23e7ac43-1500x1000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "The proposal would remove more than half of Zcash Community Grants' ZEC holdings from circulation and redirect its future block rewards into a new development and legal-defense fund."
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M77HNTV6D5P7J0G2ASP711HK/hi-quantum-computer-and-ethereum.jpg",
+    "content": "Ethlabs’ roadmap aims to help Ethereum withstand quantum attacks and give users a way to protect their accounts by 2027."
   },
   {
     "title": "BlackRock Bitcoin ETF outflows hit $2B over nine sessions",
@@ -70,14 +78,6 @@
     "date": "Thu, 12 Nov 2026",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M772C3WKZ2V15SYTV41CF4T1/hi-a-fake-crypto-job-interview-nearly-installed-malware-on-my-computer.jpg",
     "content": "In a July interview, Binance chief security officer Jimmy Su explained how fake coding assessments could compromise employee devices, a tactic later used in the exchange’s record-breaking hack."
-  },
-  {
-    "title": "MSCI confirms Strategy’s removal from indexes at end of November",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/msci-confirms-strategys-removal-from-indexes-end-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "date": "Thu, 12 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M76H4XXFRZZF8PWNZVYPMH4D/hi-the-bitcoin-treasury-model-is-breaking-but-microstrategys-isnt-heres-why.jpg",
-    "content": "Strategy, Metaplanet and Upexi are marked for deletion in MSCI’s final list, with changes taking effect after the Nov. 30 close."
   },
   {
     "title": "Pressure Mounts on Nvidia's Jensen Huang Amid Reports of Second Affair",
