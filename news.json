@@ -16,6 +16,14 @@
     "content": "The securities infrastructure giant plans to bring tokenized stocks, ETFs and U.S. Treasuries to Solana as it expands next year's roadmap beyond Stellar and Arc."
   },
   {
+    "title": "DTCC Plans Solana Expansion as Wallet Rules Limit Access",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/dtcc-plans-solana-expansion-wallet-rules-limit-access?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "Thu, 12 Nov 2026",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78HYSFQRVZZRHHY3ZZHRTMW/hi-what-is-chainlink-dtcc.png",
+    "content": "The US securities clearinghouse plans to bring tokenized stocks to Solana in 2027, but analysts say restrictions could limit adoption."
+  },
+  {
     "title": "Bitcoin slides toward $71K as Nvidia stock tumbles after Huang steps down",
     "source": "CoinTelegraph",
     "url": "https://cointelegraph.com/markets/bitcoin-price-drops-71k-stocks-nvidia-huang-resignation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -48,12 +56,12 @@
     "content": "Thailand’s SEC would set separate daily caps for stablecoin deposits and withdrawals and require customers to use wallets they own."
   },
   {
-    "title": "Crypto hack losses equal 57 cents per $1 earned onchain: Ark’s Valente",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/crypto-hackers-stole-57-cents-every-1-earned-ark?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Why the Path to Quantum Resistance Runs Uphill for Bitcoin Wallet Makers",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/383201/why-path-quantum-resistance-runs-uphill-bitcoin-wallet",
     "date": "Thu, 12 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1P1ZHH851JBMYW8FC0YFCV0/hi-top-crypto-hacks-and-scams-to-beware-of-in-october-2024.jpg",
-    "content": "Crypto hackers stole $8.7 billion so far in 2026, surpassing the projected annual onchain revenue generated across the industry, according to ARK’s research director."
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-19-gID_7.png@png",
+    "content": "Trezor CTO Tomáš Sušánka explains the trade-offs of Bitcoin’s leading post-quantum signature scheme."
   },
   {
     "title": "Who Is Colette Kress, Jensen Huang’s Successor as Nvidia CEO?",
@@ -88,12 +96,12 @@
     "content": "Nvidia’s founder is out, and tech and crypto leaders are fuming. Some fear for open-source AI, others question the board, while Elon Musk says he’d be honored to hire Huang."
   },
   {
-    "title": "Tron, Tether and Chainalysis Form a New Crypto-Crime Task Force—Replacing One That Just Collapsed",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/383139/tron-tether-chainalysis-new-crypto-crime-task-force-replacing-trm",
+    "title": "Simon Dixon: What It Would Take for Me to Sell My Bitcoin for Gold",
+    "source": "Bitcoin Magazine",
+    "url": "https://bitcoinmagazine.com/videos/simon-dixon-what-it-would-take-for-me-to-sell-my-bitcoin-for-gold",
     "date": "Thu, 12 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Tether-decrypt-style-02-gID_7.png@png",
-    "content": "The Digital Crime Task Force aims to proactively trace illicit USDT on Tron and freeze funds before they move—just weeks after the trio’s near-identical T3 unit, built with rival firm TRM Labs, quietly collapsed."
+    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
+    "content": "&#9654; Bitcoin Magazine Simon Dixon: What It Would Take for Me to Sell My Bitcoin for Gold Simon Dixon, CEO and co-founder of BnkToTheFuture, tells BMTV there are only three things that would make him sell all of his Bitcoin and buy gold. This post Simon Dixon: What It Would Take for Me to Sell My Bitcoin for Gold first appeared on Bitcoin Magazine and is written by Patrick Green ."
   },
   {
     "title": "Binance Says It Has Fully Covered the $6.34 Billion Hack With Company Funds",
@@ -126,13 +134,5 @@
     "date": "Thu, 12 Nov 2026",
     "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
     "content": "Bitcoin Magazine Crypto Exchange Gemini Sells U.K. and EU Units to KAST for Under $10 Million A person familiar with the matter said Gemini sold its already shuttered U.K. and European operations to Singapore payments firm KAST for less than $10 million, hours before the exchange reports third-quarter results. Gemini declined to comment. This post Crypto Exchange Gemini Sells U.K. and EU Units to KAST for Under $10 Million first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
-  },
-  {
-    "title": "Geopolitical Strategist: Bitcoin Is the “Third Way” Between the Dollar and Yuan",
-    "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/videos/geopolitical-strategist-bitcoin-is-the-third-way-between-the-dollar-and-yuan",
-    "date": "Thu, 12 Nov 2026",
-    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "&#9654; Bitcoin Magazine Geopolitical Strategist: Bitcoin Is the &#8220;Third Way&#8221; Between the Dollar and Yuan Velina Tchakarova, geopolitical strategist and founder of FACE (For A Conscious Experience), argues that we're in a new Cold War and that the US and China are building two rival financial architectures. This post Geopolitical Strategist: Bitcoin Is the &#8220;Third Way&#8221; Between the Dollar and Yuan first appeared on Bitcoin Magazine and is written by Patrick Green ."
   }
 ]
