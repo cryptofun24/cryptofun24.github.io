@@ -1,5 +1,13 @@
 [
   {
+    "title": "Kalshi ends Donald Trump Jr.’s advisory contract over 1789 Capital’s Polymarket investment",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/policy/2026/11/12/kalshi-ends-donald-trump-jr-s-advisory-contract-over-1789-capital-s-polymarket-investment",
+    "date": "Thu, 12 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/017ae420df17014d529112047b085c51b85faf81-2048x1152.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "Trump Jr. joined Kalshi as a strategic adviser in January 2025, helping the prediction market expand its customer base and strengthen its market presence."
+  },
+  {
     "title": "Illinois crypto tax is impossible to enforce as written, crypto industry tells court",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/policy/2026/11/12/illinois-crypto-tax-is-impossible-to-enforce-as-written-crypto-industry-tells-court",
@@ -14,6 +22,14 @@
     "date": "Thu, 12 Nov 2026",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/017c04b0a6f702fccd76ffd5aa923321e5b66146-2048x1152.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "content": "The securities infrastructure giant plans to bring tokenized stocks, ETFs and U.S. Treasuries to Solana as it expands next year's roadmap beyond Stellar and Arc."
+  },
+  {
+    "title": "US Justice Department, business groups and DeFi firms challenge Illinois crypto tax",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/us-justice-department-business-groups-defi-illinois-crypto-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "Thu, 12 Nov 2026",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78NNMK090K8VRSJK706GEH0/hi-more-irs-crypto-reporting-more-danger.png",
+    "content": "Industry groups argued in court filings that Illinois’ crypto tax, which applies even when a transaction yields no profit, could raise compliance costs and violate federal law."
   },
   {
     "title": "DTCC Plans Solana Expansion as Wallet Rules Limit Access",
@@ -48,12 +64,12 @@
     "content": "Bit Digital’s $27 million third-quarter revenue came in 16% below analyst consensus estimates, marking an over $5 million shortfall."
   },
   {
-    "title": "Thailand proposes $148K daily cap on stablecoin deposits and withdrawals",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/thailand-tighter-stablecoin-rules-crypto-exchange?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Strategy Made $19.5 Billion in Profit. So Why Is MSCI Removing It From Stock Indexes?",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/383204/why-msci-removing-bitcoin-treasury-strategy-stock-indexes",
     "date": "Thu, 12 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M77Y7BBV3T43FJ34BFN7FBGA/thailand-sec-1.jpg",
-    "content": "Thailand’s SEC would set separate daily caps for stablecoin deposits and withdrawals and require customers to use wallets they own."
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/strategy-logo-x-twitter-gID_7.png@png",
+    "content": "Michael Saylor’s Bitcoin giant is being excluded from major investment benchmarks, raising questions about what qualifies as a business—and whether the decision could slow its Bitcoin buying."
   },
   {
     "title": "Why the Path to Quantum Resistance Runs Uphill for Bitcoin Wallet Makers",
@@ -88,12 +104,12 @@
     "content": "The DOJ, the U.S. Chamber of Commerce, SIFMA and a crypto coalition led by a16z, Paradigm and Uniswap filed briefs backing a lawsuit to strike down the state’s 0.2% levy on digital asset transactions."
   },
   {
-    "title": "'A Massive Mistake': Tech, AI and Crypto Founders React to Jensen Huang’s Nvidia Exit",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/383141/massive-mistake-tech-ai-crypto-founders-react-jensen-huang-nvidia-exit",
+    "title": "Peter Schiff on the Bitcoin Crash: “Get the Hell Out”",
+    "source": "Bitcoin Magazine",
+    "url": "https://bitcoinmagazine.com/videos/peter-schiff-on-the-bitcoin-crash-get-the-hell-out",
     "date": "Thu, 12 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/decrypt-style-nvidia-jensen-huang-gID_7.png@png",
-    "content": "Nvidia’s founder is out, and tech and crypto leaders are fuming. Some fear for open-source AI, others question the board, while Elon Musk says he’d be honored to hire Huang."
+    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
+    "content": "&#9654; Bitcoin Magazine Peter Schiff on the Bitcoin Crash: &#8220;Get the Hell Out&#8221; Challenged on why two or three down years would matter for Bitcoin when gold and the Nasdaq have had similar streaks before recoveries, Peter Schiff says the difference is the backdrop. This post Peter Schiff on the Bitcoin Crash: &#8220;Get the Hell Out&#8221; first appeared on Bitcoin Magazine and is written by Patrick Green ."
   },
   {
     "title": "Simon Dixon: What It Would Take for Me to Sell My Bitcoin for Gold",
@@ -126,13 +142,5 @@
     "date": "Thu, 12 Nov 2026",
     "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
     "content": "Bitcoin Magazine JPMorgan Lifts Its Strategy (MSTR) Stake 36% and Holds $540 Million in Bitcoin ETFs A 13F filed Thursday shows JPMorgan held 848,932 Strategy shares, up 36% from June, and 11.4 million IBIT shares worth $540 million at Sept. 30, weeks before MSCI's index exit. This post JPMorgan Lifts Its Strategy (MSTR) Stake 36% and Holds $540 Million in Bitcoin ETFs first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
-  },
-  {
-    "title": "Crypto Exchange Gemini Sells U.K. and EU Units to KAST for Under $10 Million",
-    "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/news/gemini-said-to-sell-uk-eu-units-kast",
-    "date": "Thu, 12 Nov 2026",
-    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "Bitcoin Magazine Crypto Exchange Gemini Sells U.K. and EU Units to KAST for Under $10 Million A person familiar with the matter said Gemini sold its already shuttered U.K. and European operations to Singapore payments firm KAST for less than $10 million, hours before the exchange reports third-quarter results. Gemini declined to comment. This post Crypto Exchange Gemini Sells U.K. and EU Units to KAST for Under $10 Million first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
   }
 ]
