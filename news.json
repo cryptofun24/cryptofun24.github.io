@@ -1,11 +1,35 @@
 [
   {
-    "title": "Nvidia shares plunge 10% to June 2025 levels as Jensen Huang resigns",
+    "title": "DTCC adds Solana to Wall Street tokenization plans, targeting 2027 rollout",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/business/2026/11/12/dtcc-adds-solana-to-wall-street-tokenization-plans-targeting-2027-rollout",
+    "date": "Thu, 12 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/017c04b0a6f702fccd76ffd5aa923321e5b66146-2048x1152.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "The securities infrastructure giant plans to bring tokenized stocks, ETFs and U.S. Treasuries to Solana as it expands next year's roadmap beyond Stellar and Arc."
+  },
+  {
+    "title": "Jupiter adds Anchorage-backed USDGO to its $1 billion Solana lending platform",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/business/2026/11/12/jupiter-adds-anchorage-backed-usdgo-to-its-usd1-billion-solana-lending-platform",
+    "date": "Thu, 12 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/1f36f4b6075554c7a225b5bdef6b7d0bb9142a62-1920x1280.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "OSL offers a yield on USDGO only to professional investors, but Jupiter said its market lets other holders earn onchain at rates set by borrower demand."
+  },
+  {
+    "title": "The next Congress will write rules for AI and emerging tech. They should use the stuff first.",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/opinion/2026/11/12/the-next-congress-will-write-rules-for-ai-and-emerging-tech-they-should-use-the-stuff-first",
+    "date": "Thu, 12 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/71aa7b9f25a4f710d01629112fe1ac64f37bf6b8-5442x3628.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "The best thing industry leaders can do is to invest the time to ensure this country’s policymakers can experience the technology they’re regulating up close, writes Allie Page, executive director of American Innovation Project."
+  },
+  {
+    "title": "Nvidia CEO Huang quits company he co-founded, led for 3 decades. Shares slump",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/markets/2026/11/12/nvidia-shares-plunge-10-as-jensen-huang-resigns",
     "date": "Thu, 12 Nov 2026",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/693575c5c547ec149e1c707e4ac159476905398f-600x338.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "CFO Colette Kress takes over as interim CEO after Huang steps down immediately as president, chief executive and board member, sending shares down 10% to $156."
+    "content": "CFO Colette Kress takes over as interim CEO after Huang steps down immediately as president, chief executive and board member, as shares tumble."
   },
   {
     "title": "Bitcoin weakness erases September's bullish signal",
@@ -16,35 +40,11 @@
     "content": "Your day-ahead look for Nov. 12, 2026"
   },
   {
-    "title": "UK bank Griffin raises $20 million to expand into stablecoin payments",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/business/2026/11/12/uk-bank-griffin-raises-usd20-million-to-expand-into-stablecoin-payments",
-    "date": "Thu, 12 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/034076585dd7fcd8b2a92f3a98aa17cd1076f2fb-5341x3746.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "The Series B funding round, led by Octagon Partners valued the London-based company at more than $100 million."
-  },
-  {
-    "title": "Ethereum researchers drop faster blocks to race toward quantum defenses in 2027",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/tech/2026/11/12/ethereum-researchers-drop-faster-blocks-to-race-toward-quantum-defenses-in-2027",
-    "date": "Thu, 12 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "Ethlabs wants quantum-resistant accounts targeted for next year, even if wallet holders still have to switch signing methods themselves."
-  },
-  {
-    "title": "Bitcoin dips with Nvidia as ETF outflows reach day five",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/markets/2026/11/12/bitcoin-dips-with-nvidia-as-etf-outflows-reach-day-five",
-    "date": "Thu, 12 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/128bc68b867f06109625c6eae927136864633702-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "Bitcoin slips 0.7% as Nvidia falls on reports its board may oust CEO Jensen Huang, while U.S. spot bitcoin ETFs lose another $299.9 million."
-  },
-  {
-    "title": "Jensen Huang resigns as NVIDIA CEO and board member",
+    "title": "Jensen Huang resigns as Nvidia CEO, exits board; shares plunge 13%",
     "source": "CoinTelegraph",
     "url": "https://cointelegraph.com/news/jensen-huang-resigns-nvidia-ceo-board-member?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "date": "Thu, 12 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6TF8XXVHRYCKDRNDMW19WCP/analys-analytics-bisiness-man-woman-down-city-crash-nvidia.jpg",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M785KXG5GM8BJPMV5VPKY9SA/breaking-news-no-banner.png",
     "content": "Colette Kress will remain Nvidia’s chief financial officer while serving as interim CEO as the board searches for a permanent successor."
   },
   {
@@ -80,6 +80,14 @@
     "content": "L1 blockchains Zilliqa, Gnosis and Ronin join the Ethereum ecosystem as the costs of going it alone grow, and the security and liquidity advantages become too hard to resist."
   },
   {
+    "title": "Jensen Huang Resigns as Nvidia CEO, With CFO Colette Kress Named Interim Chief",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/383134/jensen-huang-resigns-as-nvidia-ceo-with-cfo-colette-kress-named-interim-chief",
+    "date": "Thu, 12 Nov 2026",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/jensen-huang-nvidia-decrypt-style-04-gID_7.jpg@png",
+    "content": "The Nvidia co-founder steps down after reports of affairs with an alleged Chinese spy and a company executive, ending his 33-year run."
+  },
+  {
     "title": "SoFi Brings Its Bank-Issued Stablecoin to Polygon’s Payments Stack",
     "source": "Decrypt",
     "url": "https://decrypt.co/383096/sofi-brings-bank-issued-stablecoin-polygon-payments-stack",
@@ -112,12 +120,36 @@
     "content": "The Enforcement Directorate alleges the exchanges routed Indian users' trades to Binance, Bybit and others via a Costa Rican shell entity."
   },
   {
-    "title": "Bitcoin ETFs Bleed $1.4B in Five Days as Investors Cut Risk",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/383122/bitcoin-etfs-bleed-1-4b-in-five-days-as-investors-cut-risk",
+    "title": "BNY Mellon Raises Its Strive (ASST) Stake 28% to $7 Million as Monday’s 13F Deadline Nears",
+    "source": "Bitcoin Magazine",
+    "url": "https://bitcoinmagazine.com/news/bny-mellon-raises-strive-asst-stake-28",
     "date": "Thu, 12 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg@png",
-    "content": "U.S. spot Bitcoin exchange-traded funds have recorded five consecutive days of net outflows, as investors retreat from risk assets after a turbulent week for markets. The funds lost some $1.44 billion between November 5 and November 11, including $299.9 million on Wednesday, according to SoSoValue data. That brings net outflows for November so far to [&hellip;]"
+    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
+    "content": "Bitcoin Magazine BNY Mellon Raises Its Strive (ASST) Stake 28% to $7 Million as Monday&#8217;s 13F Deadline Nears A Nov. 5 13F shows Bank of New York Mellon held 237,100 Strive shares worth $6.97 million at Sept. 30, up 51,544 shares from June, with other large filers still due Monday. This post BNY Mellon Raises Its Strive (ASST) Stake 28% to $7 Million as Monday&#8217;s 13F Deadline Nears first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
+  },
+  {
+    "title": "Rumble (RUM) Sells Two-Thirds of Its Bitcoin as AI Cloud Business Delivers First Profitable Quarter",
+    "source": "Bitcoin Magazine",
+    "url": "https://bitcoinmagazine.com/news/rumble-rum-sells-two-thirds-bitcoin",
+    "date": "Thu, 12 Nov 2026",
+    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
+    "content": "Bitcoin Magazine Rumble (RUM) Sells Two-Thirds of Its Bitcoin as AI Cloud Business Delivers First Profitable Quarter RUM Group held 94.68 bitcoin worth $7.9 million on Sept. 30, down from 293.14 at the end of June, as its Quake AI unit drove record revenue of $96.6 million. This post Rumble (RUM) Sells Two-Thirds of Its Bitcoin as AI Cloud Business Delivers First Profitable Quarter first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
+  },
+  {
+    "title": "BlackRock’s IBIT Bleeds $2 Billion in Nine Straight Days of Outflows",
+    "source": "Bitcoin Magazine",
+    "url": "https://bitcoinmagazine.com/markets/blackrock-ibit-nine-days-outflows",
+    "date": "Thu, 12 Nov 2026",
+    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
+    "content": "Bitcoin Magazine BlackRock&#8217;s IBIT Bleeds $2 Billion in Nine Straight Days of Outflows U.S. spot bitcoin ETFs lost $299.8 million on Wednesday, their fifth straight day of outflows, with BlackRock's IBIT accounting for $269.7 million and about 94% of November's withdrawals. This post BlackRock&#8217;s IBIT Bleeds $2 Billion in Nine Straight Days of Outflows first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
+  },
+  {
+    "title": "Bitcoin Price Falls Below $72,000 as Nvidia CEO Jensen Huang Steps Down and Strategy (MSTR) Slides",
+    "source": "Bitcoin Magazine",
+    "url": "https://bitcoinmagazine.com/markets/bitcoin-price-falls-below-72000",
+    "date": "Thu, 12 Nov 2026",
+    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
+    "content": "Bitcoin Magazine Bitcoin Price Falls Below $72,000 as Nvidia CEO Jensen Huang Steps Down and Strategy (MSTR) Slides Bitcoin price fell below $72,000 on Thursday, its lowest level since mid-August, after Nvidia said CEO Jensen Huang had resigned and Strategy shares slid on MSCI's confirmed index exit. This post Bitcoin Price Falls Below $72,000 as Nvidia CEO Jensen Huang Steps Down and Strategy (MSTR) Slides first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
   },
   {
     "title": "MSCI Removes Strategy (MSTR) From Its USA Index, Forcing Index Funds to Sell by Nov. 30",
@@ -126,37 +158,5 @@
     "date": "Wed, 11 Nov 2026",
     "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
     "content": "Bitcoin Magazine MSCI Removes Strategy (MSTR) From Its USA Index, Forcing Index Funds to Sell by Nov. 30 MSCI will take Strategy, Metaplanet, Yellow Cake, Skel and Upexi out of its global indexes as of the Nov. 30 close, after a new screen classified them as non-operating companies. This post MSCI Removes Strategy (MSTR) From Its USA Index, Forcing Index Funds to Sell by Nov. 30 first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
-  },
-  {
-    "title": "How Sam Altman-Backed Meanwhile Is Disrupting the $20T Life Insurance Industry",
-    "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/videos/how-sam-altman-backed-meanwhile-is-disrupting-the-20t-life-insurance-industry",
-    "date": "Wed, 11 Nov 2026",
-    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "&#9654; Bitcoin Magazine How Sam Altman-Backed Meanwhile Is Disrupting the $20T Life Insurance Industry Danny Baer, Head of Revenue &#38; Investments at Meanwhile, explains how his Bermuda-based company built the world's first fully licensed life insurance carrier that runs entirely on Bitcoin, holding its regulatory capital in Bitcoin and paying out policies in Bitcoin. This post How Sam Altman-Backed Meanwhile Is Disrupting the $20T Life Insurance Industry first appeared on Bitcoin Magazine and is written by Patrick Green ."
-  },
-  {
-    "title": "Outlook for Crypto Market Structure Bill By Democrats | Chris Giancarlo, Former CFTC Commissioner",
-    "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/videos/outlook-for-crypto-market-structure-bill-by-democrats-chris-giancarlo-former-cftc-commissioner",
-    "date": "Wed, 11 Nov 2026",
-    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "&#9654; Bitcoin Magazine Outlook for Crypto Market Structure Bill By Democrats | Chris Giancarlo, Former CFTC Commissioner Democrats now control both chambers of Congress. This post Outlook for Crypto Market Structure Bill By Democrats | Chris Giancarlo, Former CFTC Commissioner first appeared on Bitcoin Magazine and is written by Patrick Green ."
-  },
-  {
-    "title": "Tavi Costa: Bitcoin “Very Undervalued with “Violent Moves Ahead”",
-    "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/videos/tavi-costa-bitcoin-very-undervalued-with-violent-moves-ahead",
-    "date": "Wed, 11 Nov 2026",
-    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "&#9654; Bitcoin Magazine Tavi Costa: Bitcoin &#8220;Very Undervalued with &#8220;Violent Moves Ahead&#8221; Tavi Costa, Founder &#38; CEO of Azuria Capital, explains why he thinks Bitcoin looks \"very undervalued\" right now, with many former supporters giving up on it, and why he expects Bitcoin and silver to see \"violent moves\" as the Fed's hiking cycle comes to an end. This post Tavi Costa: Bitcoin &#8220;Very Undervalued with &#8220;Violent Moves Ahead&#8221; first appeared on Bitcoin Magazine and is written by Patrick Green ."
-  },
-  {
-    "title": "Sam Lyman: “Bitcoin doesn’t need America. America needs Bitcoin.”",
-    "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/videos/sam-lyman-bitcoin-doesnt-need-america-america-needs-bitcoin",
-    "date": "Wed, 11 Nov 2026",
-    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "&#9654; Bitcoin Magazine Sam Lyman: &#8220;Bitcoin doesn&#8217;t need America. America needs Bitcoin.&#8221; Dollar stablecoins, Sam Lyman says, are \"like Starlink for the US dollar system\": if you have an internet connection, you can access the dollar. This post Sam Lyman: &#8220;Bitcoin doesn&#8217;t need America. America needs Bitcoin.&#8221; first appeared on Bitcoin Magazine and is written by Patrick Green ."
   }
 ]
