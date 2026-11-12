@@ -1,5 +1,29 @@
 [
   {
+    "title": "Bitcoin weakness erases September's bullish signal",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/daybook-us/2026/11/12/bitcoin-weakness-erases-september-s-bullish-signal",
+    "date": "Thu, 12 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/591202433ae98e30d931d480bd064c26b115c7f0-2854x1488.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "Your day-ahead look for Nov. 12, 2026"
+  },
+  {
+    "title": "UK bank Griffin raises $20 million to expand into stablecoin payments",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/business/2026/11/12/uk-bank-griffin-raises-usd20-million-to-expand-into-stablecoin-payments",
+    "date": "Thu, 12 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/034076585dd7fcd8b2a92f3a98aa17cd1076f2fb-5341x3746.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "The Series B funding round, led by Octagon Partners valued the London-based company at more than $100 million."
+  },
+  {
+    "title": "Ethereum researchers drop faster blocks to race toward quantum defenses in 2027",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/tech/2026/11/12/ethereum-researchers-drop-faster-blocks-to-race-toward-quantum-defenses-in-2027",
+    "date": "Thu, 12 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "Ethlabs wants quantum-resistant accounts targeted for next year, even if wallet holders still have to switch signing methods themselves."
+  },
+  {
     "title": "Bitcoin dips with Nvidia as ETF outflows reach day five",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/markets/2026/11/12/bitcoin-dips-with-nvidia-as-etf-outflows-reach-day-five",
@@ -16,28 +40,12 @@
     "content": "More than half of those affected were contractors, a source told Reuters. The cuts follow investor pressure on founder Shayne Coplan."
   },
   {
-    "title": "Nomura weighs Laser Digital sale as European losses hit four straight quarters",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/business/2026/11/12/nomura-weighs-laser-digital-sale-as-european-losses-hit-four-straight-quarters-bloomberg",
+    "title": "EU DeFi proposals could push users to riskier platforms, says Coinbase exec",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/eu-defi-riskier-platforms-coinbase-exec?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "date": "Thu, 12 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/9929d1693d02a1e06cc35c05442476147dd21d09-1494x840.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "The Japanese brokerage has held talks with potential buyers, including Marex, as its European business posts more losses."
-  },
-  {
-    "title": "India’s financial crimes watchdog raids crypto exchanges CoinDCX and Delta over alleged illegal cross-border trades",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/policy/2026/11/12/india-s-financial-crimes-watchdog-raids-crypto-exchanges-coindcx-and-delta-over-alleged-illegal-cross-border-trades",
-    "date": "Thu, 12 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a3eceb8aeec24d03372ed17e149a9e6c5b546972-2304x1296.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "The Enforcement Directorate alleged illegal cross-border flows that violated India's foreign exchange laws."
-  },
-  {
-    "title": "Live updates: Bitcoin ETFs bleed $300 million as AI stocks slide again",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets",
-    "date": "Thu, 12 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/93bf6449d7d12fdff5d4830c8cf02fe743df70bc-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "Nasdaq 100 futures retreat after Wednesday’s rally, while AI stocks slide, Strategy falls 4% and gold trades below $4,000."
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M75BK9Y513FMAWX2Y3DCZ3SX/hi-coinbase-hosts-active-stablecoin-traders.jpg",
+    "content": "Coinbase’s EU policy chief says applying suitability tests beyond crypto lending and borrowing could limit access and fragment liquidity."
   },
   {
     "title": "Stablecoin supply falls $14.2B in biggest 30-day drop since June 2022",
@@ -72,12 +80,12 @@
     "content": "US spot Bitcoin ETF outflows rose to nearly $300 million on Wednesday, up from $95 million a day earlier, as five-session withdrawals reached $1.44 billion."
   },
   {
-    "title": "Here’s what happened in crypto today",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "India's Financial Crimes Agency Searches CoinDCX, Delta Exchange Over Offshore Trades",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/383126/indias-financial-crimes-agency-searches-coindcx-delta-exchange-over-offshore-trades",
     "date": "Thu, 12 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-    "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/coindcx-decrypt-style-gID_7.jpg@png",
+    "content": "The Enforcement Directorate alleges the exchanges routed Indian users' trades to Binance, Bybit and others via a Costa Rican shell entity."
   },
   {
     "title": "Bitcoin ETFs Bleed $1.4B in Five Days as Investors Cut Risk",
@@ -110,14 +118,6 @@
     "date": "Wed, 11 Nov 2026",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/stablecoins-decrypt-style-01-scaled-gID_7.jpg@png",
     "content": "Stablecoin supply fell $14.2 billion in 30 days, the fastest contraction since June 2022, amid weak ETF demand."
-  },
-  {
-    "title": "Bitcoin Short-Term Holders Send $3.6 Billion in BTC to Exchanges at a Loss",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/383077/bitcoin-short-term-holders-send-3-illion-btc-exchanges-loss",
-    "date": "Wed, 11 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-03-gID_7.png@png",
-    "content": "Recent buyers are moving billions in Bitcoin to exchanges below their purchase prices, while Binance sees sharp inflows from recently moved coins."
   },
   {
     "title": "MSCI Removes Strategy (MSTR) From Its USA Index, Forcing Index Funds to Sell by Nov. 30",
