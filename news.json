@@ -1,5 +1,21 @@
 [
   {
+    "title": "Live news: AI stocks slide with Nasdaq 100 futures in retreat following Wednesday's rally",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/tech/2026/11/12/live-news-strategy-kicked-out-of-msci-indexes-as-nvidia-slump-rattles-markets",
+    "date": "Thu, 12 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/dd98498dbda09f933fbeac48aac3591d14c0deee-3018x1697.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "Nasdaq 100 futures retreat after Wednesday’s rally, while AI stocks slide, Strategy falls 4% and gold trades below $4,000."
+  },
+  {
+    "title": "Gemini sells UK and European operations to stablecoin payments firm KAST for under $10 million",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/business/2026/11/12/gemini-sells-uk-and-european-operations-to-stablecoin-payments-firm-kast-for-under-usd10-million",
+    "date": "Thu, 12 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/8e7f143de173398091d41beb177dbda33ae0dcfa-4208x2367.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "The sale follows the Winklevoss-founded crypto exchange’s retreat from several overseas markets as it restructures its business."
+  },
+  {
     "title": "Canaan may sell more bitcoin for stock buybacks as mining-rig revenue falls 96%",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/markets/2026/11/12/canaan-may-sell-more-bitcoin-for-stock-buybacks-as-mining-rig-revenue-falls-96",
@@ -13,7 +29,7 @@
     "url": "https://www.coindesk.com/markets/2026/11/12/msci-is-dropping-strategy-from-its-index-and-the-exclusion-could-hit-its-bitcoin-buying-machine",
     "date": "Thu, 12 Nov 2026",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/f79b91e8670bd9e03760460c3a3750d7d34a5150-5021x3350.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "MSCI’s decision to exclude Strategy from its equity indices could hamper the company’s ability to buy more bitcoin, according to some analysts."
+    "content": "MSCI’s decision to exclude Strategy from its equity indexes could hamper the company’s ability to buy more bitcoin, according to some analysts."
   },
   {
     "title": "Zcash holders to vote on pulling 50,000 ZEC, worth $50 million, from grants treasury",
@@ -22,22 +38,6 @@
     "date": "Thu, 12 Nov 2026",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/6359a9ff83ee7ba7465c0ff2289cb8ae23e7ac43-1500x1000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "content": "The proposal would remove more than half of Zcash Community Grants' ZEC holdings from circulation and redirect its future block rewards into a new development and legal-defense fund."
-  },
-  {
-    "title": "Bitcoin Core reveals bug that made thousands of nodes trust any stranger on Tor",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/tech/2026/11/12/bitcoin-core-reveals-bug-that-made-thousands-of-nodes-trust-any-stranger-on-tor",
-    "date": "Thu, 12 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/acf831401ea851c7551eb13183b3f53d9be886a8-7146x4766.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "The flaw was fixed in October 2025 and kept quiet until Tuesday. It came out alongside a high-severity bug that could stop a miner from producing blocks until someone restarted it."
-  },
-  {
-    "title": "Ripple’s bank-lending system moves closer to launch on the XRP Ledger",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/tech/2026/11/12/ripple-s-bank-lending-system-moves-closer-to-launch-on-the-xrp-ledger",
-    "date": "Thu, 12 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/9ee65ff3968544b0afabf2faf9a2f4c0f899ba43-1500x1001.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "Lending support among the ledger’s 35 validators has climbed from 19 to 22 since mid-October, and no public tracker shows which validators switched."
   },
   {
     "title": "BlackRock Bitcoin ETF outflows hit $2B over nine sessions",
@@ -80,6 +80,14 @@
     "content": "Strategy, Metaplanet and Upexi are marked for deletion in MSCI’s final list, with changes taking effect after the Nov. 30 close."
   },
   {
+    "title": "Pressure Mounts on Nvidia's Jensen Huang Amid Reports of Second Affair",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/383114/pressure-mounts-on-nvidias-jensen-huang-amid-reports-of-second-affair",
+    "date": "Thu, 12 Nov 2026",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/jensen-huang-nvidia-decrypt-style-05-gID_7.jpg@png",
+    "content": "Nvidia's board is reportedly preparing to oust its CEO, sending the chipmaker's shares down more than 5% in premarket trading."
+  },
+  {
     "title": "Nvidia-Backed CoreWeave Is Surging: Here’s What It Means for the AI Boom",
     "source": "Decrypt",
     "url": "https://decrypt.co/383099/nvidia-backed-coreweave-surging-what-means-for-ai-boom",
@@ -110,14 +118,6 @@
     "date": "Wed, 11 Nov 2026",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/AI-music-decrypt-style-03-gID_7.jpg@png",
     "content": "ACE Music v1 tops the AI music rankings with more natural vocals and stronger song structure. Our tests found impressive results, though niche genres remain a challenge."
-  },
-  {
-    "title": "Tether's Tiny AI Agent Beats Models 2.5 Times Its Size at Controlling Your Phone",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/383066/tether-tiny-ai-agent-beats-models-phone",
-    "date": "Wed, 11 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/hs-paolo-ardonio-tether-decrypt-style-01-gID_7.png@png",
-    "content": "BotPsy packs 800 million parameters into an AI assistant designed to manage everyday tasks locally, outperforming larger rivals as Tether expands its push into decentralized artificial intelligence."
   },
   {
     "title": "MSCI Removes Strategy (MSTR) From Its USA Index, Forcing Index Funds to Sell by Nov. 30",
