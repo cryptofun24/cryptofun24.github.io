@@ -1,5 +1,13 @@
 [
   {
+    "title": "Bitcoin firm Nakamoto owes Kraken $165 million, more than its entire market value",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-firm-nakamoto-owes-kraken-usd165-million-more-than-its-entire-market-value",
+    "date": "Fri, 13 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3e653e6039ba6c6faf851d6e0638d3b242e6345b-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "About 70% of the bitcoin treasury firm’s coins are pledged to the exchange, bought at roughly $118,000 each, and bitcoin now trades under $69,000."
+  },
+  {
     "title": "Bitcoin ETFs are now down over $1.5 billion in net outflows for the year",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-etfs-are-now-down-over-usd1-5-billion-in-net-outflows-for-the-year",
@@ -32,12 +40,20 @@
     "content": "Federal authorities say they've taken infrastructure used in the FaceStealer scheme used to steal as much as $400 million in crypto assets."
   },
   {
-    "title": "U.S. President Trump names CFTC, SEC nominees for first time in a year",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/policy/2026/11/12/u-s-president-names-cftc-sec-nominees-for-first-time-in-a-year",
-    "date": "Thu, 12 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4d9fac63bf692475387cdfb0b3e58fb851370fe8-4032x3024.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "U.S. President Donald Trump has named two potential commissioners each to the Securities and Exchange Commission and Commodity Futures Trading Commission."
+    "title": "Here’s what happened in crypto today",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "Fri, 13 Nov 2026",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+  },
+  {
+    "title": "Bitcoin slides below $70K amid thin liquidity, ETF outflows",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/markets/bitcoin-falls-below-70k-crypto-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "Fri, 13 Nov 2026",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M79N7DA5EN5QTEX2W50DFFNH/hi-so-what-is-happening-to-bitcoin-bear-market-1.jpg",
+    "content": "Bitcoin fell below $70,000 as crypto sentiment hit its lowest level in more than four months, with analysts warning of institutional outflows, thinning liquidity and elevated leverage."
   },
   {
     "title": "Trump nominates Hester Peirce successor among SEC, CFTC picks",
@@ -62,22 +78,6 @@
     "date": "Fri, 13 Nov 2026",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M79668CQYKG39DW60CKNSTF0/hi-gemini-review-2025-secure-regulated-and-feature-rich.jpg",
     "content": "Gemini’s third-quarter trading rebound masked a deepening retail slump."
-  },
-  {
-    "title": "Maple Finance’s strategy rift sends co-founder, COO to the exits",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/maple-finance-strategy-rift-co-founder-coo-exit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "date": "Thu, 12 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M78W1BXY18T2XKFJB5NNN63C/image-1.png",
-    "content": "Maple Finance co-founder Joe Flanagan and COO Ryan O’Shea are leaving over disagreements about the firm’s direction as SYRUP falls despite revenue growth."
-  },
-  {
-    "title": "NK hackers join memecoin trenches, xStocks adds Hong Kong equities: Asia Express",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/magazine/nk-hackers-join-memecoin-trenches-xstocks-adds-hong-kong-equities-asia-express?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "date": "Thu, 12 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M26Q2WGDD8GDA5QMCWQF3GB3/magazineasia-expresssnow.jpg",
-    "content": "North Korean hackers launch memecoins to launder funds stolen in the Binance hack, while xStocks plans to add hundreds of Hong Kong-listed equities in the coming weeks."
   },
   {
     "title": "Republican Senator Wants to Freeze AI Data Center Boom as Congress Pushes to Expand It",
