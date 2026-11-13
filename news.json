@@ -1,5 +1,13 @@
 [
   {
+    "title": "Bitcoin plunges to $68,000 as Anthropic IPO frenzy adds to market jitters",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-slides-to-usd68k-as-nvidia-turmoil-anthropic-ipo-fuel-broader-market-sell-off",
+    "date": "Fri, 13 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/8d2811403b51a25a1655a9792efd3652f2a4b825-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "Analysts see no direct link between Nvidia and bitcoin's decline, pointing instead to investor capital headed into Anthropic as well as a broader risk-off move."
+  },
+  {
     "title": "U.S. Senate Banking Committee races toward hearing on new SEC nominations",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/policy/2026/11/13/u-s-senate-banking-committee-races-toward-hearing-on-new-sec-nominations",
@@ -30,14 +38,6 @@
     "date": "Fri, 13 Nov 2026",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/3f9cbf6da5f21a1a81b4eaa15d4e4f7dcfecba8c-1600x900.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "content": "Your day-ahead look for Nov. 13, 2026"
-  },
-  {
-    "title": "Bitcoin hits 12-week low as dollar rallies on interest-rate outlook, liquidations top $1.6 billion",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-hits-12-week-low-as-dollar-rallies-on-interest-rate-outlook-liquidations-top-usd1-6-billion",
-    "date": "Fri, 13 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/08b632a654251b193a137eced80be2bec14bb635-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "Bitcoin (BTC) fell below $70,000 for the first time since August and is down 3.5% since midnight UTC, as the dollar climbs and liquidations top $1.6 billion."
   },
   {
     "title": "Metaplanet swings to $170M loss as Bitcoin sale hits earnings",
@@ -77,7 +77,15 @@
     "url": "https://cointelegraph.com/markets/nakamoto-shares-fall-after-negative-q3-revenue?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "date": "Fri, 13 Nov 2026",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1Y8ZNSF5WMPGFQ1661WSGAG/hi-why-bitcoin-treasury-stocks-fall-faster-than-the-assets-they-hold-2.jpg",
-    "content": "A $5.8 million loss on Bitcoin options pushed operating revenue below zero, and higher Bitcoin prices lifted net income to $85.5 million."
+    "content": "A $5.8 million Bitcoin options loss pushed Nakamoto’s quarterly operating revenue below zero, while the company extended repayment of $60 million in Kraken debt to 2027."
+  },
+  {
+    "title": "Dormant Bitcoin Wallets Wake Up After 16 Years, Moving $6.9 Million",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/383264/dormant-bitcoin-wallets-wake-up-after-16-years",
+    "date": "Fri, 13 Nov 2026",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-miners-decrypt-style-01-gID_7.jpg@png",
+    "content": "Two Bitcoin mining rewards from September 2010 moved minutes apart. The coins are worth nearly 1.15 million times their original market value."
   },
   {
     "title": "Fed Chair Warsh Wants Answers on AI Inflation—and Bitcoin May Feel the Impact",
@@ -110,14 +118,6 @@
     "date": "Fri, 13 Nov 2026",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/rusi-royal-united-services-institute-decrypt-style-gID_7.jpg@png",
     "content": "Assessors visit in June 2027, months before full crypto rules take effect, leaving the UK to prove it can enforce against crypto laundering."
-  },
-  {
-    "title": "‘Roadmap is Complete,' Cardano Founder Charles Hoskinson Says",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/383221/roadmap-is-complete-cardano-founder-charles-hoskinson-says",
-    "date": "Fri, 13 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/cardano-decrypt-style-02-gID_7.png@png",
-    "content": "Cardano's ADA token is down almost 95% from its all-time high, and investors don't seem to be happy that the roadmap is complete."
   },
   {
     "title": "Why Private AI is More Important Than Ever",
