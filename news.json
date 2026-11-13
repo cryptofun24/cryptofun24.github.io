@@ -1,5 +1,13 @@
 [
   {
+    "title": "Ethereum treasury firm BTCS sold ether at a loss to keep $64 million Aave loan healthy",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/11/13/ethereum-treasury-firm-btcs-sold-ether-at-a-loss-to-keep-usd64-million-aave-loan-healthy",
+    "date": "Fri, 13 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a710836626315dce07d8aff31fbc13778daf3541-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "The Nasdaq-listed company has 46,676 ETH backing its borrowings, and the loan could become eligible for liquidation if ether slides to around $1,700."
+  },
+  {
     "title": "Bitcoin firm Nakamoto owes Kraken $165 million, more than its entire market value",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/markets/2026/11/13/bitcoin-firm-nakamoto-owes-kraken-usd165-million-more-than-its-entire-market-value",
@@ -32,12 +40,12 @@
     "content": "The crypto market selloff gathered pace early Friday. Bitcoin dropped below $70,000 and ether traded below $2,000, triggering large liquidations in futures market."
   },
   {
-    "title": "North Korea's Binance hack faces U.S. crackdown as DOJ targets $1.2 billion in stolen crypto",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/policy/2026/11/12/north-korea-s-binance-hack-faces-u-s-crackdown-as-doj-targets-usd1-2-billion-in-stolen-crypto",
-    "date": "Thu, 12 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/801c568ca77ca8b74a5f2ebc71165d5955c34070-5307x3538.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "Federal authorities say they've taken infrastructure used in the FaceStealer scheme used to steal as much as $400 million in crypto assets."
+    "title": "Microsoft 365 outage hits Outlook email and Teams calendars worldwide",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/microsoft-365-global-outage-outlook-teams-ai-services?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "Fri, 13 Nov 2026",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M79XNS0NYCVT2FWE48H7WKBH/hi-microsoft-windows-data-blackout-downs.jpg",
+    "content": "Microsoft began a wider patch rollout Friday as the outage disrupted government email and Microsoft 365 connectors in ChatGPT and Claude."
   },
   {
     "title": "Here’s what happened in crypto today",
@@ -70,14 +78,6 @@
     "date": "Fri, 13 Nov 2026",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6TF8XXVHRYCKDRNDMW19WCP/analys-analytics-bisiness-man-woman-down-city-crash-nvidia.jpg",
     "content": "Reuters reported that Jensen Huang had a relationship with another Nvidia employee, hours after he resigned as CEO."
-  },
-  {
-    "title": "Gemini’s quarterly retail trading volume sinks to 3-year low",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/markets/geminis-quarterly-retail-trading-volume-sinks-to-3-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "date": "Fri, 13 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M79668CQYKG39DW60CKNSTF0/hi-gemini-review-2025-secure-regulated-and-feature-rich.jpg",
-    "content": "Gemini’s third-quarter trading rebound masked a deepening retail slump."
   },
   {
     "title": "Republican Senator Wants to Freeze AI Data Center Boom as Congress Pushes to Expand It",
