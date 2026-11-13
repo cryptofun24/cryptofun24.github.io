@@ -1,10 +1,10 @@
 [
   {
-    "title": "Live news: Bitcoin drops below 200-week moving average as dollar strength pressures risk assets",
+    "title": "Live news: Bitcoin briefly drops below 200-week moving average ",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/tech/2026/11/13/live-news-bitcoin-drops-below-200-week-moving-average-as-dollar-strength-pressures-risk-assets",
     "date": "Fri, 13 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2f9e2121440f06ba2e083bb7e77a8bbd0f06dd5d-2268x1736.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/dd47968a5dae1082e4924a4157133154942de9d2-2268x1736.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "content": "Bitcoin fell below its 200-week moving average as the Dollar Index held above 103, while gold struggled to recover and oil prices rebounded."
   },
   {
@@ -80,6 +80,22 @@
     "content": "Microsoft began a wider patch rollout Friday as the outage disrupted government email and Microsoft 365 connectors in ChatGPT and Claude."
   },
   {
+    "title": "Bitcoin Drops to $69K On 'Concentrated Liquidation' and 'Weakening' Demand",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/383214/bitcoin-drops-to-69k-on-concentrated-liquidation-and-weakening-demand",
+    "date": "Fri, 13 Nov 2026",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-24-gID_7.png@png",
+    "content": "BTC dropped 5% on Friday, falling below $69,000. Experts say it was triggered by a \"concentrated liquidation\" and \"weakening\" demand."
+  },
+  {
+    "title": "Congress Summons Ex-Nvidia CEO Jensen Huang, Lutnick Over Chip Exports to China",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/383211/congress-summons-ex-nvidia-ceo-jensen-huang-lutnick-over-chip-exports-to-china",
+    "date": "Fri, 13 Nov 2026",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/jensen-huang-nvidia-decrypt-style-05-gID_7.jpg@png",
+    "content": "House panels requested December interviews with Huang and Nvidia's top lawyer as scrutiny shifts to Commerce's oversight of chip exports."
+  },
+  {
     "title": "Republican Senator Wants to Freeze AI Data Center Boom as Congress Pushes to Expand It",
     "source": "Decrypt",
     "url": "https://decrypt.co/383206/republican-senator-freeze-ai-data-center-boom-congress-pushes-expand",
@@ -102,22 +118,6 @@
     "date": "Thu, 12 Nov 2026",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/strategy-logo-x-twitter-gID_7.png@png",
     "content": "Michael Saylor’s Bitcoin giant is being excluded from major investment benchmarks, raising questions about what qualifies as a business—and whether the decision could slow its Bitcoin buying."
-  },
-  {
-    "title": "Why the Path to Quantum Resistance Runs Uphill for Bitcoin Wallet Makers",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/383201/why-path-quantum-resistance-runs-uphill-bitcoin-wallet",
-    "date": "Thu, 12 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-19-gID_7.png@png",
-    "content": "Trezor CTO Tomáš Sušánka explains the trade-offs of Bitcoin’s leading post-quantum signature scheme."
-  },
-  {
-    "title": "Who Is Colette Kress, Jensen Huang’s Successor as Nvidia CEO?",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/383189/who-colette-kress-jensen-huang-successor-nvidia-ceo",
-    "date": "Thu, 12 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/colette-kress-nvidia-ceo-decrypt-style-gID_7.jpg@png",
-    "content": "Nvidia’s longtime finance chief inherits its first leadership transition in 33 years, bringing decades of technology experience and Wall Street credibility to a company facing a very public leadership test."
   },
   {
     "title": "DOJ Wins Court Authority to Seize $1.2 Billion of North Korea’s Stolen Binance Crypto as Freezes Top $2.7 Billion",
