@@ -1,5 +1,21 @@
 [
   {
+    "title": "Bitcoin slides to 3-month low of $65,000 as analyst flags fourth capitulation wave",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
+    "date": "Sat, 14 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d8413015947b8b9c56385e9b360930b006c68771-2280x1284.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "\"They are now selling at the very price they wish they had taken advantage of three months ago,\" wrote James Check."
+  },
+  {
+    "title": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business",
+    "date": "Sat, 14 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2cf1692a573ca1ba4ffb9090bf7fede6b3cb53e3-1920x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "Decentralized Finance total value locked on MegaETH dropped significantly from over $245 million to $8.8 million."
+  },
+  {
     "title": "Kazakhstan plans tokenized government bonds in first quarter after $22 million note sale",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/business/2026/11/14/kazakhstan-plans-tokenized-government-bonds-in-first-quarter-after-usd22-million-note-sale",
@@ -22,22 +38,6 @@
     "date": "Sat, 14 Nov 2026",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/139f96d99240c3a1ed36b5aee8360db8f6ec9f2e-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "content": "Britain could use bitcoin mining to absorb surplus Scottish wind power and reduce payments to wind farms to halt generation, according to a Bitcoin Policy Institute report."
-  },
-  {
-    "title": "A behind the scenes force may amplify bitcoin and ether price volatility",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/markets/2026/11/14/a-behind-the-scenes-force-may-amplify-bitcoin-and-ether-price-volatility",
-    "date": "Sat, 14 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/edd6986aac22b09dea34bd96bcf1c26daad85c18-1600x740.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "Both bitcoin and ether are trading in price ranges where market makers and dealers may add to market volatility."
-  },
-  {
-    "title": "Satoshi-era wallet served in a $260 billion lawsuit moves 75 BTC it held since 2011",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/markets/2026/11/13/satoshi-era-wallet-served-in-a-usd260-billion-lawsuit-moves-75-btc-it-held-since-2011",
-    "date": "Sat, 14 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/1015dde522ef326b0be42591a52370d74f450a3f-6070x4047.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "The roughly $5 million transfer also spent the tiny payment used to deliver a court notice to the address in May."
   },
   {
     "title": "Here’s what happened in crypto today",
@@ -80,6 +80,14 @@
     "content": "OpenAI’s new payment wallet lets AI agents complete purchases using existing card networks, with plans to eventually allow preauthorized transactions."
   },
   {
+    "title": "OpenAI, Anthropic, Google and Other AI Giants Face Lawsuit Demanding Development Freeze",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/383270/openai-anthropic-google-ai-giants-lawsuit-development-freeze",
+    "date": "Sat, 14 Nov 2026",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Justice-gID_7.png@png",
+    "content": "Four nonprofit advocacy groups want a California court to stop major AI developers from building stronger models, alleging their technology could cause catastrophic harm worldwide."
+  },
+  {
     "title": "What Is Canton Network? The Privacy Blockchain Built for Wall Street",
     "source": "Decrypt",
     "url": "https://decrypt.co/resources/what-is-canton-network-the-privacy-blockchain-built-for-wall-street",
@@ -110,14 +118,6 @@
     "date": "Fri, 13 Nov 2026",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/US-Capitol-decrypt-style-02-gID_7.png@png",
     "content": "A House Oversight staff memorandum, citing suspicious trades by officials, military personnel and clearance holders, recommends Congress weigh new limits on federal personnel betting on platforms like Kalshi and Polymarket."
-  },
-  {
-    "title": "China’s $3.2 Billion AI Pipeline Still Calls for Nvidia Chips Washington Restricts",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/383266/china-ai-pipeline-nvidia-chips-washington-restricts",
-    "date": "Fri, 13 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/China-USA-gID_7.jpg@png",
-    "content": "Chinese data center projects are still being designed around restricted Nvidia processors, even as Beijing pushes domestic alternatives."
   },
   {
     "title": "Bitcoin Price Falls 14% in a Week to $65,000 as Weekend Selling Breaks Friday’s Low",
