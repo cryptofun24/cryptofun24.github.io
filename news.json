@@ -1,5 +1,13 @@
 [
   {
+    "title": "Kazakhstan plans tokenized government bonds in first quarter after $22 million note sale",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/business/2026/11/14/kazakhstan-plans-tokenized-government-bonds-in-first-quarter-after-usd22-million-note-sale",
+    "date": "Sat, 14 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f848ee6dd7e6ff1afdc488982529261469645ec0-6708x4472.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "The plan follows Kazakhstan's first sale of tokenized central bank notes as the country expands its crypto market."
+  },
+  {
     "title": "UK, Singapore, and Thailand central banks test cross-border FX settlement as stablecoins gain ground",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/policy/2026/11/14/uk-singapore-and-thailand-central-banks-test-cross-border-fx-settlement-as-stablecoins-gain-ground",
@@ -30,14 +38,6 @@
     "date": "Sat, 14 Nov 2026",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/1015dde522ef326b0be42591a52370d74f450a3f-6070x4047.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "content": "The roughly $5 million transfer also spent the tiny payment used to deliver a court notice to the address in May."
-  },
-  {
-    "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
-    "date": "Fri, 13 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e48e3a851a85964cf01b2cf00f38b3063685e0e8-800x508.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "Contracts that sell power to a 4% slice of the world’s bitcoin mining at $44 a megawatt-hour expire on Dec. 31, 2027. Paraguay’s state utility calls the date final, and it has just signed a 15-year deal to power a Founders Fund-backed AI campus."
   },
   {
     "title": "Here’s what happened in crypto today",
@@ -80,6 +80,14 @@
     "content": "OpenAI’s new payment wallet lets AI agents complete purchases using existing card networks, with plans to eventually allow preauthorized transactions."
   },
   {
+    "title": "What Is Canton Network? The Privacy Blockchain Built for Wall Street",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/resources/what-is-canton-network-the-privacy-blockchain-built-for-wall-street",
+    "date": "Sat, 14 Nov 2026",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/canton-network-privacy-learn-gID_4-pID_6.png@png",
+    "content": "Canton Network is a privacy-enabled blockchain built for banks and tokenized assets. Here's how it works and what Canton Coin (CC) does."
+  },
+  {
     "title": "OpenAI Launches ChatGPT Wallet to Let AI Agents Shop—Without Crypto",
     "source": "Decrypt",
     "url": "https://decrypt.co/383278/openai-chatgpt-wallet-ai-agents-shop-without-crypto",
@@ -110,14 +118,6 @@
     "date": "Fri, 13 Nov 2026",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/China-USA-gID_7.jpg@png",
     "content": "Chinese data center projects are still being designed around restricted Nvidia processors, even as Beijing pushes domestic alternatives."
-  },
-  {
-    "title": "JPMorgan’s Bitcoin and Crypto-Linked Holdings Approach $1 Billion",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/383267/jpmorgan-bitcoin-crypto-linked-holdings-approach-1-billion",
-    "date": "Fri, 13 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/jp-morgan-jamie-dimon-decrypt-style-01-gID_7.png@png",
-    "content": "The bank’s Q3 13F shows roughly $981 million across Bitcoin ETFs, Strategy and Coinbase—likely over $1 billion counting Robinhood and miners."
   },
   {
     "title": "Bitcoin Price Falls 14% in a Week to $65,000 as Weekend Selling Breaks Friday’s Low",
