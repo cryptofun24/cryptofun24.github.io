@@ -40,6 +40,14 @@
     "content": "Bitcoin is down 21% this year as investors weigh Anthropic’s anticipated listing, Nvidia’s leadership upheaval and rising Fed rate hike expectations."
   },
   {
+    "title": "Microsoft confirms global outage resolved, rules out cyberattack",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/microsoft-365-outage-resolved-cyberattack-ruled-out?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "Sat, 14 Nov 2026",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6X8JFEEG972QNHB7E2TQ63J/hi-the-rise-of-major-institutions-is-inevitable-microsoft.jpg",
+    "content": "Microsoft attributed the outage to a network capacity upgrade issue, confirming that the disruption was unrelated to cyberattacks or AI agents."
+  },
+  {
     "title": "MegaETH parent cuts 20% of staff amid restructuring, AI push",
     "source": "CoinTelegraph",
     "url": "https://cointelegraph.com/news/megaeth-parent-cuts-20-percent-staff-ai-push?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -70,14 +78,6 @@
     "date": "Fri, 13 Nov 2026",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7BD90N5TZ75ZZMC6V10AW2D/hi-what-is-elon-musk-and-openai.png",
     "content": "OpenAI’s new payment wallet lets AI agents complete purchases using existing card networks, with plans to eventually allow preauthorized transactions."
-  },
-  {
-    "title": "Adam Back makes case for simpler security as Blockstream launches Bitcoin custody system",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/adam-back-simpler-security-blockstream-bitcoin-custody-system?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "date": "Fri, 13 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7BCCR5CYZHHWDA4BH24H4DA/portraitadam-back.png",
-    "content": "Blockstream’s new custody system, developed with Thales, uses dedicated hardware for transaction signing as Adam Back advocates for offline security to reduce cyber risks."
   },
   {
     "title": "Could a Former Nvidia Executive Replace Jensen Huang? Arm’s Rene Haas Emerges as Candidate",
