@@ -1,5 +1,13 @@
 [
   {
+    "title": "Lighter suspends all withdrawals after $10.4 million crypto exploit",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/tech/2026/11/16/lighter-suspends-all-withdrawals-after-usd10-4-million-crypto-exploit",
+    "date": "Mon, 16 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/df75194a14ee0137a319a24c95c7971dfac737a2-4896x3268.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "The decentralized exchange blamed a leaked trading API key and said its smart contracts were unaffected, while investigators traced funds to Hyperliquid."
+  },
+  {
     "title": "Brazil's central bank faces backlash over stablecoin money laundering remarks",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/business/2026/11/16/brazil-s-central-bank-faces-backlash-over-stablecoin-money-laundering-remarks",
@@ -32,12 +40,12 @@
     "content": "CZ says Binance isn’t selling crypto and he has been buying. OKX founder Star Xu accuses him of misleading customers about the exchange’s role in successive October crashes."
   },
   {
-    "title": "Bitcoin was supposed to gain as AI faltered, but it crashed. Here's why.",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/daybook-us/2026/11/16/bitcoin-was-supposed-to-gain-as-ai-faltered-but-it-crashed-here-s-why",
+    "title": "Safe wallet reportedly drained of $6.5M after likely key compromise",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/safe-wallet-reportedly-loses-millions-after-key-compromise?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "date": "Mon, 16 Nov 2026",
-    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "The price action runs counter to a crypto-market view that a cooling AI trade would trigger a rotation into digital assets and spark a rally."
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7JKHE8AKT8EG64S6TQC9CZW/hi-why-spot-the-typo-is-no-longer-enough-for-crypto-security-1.png",
+    "content": "Zodiac’s co-founder said a likely compromised key and overly permissive wallet settings enabled the theft, rather than a flaw in its smart contracts."
   },
   {
     "title": "Bitcoin price fails to hold $65K as US stocks drop further on AI nerves",
@@ -72,12 +80,20 @@
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
   },
   {
-    "title": "Banks are banning AI agents over security... and competition concerns",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/magazine/banks-are-banning-ai-agents-over-security-and-competition-concerns?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Saylor’s Strategy Keeps Buying Bitcoin, Adding 'A Little Orange' Through the Dip",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/383347/saylor-strategy-buying-bitcoin-adding-little-orange-dip",
     "date": "Mon, 16 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M77N5CQZH7NKG0SY1V5FFCPB/magazineai-agents-will-kill-the-web-as-we-know-it.png",
-    "content": "AI agents are set to automate everyday banking tasks — but banks aren’t ready to give up control of the customer relationship just yet."
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/strategy-logo-x-twitter-gID_7.png@png",
+    "content": "The modest purchase lifted Strategy’s stash to 850,849 BTC as chairman Michael Saylor shrugged off a sharp downturn, posting that “this dip could use a little orange.”"
+  },
+  {
+    "title": "'Tokenization Is Not the Finish Line': Jupiter to Let Users Borrow Against Bullish Shares",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/383333/tokenization-is-not-the-finish-line-jupiter-to-let-users-borrow-against-bullish-shares",
+    "date": "Mon, 16 Nov 2026",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/kash-dhanda-jupiter-gID_7.jpg@png",
+    "content": "The Solana trading platform unveiled a permissioned lending market, identity passport and issuer liquidity services at Breakpoint."
   },
   {
     "title": "Solana Drops 'Mainnet Beta' After Six Years: Here's What 1.0 Is All About",
@@ -102,22 +118,6 @@
     "date": "Mon, 16 Nov 2026",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/boris-johnson-decrypt-style-gID_7.jpg@png",
     "content": "The former UK prime minister told a Solana conference he backs blockchain but still doubts Bitcoin, months after calling it a Ponzi."
-  },
-  {
-    "title": "Morning Minute: Crypto Hits Extreme Fear as Bitcoin Plunges",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/383301/morning-minute-crypto-hits-extreme-fear-as-bitcoin-plunges",
-    "date": "Mon, 16 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-decrypt-style-27-gID_7.jpg@png",
-    "content": "Why is crypto selling off so hard over the past few weeks? CZ chimes in with his thoughts, while confirming he and Binance aren’t selling."
-  },
-  {
-    "title": "Ledger Brings Clear Signing to Solana, Ending 'Blind' Signing for Jupiter Swaps",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/383302/ledger-brings-clear-signing-to-solana-ending-blind-signing-for-jupiter-swaps",
-    "date": "Mon, 16 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/ledger-flex-decrypt-style-01-gID_7.jpg@png",
-    "content": "The hardware wallet manufacturer says users can now read what they're approving on nine Solana apps, as it pitches its Atom device."
   },
   {
     "title": "Harvard Holds 3.04 Million Bitcoin ETF Shares Steady",
