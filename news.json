@@ -1,5 +1,21 @@
 [
   {
+    "title": "Brazil's central bank faces backlash over stablecoin money laundering remarks",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/business/2026/11/16/brazil-s-central-bank-faces-backlash-over-stablecoin-money-laundering-remarks",
+    "date": "Mon, 16 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a010b6e8d5d9fab88360e6939414f5b12c6bf695-1920x1272.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "A central bank official reportedly said legitimate funds become tainted when moved into stablecoins, comparing the market to the informal \"dólar-cabo\" system."
+  },
+  {
+    "title": "German parliament proposes crypto seizures without criminal charges",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/policy/2026/11/16/german-parliament-proposes-crypto-seizures-without-criminal-charges",
+    "date": "Mon, 16 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/21123d64d51278ef35094d798bbbf4299d8fb1f9-1920x1150.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "German lawyers said a proposed law allowing the seizure of assets worth more than 100,000 euros could impose a burden of proof on crypto holders rather than the authorities."
+  },
+  {
     "title": "Solana drops ‘beta’ label after more than six years",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/tech/2026/11/16/solana-drops-beta-label-after-more-than-six-years",
@@ -24,20 +40,20 @@
     "content": "The price action runs counter to a crypto-market view that a cooling AI trade would trigger a rotation into digital assets and spark a rally."
   },
   {
-    "title": "Singapore, Germany test cross-border payments to reduce settlement risk",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/business/2026/11/16/singapore-germany-test-cross-border-payments-to-reduce-settlement-risk",
+    "title": "Bitcoin price fails to hold $65K as US stocks drop further on AI nerves",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/markets/bitcoin-price-fails-to-hold-65k-us-stocks-drop-on-ai-nerves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "date": "Mon, 16 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/396fee9fa61b67f9e1e4910772815314cadeb26e-1920x1281.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "Zero-knowledge proofs let each ledger verify the other leg was locked, so neither currency settled unless both did, with no shared ledger or intermediary."
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7JHP4NCX2Y0XJ53GG2CQ9P5/article-covers-251323-bitcoin-market-enters-full-capitulation-price-dips-below-63k-1280x853.webp",
+    "content": "Bitcoin and US equities saw pressure to start the week as traders weighed the impact of forthcoming Nvidia Q3 earnings and Anthropic’s IPO announcement."
   },
   {
-    "title": "Bitcoin slips after rebounding from July 14 low that triggered $2 billion of liquidations",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-slips-to-usd64-000-after-usd2-billion-weekend-flush",
+    "title": "Zelle picks Solana for ZelleUSD stablecoin and international payments",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/zelle-solana-zelleusd-stablecoin-international-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "date": "Mon, 16 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/99275e65a09f45a355f488dc07959ff17f416731-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "Bitcoin (BTC) is down 1.6% since midnight UTC at around $64,300, after falling to $62,100 on Sunday, its lowest since July 14, as traders await Nvidia earnings."
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7J2PYBEKD9SZX7YQXC7QW4N/network-with-transparent-logos.png",
+    "content": "Zelle plans to use Solana for its ZelleUSD stablecoin and international payments, with confidential transfers designed to hide payment amounts."
   },
   {
     "title": "Lighter pauses withdrawals after reported $10M account theft",
@@ -64,20 +80,28 @@
     "content": "AI agents are set to automate everyday banking tasks — but banks aren’t ready to give up control of the customer relationship just yet."
   },
   {
-    "title": "Strategy buys $33M in Bitcoin, spends $228M on STRC buybacks",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/strategy-buy-485-bitcoin-228-million-strc-buyback?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Solana Drops 'Mainnet Beta' After Six Years: Here's What 1.0 Is All About",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/383322/solana-drops-mainnet-beta-after-six-years",
     "date": "Mon, 16 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7J7K9K6T0PTX9XTZ5X8P8KY/trader-trading-strategy-strategyb.jpg",
-    "content": "Strategy bought 485 Bitcoin for $33.4 million and spent $228.1 million repurchasing STRC preferred shares, largely funded by new common stock sales."
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/solana-decrypt-style-01-gID_7.png@png",
+    "content": "Solana's 1.0 designation gives developers a common way to track network rules. Here's what it means for users and builders."
   },
   {
-    "title": "Binance Pay Later offers credit backed by Bitcoin, Ether and BNB holdings",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/binance-pay-later-crypto-backed-credit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "DTCC, Barclays Say Tokenization's Real Prize Is Unlocking Idle Collateral",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/383316/dtcc-barclays-say-tokenizations-real-prize-is-unlocking-idle-collateral",
     "date": "Mon, 16 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7J07ZYWCJ0MH18HZT45S0TD/hi-which-cryptocurrency-is-the-most-usable-as-real-money-bitcoin.jpg",
-    "content": "Eligible users can access up to 1,000 USDC in credit against their Bitcoin, Ether or BNB for purchases via Binance Card or QR Pay."
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/barclays-dtcc-breakpoint-gID_7.jpg@png",
+    "content": "Executives from the U.S. settlement giant and Barclays told Solana's Breakpoint that adoption is early, but accelerating."
+  },
+  {
+    "title": "'Nobody Knows Who's in Charge': Boris Johnson Stands by Bitcoin Skepticism at Breakpoint",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/383307/nobody-knows-whos-in-charge-boris-johnson-stands-by-bitcoin-skepticism-at-breakpoint",
+    "date": "Mon, 16 Nov 2026",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/boris-johnson-decrypt-style-gID_7.jpg@png",
+    "content": "The former UK prime minister told a Solana conference he backs blockchain but still doubts Bitcoin, months after calling it a Ponzi."
   },
   {
     "title": "Morning Minute: Crypto Hits Extreme Fear as Bitcoin Plunges",
@@ -96,28 +120,20 @@
     "content": "The hardware wallet manufacturer says users can now read what they're approving on nine Solana apps, as it pitches its Atom device."
   },
   {
-    "title": "German Lawmakers Back Customs Powers to Seize Crypto of 'Unclear Origin'",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/383297/german-lawmakers-back-customs-powers-to-seize-crypto-of-unclear-origin",
+    "title": "Harvard Holds 3.04 Million Bitcoin ETF Shares Steady",
+    "source": "Bitcoin Magazine",
+    "url": "https://bitcoinmagazine.com/news/harvard-holds-ibit-stake-steady-304-mil",
     "date": "Mon, 16 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png@png",
-    "content": "A new law lets Germany's customs agency freeze assets worth more than €100,000 without a criminal case if their origin is in doubt."
+    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
+    "content": "Bitcoin Magazine Harvard Holds 3.04 Million Bitcoin ETF Shares Steady Harvard Management Company's latest 13F shows it still holds 3,044,612 shares of BlackRock's iShares Bitcoin Trust, unchanged since March, a stake now worth about $110.6 million after bitcoin's slide. This post Harvard Holds 3.04 Million Bitcoin ETF Shares Steady first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
   },
   {
-    "title": "Vitalik Buterin Now ‘a Total Bull’ on leanPCS as Fast Track to Quantum-Safe Ethereum",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/383294/vitalik-buterin-now-a-total-bull-on-leanpcs-as-fast-track-to-quantum-safe-ethereum",
+    "title": "Supreme Court Ends Custodia Bank’s Fight for a Fed Master Account, Leaving the Fed Free to Deny Crypto Banks Access",
+    "source": "Bitcoin Magazine",
+    "url": "https://bitcoinmagazine.com/news/supreme-court-ends-custodia-fed-master",
     "date": "Mon, 16 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Vitalik-Buterin-DecryptStyle3-scaled-gID_7.jpg@png",
-    "content": "The Ethereum co-founder says proof aggregation could deliver a \"cryptographic proof singularity\" much sooner than developers expected."
-  },
-  {
-    "title": "Elon Musk Joins 160,000 Backing Petition to Bring Jensen Huang Back to Nvidia",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/383286/elon-musk-joins-160000-backing-petition-to-bring-jensen-huang-back-to-nvidia",
-    "date": "Mon, 16 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/jensen-huang-nvidia-elon-musk-gID_7.jpg@png",
-    "content": "Huang has reportedly discussed a comeback with confidants, but Treasury Secretary Scott Bessent says Nvidia needs a \"dramatic shake-up.\""
+    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
+    "content": "Bitcoin Magazine Supreme Court Ends Custodia Bank&#8217;s Fight for a Fed Master Account, Leaving the Fed Free to Deny Crypto Banks Access The Supreme Court denied Custodia Bank's petition in No. 26-62 on Monday, leaving in place a Tenth Circuit ruling that Federal Reserve Banks may reject even eligible applicants for master accounts. This post Supreme Court Ends Custodia Bank&#8217;s Fight for a Fed Master Account, Leaving the Fed Free to Deny Crypto Banks Access first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
   },
   {
     "title": "Hong Kong to License Crypto Dealers and Custodians by Year-End",
@@ -142,21 +158,5 @@
     "date": "Mon, 16 Nov 2026",
     "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
     "content": "Bitcoin Magazine Strive (ASST) Buys 251 Bitcoin for $17.5 Million as Shares Drop 10% Premarket Strive bought 251 bitcoin last week for $17.5 million at a $69,853 average, lifting holdings to 43,404 BTC, as shares dropped 9.5% premarket after bitcoin's weekend slide. This post Strive (ASST) Buys 251 Bitcoin for $17.5 Million as Shares Drop 10% Premarket first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
-  },
-  {
-    "title": "Bitcoin Price Trades Near $64,000 After Weekend Plunge to $62,000",
-    "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-64000-tech",
-    "date": "Mon, 16 Nov 2026",
-    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "Bitcoin Magazine Bitcoin Price Trades Near $64,000 After Weekend Plunge to $62,000 Bitcoin price traded near $64,000 on Monday morning after plunging to $62,000 over the weekend, as Nasdaq futures slid ahead of Nvidia's earnings and traders braced for a December Fed hike. This post Bitcoin Price Trades Near $64,000 After Weekend Plunge to $62,000 first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
-  },
-  {
-    "title": "Strategy (MSTR) Adds 485 Bitcoin for $33.4 Million as It Spends $228 Million Buying Back Preferred Stock",
-    "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/news/strategy-mstr-adds-485-bitcoin-holdings",
-    "date": "Mon, 16 Nov 2026",
-    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "Bitcoin Magazine Strategy (MSTR) Adds 485 Bitcoin for $33.4 Million as It Spends $228 Million Buying Back Preferred Stock Strategy bought 485 bitcoin for $33.4 million at a $68,887 average, lifting holdings to 850,849 BTC, while spending $228.1 million buying back STRC preferred shares. This post Strategy (MSTR) Adds 485 Bitcoin for $33.4 Million as It Spends $228 Million Buying Back Preferred Stock first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
   }
 ]
