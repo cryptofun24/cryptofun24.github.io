@@ -1,5 +1,13 @@
 [
   {
+    "title": "Bitcoin slips after rebounding from July 14 low that triggered $2 billion of liquidations",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-slips-to-usd64-000-after-usd2-billion-weekend-flush",
+    "date": "Mon, 16 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/99275e65a09f45a355f488dc07959ff17f416731-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "Bitcoin (BTC) is down 1.6% since midnight UTC at around $64,300, after falling to $62,100 on Sunday, its lowest since July 14, as traders await Nvidia earnings."
+  },
+  {
     "title": "Live news: Bitcoin posts sixth weekly loss as tech stocks and metals slide",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/tech/2026/11/16/live-news-bitcoin-posts-sixth-weekly-loss-as-tech-stocks-and-metals-slide",
@@ -32,12 +40,20 @@
     "content": "A proposed system would combine bulky digital signatures into a shared proof, helping protect wallets without making every payment much more expensive."
   },
   {
-    "title": "Bitcoin miners were hijacked and their BTC rewards redirected to an attacker",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/tech/2026/11/16/bitcoin-miners-were-hijacked-and-their-btc-rewards-redirected-to-an-attacker",
+    "title": "Singapore, Germany test cross-border FX settlement with CBDCs",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/singapore-german-central-banks-settlement-cbdcs?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "date": "Mon, 16 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/24d3f69befbaee5d806b9369ad2fb160ee40d9e0-1900x1268.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "Luxor said just over a dozen customers were affected and will be reimbursed after their machines were redirected to another mining pool."
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7HWN6S3QM8JYZVAE091TE12/hi-love-it-or-hate-it-cryptos-vibe-shift-is-now-imminent2.jpg",
+    "content": "Project Simbolon aims to reduce the cost and time of cross-border settlement and promote common standards for payments and FX"
+  },
+  {
+    "title": "BTC price tags 18-week low into Nvidia earnings: Three things to know in Bitcoin this week",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/markets/btc-price-18-week-low-nvidia-three-things-know-bitcoin-this-week?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "Mon, 16 Nov 2026",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7HVW7XS4YT09R4XZ0NJ36S1/article-covers-154231-bitcoin-s-drop-below-62-k-shows-btc-price-remains-on-delicate-ground-960x640.webp",
+    "content": "Bitcoin traders awaited Nvidia Q3 earnings after BTC price selling pressure saw a dip below $62,000 at the weekend."
   },
   {
     "title": "DBS, JPMorgan’s Kinexys launch 24/7 transfers of tokenized deposits",
@@ -64,20 +80,20 @@
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
   },
   {
-    "title": "Aster CEO suspects foul play after token plunges 32% in minutes",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/markets/aster-ceo-suspects-foul-play-after-token-plunges-32-in-minutes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "German Lawmakers Back Customs Powers to Seize Crypto of 'Unclear Origin'",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/383297/german-lawmakers-back-customs-powers-to-seize-crypto-of-unclear-origin",
     "date": "Mon, 16 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7HCTKP0DY9SJ6Z1XG7SGW4T/aquapark-falling-market-red.jpg",
-    "content": "Aster’s CEO attributed the extreme volatility to highly leveraged liquidations but said the exchange remained operational."
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png@png",
+    "content": "A new law lets Germany's customs agency freeze assets worth more than €100,000 without a criminal case if their origin is in doubt."
   },
   {
-    "title": "Asian chip stocks tumble ahead of Nvidia Q3 earnings",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/markets/asian-chip-stocks-tumble-ahead-of-nvidia-q3-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Vitalik Buterin Now ‘a Total Bull’ on leanPCS as Fast Track to Quantum-Safe Ethereum",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/383294/vitalik-buterin-now-a-total-bull-on-leanpcs-as-fast-track-to-quantum-safe-ethereum",
     "date": "Mon, 16 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7HAG95YKRDAYZ26YFMBK4VQ/stocks-1.jpg",
-    "content": "The weakness came amid a wider sell-off in regional equity markets, with Japan’s Nikkei 225 down 2% and South Korea’s Kospi losing 2.6%."
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Vitalik-Buterin-DecryptStyle3-scaled-gID_7.jpg@png",
+    "content": "The Ethereum co-founder says proof aggregation could deliver a \"cryptographic proof singularity\" much sooner than developers expected."
   },
   {
     "title": "Elon Musk Joins 160,000 Backing Petition to Bring Jensen Huang Back to Nvidia",
@@ -102,22 +118,6 @@
     "date": "Sun, 15 Nov 2026",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/bitcoin-etf-decrypt-style-01-gID_7.jpg@png",
     "content": "Spot Bitcoin ETFs shed $185.4 million on Friday, their seventh straight day of outflows, pushing November losses to about $2.1 billion as Bitcoin fell toward $64,000."
-  },
-  {
-    "title": "The Week Jensen Huang Fell: How a Spy Scandal Toppled Nvidia’s CEO",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/383280/the-week-jensen-huang-fell-how-spy-scandal-toppled-nvidia-ceo",
-    "date": "Sat, 14 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/jensen-huang-nvidia-decrypt-style-05-gID_7.jpg@png",
-    "content": "In a matter of days, the executive synonymous with the AI boom resigned after 33 years amid reports of affairs and suspected Chinese intelligence ties—sending Nvidia’s stock reeling and leaving the chipmaker leaderless."
-  },
-  {
-    "title": "OpenAI, Anthropic, Google and Other AI Giants Face Lawsuit Demanding Development Freeze",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/383270/openai-anthropic-google-ai-giants-lawsuit-development-freeze",
-    "date": "Sat, 14 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Justice-gID_7.png@png",
-    "content": "Four nonprofit advocacy groups want a California court to stop major AI developers from building stronger models, alleging their technology could cause catastrophic harm worldwide."
   },
   {
     "title": "Peruvian Bull: The Yen Carry Trade and Bitcoin’s Road to $300k",
