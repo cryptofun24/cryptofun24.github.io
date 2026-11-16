@@ -1,5 +1,13 @@
 [
   {
+    "title": "Bitcoin risks falling below $60,000 as Nvidia earnings threaten to deepen crypto sell-off",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-risks-falling-below-usd60-000-as-nvidia-earnings-threaten-to-deepen-crypto-sell-off",
+    "date": "Mon, 16 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/bb223eb7b2ddf393991cceaeddd92370f4d55e1d-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "Rising bond yields, ETF outflows and forced selling are weighing on bitcoin as traders brace for more losses."
+  },
+  {
     "title": "U.S. Senate Democrats tell CFTC to back off its demand prediction markets defy bans",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/policy/2026/11/16/u-s-senate-democrats-tell-cftc-to-back-off-its-demand-prediction-markets-defy-bans",
@@ -32,12 +40,20 @@
     "content": "German lawyers said a proposed law allowing the seizure of assets worth more than 100,000 euros could impose a burden of proof on crypto holders rather than the authorities."
   },
   {
-    "title": "Solana drops ‘beta’ label after more than six years",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/tech/2026/11/16/solana-drops-beta-label-after-more-than-six-years",
+    "title": "Boris Johnson says UK must lead blockchain development despite crypto doubts",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/boris-johnson-uk-must-lead-blockchain-development-despite-crypto-doubts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "date": "Mon, 16 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/54c0f3b41e62df4cdf774aab4c7d68c64e5e976c-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "The blockchain is getting a shared version number. Wallets, transactions and apps remain unchanged."
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1KWG2BF4FVCFASCKG2BAG5D/peace-and-friendship-uk-1.jpg",
+    "content": "Johnson was joined by Lord Ross Kempsell who called for regulators to work with industry participants to bring the UK to the forefront."
+  },
+  {
+    "title": "Coinbase and Broadridge propose standard for tokenized stock disclosures",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/coinbase-broadridge-tokenized-stock-shareholder-notices?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "Mon, 16 Nov 2026",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7JTN734VB6CHE3TCTHAYQMT/digital-bonds-on-blockchain-2.png",
+    "content": "The proposed standard aims to connect tokenized stockholders with corporate disclosures and voting materials across digital wallets, but would not create shareholder rights."
   },
   {
     "title": "Nvidia turmoil tests Bitcoin miners’ AI funding plans",
@@ -64,20 +80,12 @@
     "content": "Bitcoin and US equities saw pressure to start the week as traders weighed the impact of forthcoming Nvidia Q3 earnings and Anthropic’s IPO announcement."
   },
   {
-    "title": "Zelle picks Solana for ZelleUSD stablecoin and international payments",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/zelle-solana-zelleusd-stablecoin-international-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Tom Lee Blames Nvidia and Anthropic IPO for Ethereum Plunge as Bitmine Buys the Dip",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/383364/tom-lee-blames-nvidia-anthropic-ipo-ethereum-plunge-bitmine-buys",
     "date": "Mon, 16 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7J2PYBEKD9SZX7YQXC7QW4N/network-with-transparent-logos.png",
-    "content": "Zelle plans to use Solana for its ZelleUSD stablecoin and international payments, with confidential transfers designed to hide payment amounts."
-  },
-  {
-    "title": "Lighter pauses withdrawals after reported $10M account theft",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/lighter-dex-pauses-withdrawals-10m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "date": "Mon, 16 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7J8N3NZM3XQTBBET43XGEQG/hi-the-role-of-cryptocurrencies-in-the-rise-of-ransomware2-1.jpg",
-    "content": "Lighter has paused withdrawals after reporting a leaked trader API key, with Bubblemaps tracking $10.4 million withdrawn."
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/tom-lee-fundstrat-decrypt-style-02-gID_7.jpg@png",
+    "content": "The firm’s stash fell to $11.8 billion from $14.3 billion a week earlier as ETH slid 28% in two weeks, a “waterfall” drop chairman Tom Lee blames on Nvidia fallout and cash-raising ahead of Anthropic’s IPO."
   },
   {
     "title": "Clarity Act Defeat ‘Failure of American Leadership’: Trump’s Former Crypto Chief",
@@ -112,12 +120,20 @@
     "content": "Nvidia shares tanked specularly last week amid the Jensen Huang scandal. Is it in for a major rebound? Here’s what the charts suggest."
   },
   {
-    "title": "Saylor’s Strategy Keeps Buying Bitcoin, Adding 'A Little Orange' Through the Dip",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/383347/saylor-strategy-buying-bitcoin-adding-little-orange-dip",
+    "title": "Senate Agriculture Committee to Hear Trump’s CFTC Nominees Tuesday",
+    "source": "Bitcoin Magazine",
+    "url": "https://bitcoinmagazine.com/news/cftc-nominees-senate-hearing-tuesday",
     "date": "Mon, 16 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/strategy-logo-x-twitter-gID_7.png@png",
-    "content": "The modest purchase lifted Strategy’s stash to 850,849 BTC as chairman Michael Saylor shrugged off a sharp downturn, posting that “this dip could use a little orange.”"
+    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
+    "content": "Bitcoin Magazine Senate Agriculture Committee to Hear Trump&#8217;s CFTC Nominees Tuesday The Senate Agriculture Committee will hear Nathan Anonick and Matthew Rowland on Tuesday, President Trump's bipartisan picks to join CFTC Chairman Michael Selig, currently the agency's only sitting commissioner. This post Senate Agriculture Committee to Hear Trump&#8217;s CFTC Nominees Tuesday first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
+  },
+  {
+    "title": "$36B Wealth Firm Strategist: Bitcoin’s Supercycle Is “Still Intact”",
+    "source": "Bitcoin Magazine",
+    "url": "https://bitcoinmagazine.com/videos/36b-wealth-firm-strategist-bitcoins-supercycle-is-still-intact",
+    "date": "Mon, 16 Nov 2026",
+    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
+    "content": "&#9654; Bitcoin Magazine $36B Wealth Firm Strategist: Bitcoin’s Supercycle Is “Still Intact” James Thorne, Chief Market Strategist at Wellington-Altus, tells BMTV that Bitcoin's super cycle is still intact after the drop from about 83,000 in mid-October to around 64,000. This post $36B Wealth Firm Strategist: Bitcoin’s Supercycle Is “Still Intact” first appeared on Bitcoin Magazine and is written by Patrick Green ."
   },
   {
     "title": "German Bundestag Lets Customs Freeze Crypto Over €100,000 Without a Criminal Case as the Bill Goes to the Bundesrat",
@@ -142,21 +158,5 @@
     "date": "Mon, 16 Nov 2026",
     "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
     "content": "Bitcoin Magazine Harvard Holds 3.04 Million Bitcoin ETF Shares Steady Harvard Management Company's latest 13F shows it still holds 3,044,612 shares of BlackRock's iShares Bitcoin Trust, unchanged since March, a stake now worth about $110.6 million after bitcoin's slide. This post Harvard Holds 3.04 Million Bitcoin ETF Shares Steady first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
-  },
-  {
-    "title": "Supreme Court Ends Custodia Bank’s Fight for a Fed Master Account, Leaving the Fed Free to Deny Crypto Banks Access",
-    "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/news/supreme-court-ends-custodia-fed-master",
-    "date": "Mon, 16 Nov 2026",
-    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "Bitcoin Magazine Supreme Court Ends Custodia Bank&#8217;s Fight for a Fed Master Account, Leaving the Fed Free to Deny Crypto Banks Access The Supreme Court denied Custodia Bank's petition in No. 26-62 on Monday, leaving in place a Tenth Circuit ruling that Federal Reserve Banks may reject even eligible applicants for master accounts. This post Supreme Court Ends Custodia Bank&#8217;s Fight for a Fed Master Account, Leaving the Fed Free to Deny Crypto Banks Access first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
-  },
-  {
-    "title": "Hong Kong to License Crypto Dealers and Custodians by Year-End",
-    "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/news/hong-kong-license-crypto-dealers-custodian",
-    "date": "Mon, 16 Nov 2026",
-    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "Bitcoin Magazine Hong Kong to License Crypto Dealers and Custodians by Year-End Financial Secretary Paul Chan said Hong Kong will introduce a bill by year-end to license crypto dealers, advisers, managers and custodians, after only two of 36 first-round stablecoin applicants received licenses in April. This post Hong Kong to License Crypto Dealers and Custodians by Year-End first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
   }
 ]
