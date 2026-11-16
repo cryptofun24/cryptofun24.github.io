@@ -1,5 +1,13 @@
 [
   {
+    "title": "Bitcoin’s biggest bet is now a drop below $60,000, not a rally above $100,000",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/11/16/bitcoin-s-biggest-bet-is-now-a-drop-below-usd60-000-not-a-rally-above-usd100-000",
+    "date": "Mon, 16 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/1faa0efcc61bdd97c1f9445e77972c18db9f5803-2608x903.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "The $60,000 put has replaced the $100,000 call as bitcoin’s biggest options bet on Deribit, with $900 million in open interest after the recent slide."
+  },
+  {
     "title": "Did prediction markets call the U.S. midterm election?: State of Crypto ",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/policy/2026/11/15/did-prediction-markets-call-the-u-s-midterm-election-state-of-crypto",
@@ -32,15 +40,23 @@
     "content": "\"They are now selling at the very price they wish they had taken advantage of three months ago,\" wrote James Check."
   },
   {
-    "title": "Ethereum scaling project MegaETH slashes staff by 20% as it pursues AI business",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/business/2026/11/14/ethereum-scaling-project-megaeth-slashes-staff-by-20-as-it-pursues-ai-business",
-    "date": "Sat, 14 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2cf1692a573ca1ba4ffb9090bf7fede6b3cb53e3-1920x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "Decentralized Finance total value locked on MegaETH dropped significantly from over $245 million to $8.8 million."
+    "title": "Aster CEO suspects foul play after token plunges 32% in minutes",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/markets/aster-ceo-suspects-foul-play-after-token-plunges-32-in-minutes?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "Mon, 16 Nov 2026",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7HCTKP0DY9SJ6Z1XG7SGW4T/aquapark-falling-market-red.jpg",
+    "content": "Aster’s CEO attributed the extreme volatility to highly leveraged liquidations but said the exchange remained operational."
   },
   {
-    "title": "Luxor CEO warns of AI ‘dark forest’ after Bitcoin miner hijack",
+    "title": "Asian chip stocks tumble ahead of Nvidia Q3 earnings",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/markets/asian-chip-stocks-tumble-ahead-of-nvidia-q3-earnings?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "Mon, 16 Nov 2026",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7HAG95YKRDAYZ26YFMBK4VQ/stocks-1.jpg",
+    "content": "The weakness came amid a wider sell-off in regional equity markets, with Japan’s Nikkei 225 down 2% and South Korea’s Kospi losing 2.6%."
+  },
+  {
+    "title": "Luxor CEO warns of AI ‘dark forest’ following Bitcoin miner hijack",
     "source": "CoinTelegraph",
     "url": "https://cointelegraph.com/news/luxor-ceo-warns-of-ai-dark-forest-after-bitcoin-miner-hijack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "date": "Mon, 16 Nov 2026",
@@ -62,22 +78,6 @@
     "date": "Sun, 15 Nov 2026",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7GHDR0B3KQVHBYYPZ3528NV/jensen-in-flames.png",
     "content": "Anchorage Digital data suggests the Bitcoin selloff is being driven by US investors. A “war room” has been set up by supporters to reinstate Nvidia boss Jensen Huang."
-  },
-  {
-    "title": "Enterprise blockchain is going to come back from the dead",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/opinion/enterprise-blockchain-come-back-from-dead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "date": "Sun, 15 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M6ZMF6J25WASD4RQJDF0BRKT/hi-if-blockchain-is-the-door-to-the-future-of-finance-liquidity-is-the-key.jpg",
-    "content": "With scalability, privacy tools and onchain liquidity improving, businesses may finally have the infrastructure to make enterprise blockchain work."
-  },
-  {
-    "title": "Here’s what happened in crypto today",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "date": "Sun, 15 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-    "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
   },
   {
     "title": "How Wall Street Is Racing to Claim the Onchain Dollar",
