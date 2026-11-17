@@ -1,5 +1,21 @@
 [
   {
+    "title": "Coinbase CEO says AI agents will account for '99.9%' of transactions within a decade",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/11/17/coinbase-ceo-says-ai-agents-will-account-for-99-9-of-transactions-within-a-decade",
+    "date": "Tue, 17 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/860e34a0b9f5f6ea80a7e650ed7dfcb018dbc84d-4032x3024.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "Brian Armstrong says Coinbase is building payment tools for AI agents and believes bitcoin has hit bottom despite the selloff."
+  },
+  {
+    "title": "Predictions platform Kalshi complies with order to halt Trump mention contracts",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/policy/2026/11/17/predictions-platform-kalshi-complies-with-order-to-halt-trump-mention-contracts",
+    "date": "Tue, 17 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f69527e09da1d55af841386d4d037d51290886d5-3849x2165.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "The company confirmed that the Commodity Futures Trading Commission ordered it to stop \"mention\" contracts involving the U.S. president."
+  },
+  {
     "title": "Druckenmiller says he is short copper, warns of economic weakness in 2027",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/business/2026/11/17/druckenmiller-says-he-is-short-copper-warns-of-economic-weakness-in-2027",
@@ -22,22 +38,6 @@
     "date": "Tue, 17 Nov 2026",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/f96187856f3474dbbb316e0769389671addb2f9c-2288x1712.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "content": "Hong Kong and Swift expanded their efforts to connect tokenized bank deposits across currencies, building on earlier work involving digital central bank money."
-  },
-  {
-    "title": "Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/tech/2026/11/17/ethereum-s-glamsterdam-upgrade-risks-breaking-up-to-15-000-contracts",
-    "date": "Tue, 17 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "In addition to that broader estimate, independent audits have uncovered hundreds of separate compatibility problems, with core developers set to reconsider the changes Thursday."
-  },
-  {
-    "title": "Decentralized exchange Grvt looks to makes commodity trading more predictable with stable funding perps",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/markets/2026/11/17/decentralized-exchange-grvt-makes-commodity-trading-more-predictable-with-stable-funding-perps",
-    "date": "Tue, 17 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/7c6413a37277d42b1a4ed765b17dadc53172c1a4-1152x648.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "Grvt’s new Stable Funding Perps tie the cost of holding commodities trades to traditional-market financing costs, rather than volatile crypto-style funding."
   },
   {
     "title": "Lighter incident exposes risks beyond withdrawal controls",
@@ -80,6 +80,22 @@
     "content": "Solana Foundation now holds a majority interest in CoinGecko, its product chief said, as the crypto data platform explores trading features."
   },
   {
+    "title": "Cathie Wood's ARK Sells $85 Million in Nvidia, Buys $40 Million in Crypto Stocks",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/383463/cathie-wood-ark-sells-85-million-nvidia-buys-crypto-stocks",
+    "date": "Tue, 17 Nov 2026",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/12/cathie-wood-ark-invest-decrypt-style-02-gID_7.jpg@png",
+    "content": "Cathie Wood's funds trimmed Nvidia ahead of earnings while buying Block, Circle and Coinbase during Monday's selloff."
+  },
+  {
+    "title": "Ethereum Devs Weigh a Scaling Upgrade That Could Break 15,000 Apps",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/383462/ethereum-devs-scaling-upgrade-could-break-15000-apps",
+    "date": "Tue, 17 Nov 2026",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/ethereum-decrypt-style-05-gID_7.png@png",
+    "content": "Developers warned on a core dev call that two scaling changes in the Glamsterdam upgrade break assumptions some contracts rely on—pitting a 3.3x capacity boost against the risk of disrupting thousands of apps."
+  },
+  {
     "title": "Jensen Huang Says He'd Be 'Honored' to Return as Nvidia CEO, Despite Board's Resistance",
     "source": "Decrypt",
     "url": "https://decrypt.co/383454/jensen-huang-honored-return-nvidia-ceo-board-resistance",
@@ -102,22 +118,6 @@
     "date": "Tue, 17 Nov 2026",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Justice-gID_7.png@png",
     "content": "Huaisong Xiang admitted repeatedly trading perpetual futures on Hyperliquid using confidential Robinhood listing plans, pocketing $125,523."
-  },
-  {
-    "title": "Standard Life Chair Wants Tokenized Gilts to Open UK Government Bonds to Retail Savers",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/383434/standard-life-chair-wants-tokenized-gilts-to-open-uk-government-bonds-to-retail-savers",
-    "date": "Tue, 17 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/nicholas-lyons-decrypt-style-gID_7.jpg@png",
-    "content": "Sir Nicholas Lyons told Solana's Breakpoint that tokenization should benefit ordinary investors, not just wholesale institutions."
-  },
-  {
-    "title": "Morning Minute: The CFTC Officially Greenlights Perps in the US, Starting with Backpack",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/383418/morning-minute-the-cftc-officially-greenlights-perps-in-the-us-starting-with-backpack",
-    "date": "Tue, 17 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/michael-selig-cftc-decrypt-style-gID_7.jpg@png",
-    "content": "CFTC chairman Mike Selig said he looks forward to building on this milestone, which begs the question—who’s next?"
   },
   {
     "title": "Situational Awareness Dumps Bitcoin Miners After Citadel Sale",
