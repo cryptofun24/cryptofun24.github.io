@@ -1,5 +1,13 @@
 [
   {
+    "title": "Hong Kong, Swift test tokenized deposits as banks chase stablecoin-style speed",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/business/2026/11/17/hong-kong-swift-test-tokenized-deposits-as-banks-chase-stablecoin-style-speed",
+    "date": "Tue, 17 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f96187856f3474dbbb316e0769389671addb2f9c-2288x1712.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "Hong Kong and Swift expanded their efforts to connect tokenized bank deposits across currencies, building on earlier work involving digital central bank money."
+  },
+  {
     "title": "Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/tech/2026/11/17/ethereum-s-glamsterdam-upgrade-risks-breaking-up-to-15-000-contracts",
@@ -32,12 +40,20 @@
     "content": "The fund swapped its common stock in Bloom Energy, Nebius and SanDisk for call options, keeping its bet on AI power, computing and memory."
   },
   {
-    "title": "Bitcoin remains penned in near $64,000 even as ETF outflow streak ends",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/markets/2026/11/17/bitcoin-remains-penned-in-near-usd64-000-even-as-etf-outflow-streak-ends",
+    "title": "Here’s what happened in crypto today",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "date": "Tue, 17 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2d8d349c0bf26ddb0aca804f57d300f4afc6c95d-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "Bitcoin (BTC) is down a further 1.0% since midnight UTC at around $64,200, with its bounce from the weekend selloff stalled and pressure building on all fronts."
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+  },
+  {
+    "title": "Solana Foundation takes majority interest in crypto data firm CoinGecko",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/coingecko-solana-foundation-majority-stake?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "Tue, 17 Nov 2026",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7MRRJPQ774RM2VSE27T59EP/hi-how-to-buy-nfts-on-solana.jpg",
+    "content": "Solana Foundation now holds a majority interest in CoinGecko, its product chief said, as the crypto data platform explores trading features."
   },
   {
     "title": "Bitcoin to $1M by 2030? ‘Almost certainly not,’ says Dragonfly’s Qureshi",
@@ -64,20 +80,12 @@
     "content": "Citing a looming liquidity crunch, Martin Gilbert said blockchain could help bring more liquidity to private markets."
   },
   {
-    "title": "US senators seek SEC answers on tokenized stock money laundering risks",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/us-senators-sec-tokenized-stock-safeguards?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Standard Life Chair Wants Tokenized Gilts to Open UK Government Bonds to Retail Savers",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/383434/standard-life-chair-wants-tokenized-gilts-to-open-uk-government-bonds-to-retail-savers",
     "date": "Tue, 17 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7MGXE60DCBWSPE55RMRQTWB/letter.png",
-    "content": "Four Democratic senators asked who would be responsible for tokenized shares transferred outside regulated platforms and whether the SEC could freeze or recover those tokens."
-  },
-  {
-    "title": "BlackRock’s Bitcoin ETF snaps $2.35B outflow streak amid extreme fear",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/markets/blackrock-ibit-outflow-streak-end-extreme-fear?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "date": "Tue, 17 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7MGG7MGZGSJD7F656NEWPFD/hi-bitcoin-etfs-may-have-lost-the-battle-but-not-the-war1-1.jpg",
-    "content": "BlackRock’s Bitcoin ETF ended 11 sessions of withdrawals totaling $2.35 billion, but CryptoQuant says one day of inflows is too early to signal a recovery."
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/nicholas-lyons-decrypt-style-gID_7.jpg@png",
+    "content": "Sir Nicholas Lyons told Solana's Breakpoint that tokenization should benefit ordinary investors, not just wholesale institutions."
   },
   {
     "title": "Morning Minute: The CFTC Officially Greenlights Perps in the US, Starting with Backpack",
@@ -112,51 +120,43 @@
     "content": "The board is focused on its probe into the ousted co-founder, a source told CNBC, despite Donald Trump and Elon Musk backing his return."
   },
   {
-    "title": "Judge Acquits MIT Brothers in $25M Ethereum MEV Case, Ending Prosecution",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/383408/judge-acquits-mit-brothers-in-25m-ethereum-mev-case-ending-prosecution",
+    "title": "Goldman Sachs More Than Doubles Its Bitcoin ETF Holdings to $1.28 Billion",
+    "source": "Bitcoin Magazine",
+    "url": "https://bitcoinmagazine.com/news/goldman-sachs-bitcoin-etf-holdings",
     "date": "Tue, 17 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/judge-decrypt-style-gID_7.png@png",
-    "content": "A federal judge ruled prosecutors failed to prove the material misrepresentation needed for wire fraud, a year after a jury deadlocked."
+    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
+    "content": "Bitcoin Magazine Goldman Sachs More Than Doubles Its Bitcoin ETF Holdings to $1.28 Billion Goldman Sachs' third-quarter 13F shows $1.28 billion in spot bitcoin ETFs at Sept. 30, up from about $580 million, led by a 52-fold jump in Fidelity's fund, while its Strategy stake fell about 52%. This post Goldman Sachs More Than Doubles Its Bitcoin ETF Holdings to $1.28 Billion first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
   },
   {
-    "title": "Why Bitcoin’s June Low May Not Be the Bottom — $58K the Key Test",
+    "title": "Bitcoin Policy Institute Renames to Finney Foundation for Open Technology",
     "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/videos/why-bitcoins-june-low-may-not-be-the-bottom-58k-the-key-test",
-    "date": "Mon, 16 Nov 2026",
+    "url": "https://bitcoinmagazine.com/news/bpi-becomes-finney-foundation-open-tech",
+    "date": "Tue, 17 Nov 2026",
     "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "&#9654; Bitcoin Magazine Why Bitcoin’s June Low May Not Be the Bottom — $58K the Key Test Sean breaks down Bitcoin's MVRV on today's Chart of the Day. This post Why Bitcoin’s June Low May Not Be the Bottom — $58K the Key Test first appeared on Bitcoin Magazine and is written by Patrick Green ."
+    "content": "Bitcoin Magazine Bitcoin Policy Institute Renames to Finney Foundation for Open Technology The Bitcoin Policy Institute said Tuesday it is now the Finney Foundation for Open Technology, a parent organization whose brief spans open-source AI, digital cash and encrypted messaging, with bitcoin remaining a primary focus. This post Bitcoin Policy Institute Renames to Finney Foundation for Open Technology first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
   },
   {
-    "title": "Bitcoin Price Holds Near $65,000 as Nvidia Turmoil Drags Nasdaq Down 2.5%",
+    "title": "Twenty One Capital (XXI) Buys 154 Bitcoin, Its First Purchase of 2026",
     "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/markets/bitcoin-price-holds-near-65000-nvidia",
-    "date": "Mon, 16 Nov 2026",
+    "url": "https://bitcoinmagazine.com/news/twenty-one-capital-xxi-buys-154-bitcoin",
+    "date": "Tue, 17 Nov 2026",
     "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "Bitcoin Magazine Bitcoin Price Holds Near $65,000 as Nvidia Turmoil Drags Nasdaq Down 2.5% Bitcoin price held near $65,000 on Monday afternoon, shrugging off a 2.5% Nasdaq slide as Nvidia's board ruled out bringing back Jensen Huang and the dollar hit a 19-month high. This post Bitcoin Price Holds Near $65,000 as Nvidia Turmoil Drags Nasdaq Down 2.5% first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
+    "content": "Bitcoin Magazine Twenty One Capital (XXI) Buys 154 Bitcoin, Its First Purchase of 2026 Twenty One Capital bought 154.32 bitcoin for about $10 million in cash after the weekend selloff, lifting its holdings to about 43,668 BTC. This post Twenty One Capital (XXI) Buys 154 Bitcoin, Its First Purchase of 2026 first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
   },
   {
-    "title": "Senate Agriculture Committee to Hear Trump’s CFTC Nominees Tuesday",
+    "title": "Russia Lets Everyday Investors Buy Bitcoin Starting Today",
     "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/news/cftc-nominees-senate-hearing-tuesday",
-    "date": "Mon, 16 Nov 2026",
+    "url": "https://bitcoinmagazine.com/news/russia-retail-bitcoin-buying-starts",
+    "date": "Tue, 17 Nov 2026",
     "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "Bitcoin Magazine Senate Agriculture Committee to Hear Trump&#8217;s CFTC Nominees Tuesday The Senate Agriculture Committee will hear Nathan Anonick and Matthew Rowland on Tuesday, President Trump's bipartisan picks to join CFTC Chairman Michael Selig, currently the agency's only sitting commissioner. This post Senate Agriculture Committee to Hear Trump&#8217;s CFTC Nominees Tuesday first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
+    "content": "Bitcoin Magazine Russia Lets Everyday Investors Buy Bitcoin Starting Today A Bank of Russia rule letting retail investors buy bitcoin through brokers and exchange offices, capped at 300,000 rubles a year per intermediary, took effect Tuesday, but T-Bank and VTB say their apps are still waiting on final rules. This post Russia Lets Everyday Investors Buy Bitcoin Starting Today first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
   },
   {
-    "title": "Rob Hamilton: The AI “Black Hole” is Pulling Liquidity Away from Bitcoin",
+    "title": "“We Need to Change Our Management”: Ricardo Salinas on Mexico’s Future, Bukele and Bitcoin",
     "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/videos/rob-hamilton-the-ai-black-hole-is-pulling-liquidity-away-from-bitcoin",
-    "date": "Mon, 16 Nov 2026",
-    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "&#9654; Bitcoin Magazine Rob Hamilton: The AI “Black Hole” is Pulling Liquidity Away from Bitcoin AnchorWatch CEO Rob Hamilton is bullish on Bitcoin in the long run, even as he watches liquidity get pulled toward the Anthropic IPO and the AI trade, which he compares to a black hole. This post Rob Hamilton: The AI “Black Hole” is Pulling Liquidity Away from Bitcoin first appeared on Bitcoin Magazine and is written by Patrick Green ."
-  },
-  {
-    "title": "T. Rowe Price’s Blue Macellari: Institutions “Not Backing Away” From Bitcoin",
-    "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/videos/t-rowe-prices-blue-macellari-institutions-not-backing-away-from-bitcoin",
-    "date": "Mon, 16 Nov 2026",
-    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "&#9654; Bitcoin Magazine T. Rowe Price’s Blue Macellari: Institutions “Not Backing Away” From Bitcoin For institutions, Blue Macellari says Bitcoin is no longer about whether to own it or whether it is real. This post T. Rowe Price’s Blue Macellari: Institutions “Not Backing Away” From Bitcoin first appeared on Bitcoin Magazine and is written by Patrick Green ."
+    "url": "https://bitcoinmagazine.com/business/we-need-to-change-our-management-ricardo-salinas-on-mexicos-future-bukele-and-bitcoin",
+    "date": "Tue, 17 Nov 2026",
+    "image": "https://www.youtube.com/embed/KQ2LK1FzwLw",
+    "content": "Bitcoin Magazine &#8220;We Need to Change Our Management&#8221;: Ricardo Salinas on Mexico&#8217;s Future, Bukele and Bitcoin At Bitcoin Histórico in El Salvador, the Mexican billionaire weighed in on Mexico's politics, Bukele, America's debt and Bitcoin. This post &#8220;We Need to Change Our Management&#8221;: Ricardo Salinas on Mexico&#8217;s Future, Bukele and Bitcoin first appeared on Bitcoin Magazine and is written by Efrat Fenigson ."
   }
 ]
