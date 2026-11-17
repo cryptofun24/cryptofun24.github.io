@@ -1,5 +1,21 @@
 [
   {
+    "title": "Ethereum's Glamsterdam upgrade risks breaking up to 15,000 automated apps",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/tech/2026/11/17/ethereum-s-glamsterdam-upgrade-risks-breaking-up-to-15-000-contracts",
+    "date": "Tue, 17 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "In addition to that broader estimate, independent audits have uncovered hundreds of separate compatibility problems, with core developers set to reconsider the changes Thursday."
+  },
+  {
+    "title": "Decentralized exchange Grvt looks to makes commodity trading more predictable with stable funding perps",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/11/17/decentralized-exchange-grvt-makes-commodity-trading-more-predictable-with-stable-funding-perps",
+    "date": "Tue, 17 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/7c6413a37277d42b1a4ed765b17dadc53172c1a4-1152x648.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "Grvt’s new Stable Funding Perps tie the cost of holding commodities trades to traditional-market financing costs, rather than volatile crypto-style funding."
+  },
+  {
     "title": "Crypto's 'casino-chips' are disappearing, adding to pain from spot ETF outflows",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/daybook-us/2026/11/17/crypto-s-casino-chips-are-disappearing-adding-to-pain-from-spot-etf-outflows",
@@ -24,20 +40,20 @@
     "content": "Bitcoin (BTC) is down a further 1.0% since midnight UTC at around $64,200, with its bounce from the weekend selloff stalled and pressure building on all fronts."
   },
   {
-    "title": "Solana Foundation takes majority stake in crypto data provider CoinGecko",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/business/2026/11/17/solana-foundation-takes-majority-stake-in-crypto-data-provider-coingecko",
+    "title": "Bitcoin to $1M by 2030? ‘Almost certainly not,’ says Dragonfly’s Qureshi",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/magazine/bitcoin-to-1m-by-2030-almost-certainly-not-says-dragonflys-qureshi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "date": "Tue, 17 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b4101e45e00e4315c2202f407a30096fa7dbaf3d-1920x1280.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "The foundation plans Solana-powered trading on CoinGecko's website, GeckoTerminal and app."
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7J814ZJF0ZT28MQSMZXMK36/haseeb-qureshi-trade-secrets.png",
+    "content": "Dragonfly’s Haseeb Qureshi says Bitcoin could reach $400,000 by 2030 but doubts it will return to $100,000 by year-end with the rout in AI stocks weighing on crypto."
   },
   {
-    "title": "New DeFi-yield generation targets ‘scam-like’ bank accounts that keep all the interest",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/business/2026/11/16/new-defi-yield-generation-targets-scam-like-bank-accounts-that-keep-all-the-interest",
+    "title": "ARK sells $85M in Nvidia shares ahead of chipmaker’s Q3 earnings results",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/ark-crypto-stock-purchases-nvidia-staking-etf-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "date": "Tue, 17 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ea35b38ae9aaafdd032a9295a7fbc20690261c4a-1260x945.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "Crypto native firms like Animoca Brands are betting AI-based agentic commerce to style every area of finance with the so-called “DeFi mullet”"
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7MMKAM67N4QR9N195WRYJY3/hi-who-is-cathie-wood-profile-and-biography.jpg",
+    "content": "ARK bought shares in Block, Circle and Coinbase worth about $39.9 million at Monday’s close while selling Nvidia and Solana and Ether staking ETFs."
   },
   {
     "title": "Revolut plans four blockchain-based funds for private markets, chair says",
@@ -64,20 +80,12 @@
     "content": "BlackRock’s Bitcoin ETF ended 11 sessions of withdrawals totaling $2.35 billion, but CryptoQuant says one day of inflows is too early to signal a recovery."
   },
   {
-    "title": "Bitcoin realized loss metric beats June high as open interest eyes 2-year low",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/markets/bitcoin-realized-loss-metric-beats-june-high-open-interest-eyes-2-year-low?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Morning Minute: The CFTC Officially Greenlights Perps in the US, Starting with Backpack",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/383418/morning-minute-the-cftc-officially-greenlights-perps-in-the-us-starting-with-backpack",
     "date": "Tue, 17 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7MGH6S8Y1QTSMVNC1AQ8PZX/article-covers-184960-panicked-bitcoiner-mistakenly-pays-0-75-btc-in-fees-960x640.webp",
-    "content": "Bitcoin short-term holders’ onchain spending notched the largest proportion of realized losses since February after BTC/USD dropped to $62,000."
-  },
-  {
-    "title": "Google says hackers use AI agents to find and exploit software flaws",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/google-ai-agents-automated-cyberattacks-software-flaws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "date": "Tue, 17 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5W8CX3ZEBAQRD95ZBDZ13BW/hi-using-ai-in-crypto-do-it-at-your-own-risk2.jpg",
-    "content": "Google says attackers are using AI agents to find and exploit software flaws automatically, reducing the time organizations have to apply patches."
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/michael-selig-cftc-decrypt-style-gID_7.jpg@png",
+    "content": "CFTC chairman Mike Selig said he looks forward to building on this milestone, which begs the question—who’s next?"
   },
   {
     "title": "'The Biggest Opportunity in Crypto Is Already Underway': Solana Bets Big on AI Agents",
@@ -110,14 +118,6 @@
     "date": "Tue, 17 Nov 2026",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/judge-decrypt-style-gID_7.png@png",
     "content": "A federal judge ruled prosecutors failed to prove the material misrepresentation needed for wire fraud, a year after a jury deadlocked."
-  },
-  {
-    "title": "Solana Foundation Backs CoinGecko as Crypto Data Giant Eyes Trading",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/383401/solana-foundation-backs-coingecko-eyes-trading",
-    "date": "Tue, 17 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/solana-decrypt-style-04-gID_7.png@png",
-    "content": "CoinGecko has received backing from the Solana Foundation to expand into market intelligence and explore trading."
   },
   {
     "title": "Why Bitcoin’s June Low May Not Be the Bottom — $58K the Key Test",
