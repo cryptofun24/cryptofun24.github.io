@@ -1,5 +1,37 @@
 [
   {
+    "title": "Fed Governor Michael Barr warns AI agents could trigger bank runs in minutes",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/business/2026/11/17/fed-governor-michael-barr-warns-ai-agents-could-trigger-bank-runs-in-minutes",
+    "date": "Tue, 17 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4625d8a3291398fad638a6b7f9782fcf61505da9-4928x3264.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "In a speech at an AI event in Italy, Barr said automated financial decisions could overwhelm banks and raises concerns about AI systems bypassing security controls."
+  },
+  {
+    "title": "Live updates: Bitcoin holds near $64,000 as tech slides ahead of Nvidia earnings",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/business/2026/11/17/live-updates-bitcoin-holds-near-usd64-000-as-tech-slides-ahead-of-nvidia-earnings",
+    "date": "Tue, 17 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/73e85bf26e125d67c872693ea1fec1a702e224a0-1506x844.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "ZEC and HYPE led a quiet bounce in altcoins, while Nasdaq futures extended a two-day rout and traders waited on U.S. retail sales."
+  },
+  {
+    "title": "Hackers plant crypto-stealing code on 178 major websites, including HSBC and Ledger",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/tech/2026/11/17/hackers-planted-crypto-stealing-code-on-178-organizations-sites-including-hsbc-bbc-and-ledger",
+    "date": "Tue, 17 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/af945cfdd3152f9ebc96d44f89ccafea550ccb57-5760x3840.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "An Optimizely signup flaw let an attacker plant address-swapping code on websites including HSBC, the BBC and Ledger. The total stolen remains unknown, and investigators have not linked the attack to AI."
+  },
+  {
+    "title": "Nvidia faces first earnings test without Jensen Huang as AI stocks slide",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/11/17/nvidia-faces-first-earnings-test-without-jensen-huang-as-ai-stocks-slide",
+    "date": "Tue, 17 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a8793353bd8f3d93eff0c18b670360aa31317d77-1500x909.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "With shares almost 40% below their October peak, Nvidia’s guidance could carry more weight than quarterly results as investors assess its direction without Jensen Huang."
+  },
+  {
     "title": "Binance hacker moves $63 million in stolen ether after 2 weeks of silence",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/business/2026/11/17/binance-hacker-moves-usd63-million-in-stolen-ether-after-two-weeks-of-silence",
@@ -8,36 +40,12 @@
     "content": "North Korea's TraderTraitor group transferred 34,279 ETH to three new wallets. The funds have not moved again, blockchain investigators say."
   },
   {
-    "title": "Bitcoin could slide into the $50,000s as Fed rate hike bets build, Wintermute says",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/markets/2026/11/17/bitcoin-could-slide-into-the-usd50-000s-as-fed-rate-hike-bets-build-wintermute-says",
+    "title": "Google says hackers use AI agents to find and exploit software flaws",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/google-ai-agents-automated-cyberattacks-software-flaws?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "date": "Tue, 17 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ec8686a4139b5ce6830180c5575523fba01b0da8-6048x4024.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "Bitcoin may slide into the $50,000s after losing its 200-week average, with ETF outflows, weak demand and rate-hike risks weighing on BTC, leading market maker warns."
-  },
-  {
-    "title": "Cardano Foundation seeks $5 million from treasury using ADA price 33% above market",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/tech/2026/11/17/cardano-foundation-seeks-usd5-million-from-treasury-using-ada-price-33-above-market",
-    "date": "Tue, 17 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d97481c74b0f63ddef0ed3e974beeed1095e50aa-1068x778.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "The Foundation wants 25 million ADA for 12 global events, even as the token trades well below the 20 cent price used to size the request."
-  },
-  {
-    "title": "Wells Fargo's reported BlackRock bitcoin ETF holdings double to $2.35 billion",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/markets/2026/11/17/wells-fargo-s-reported-blackrock-bitcoin-etf-holdings-double-to-usd2-35-billion",
-    "date": "Tue, 17 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c0a2bccf27d71bccd61bcb055118531547dc2957-8256x4644.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "The bank's reported BlackRock bitcoin ETF position doubled to $2.35 billion in the third quarter, giving it exposure to roughly 28,000 BTC."
-  },
-  {
-    "title": "Ripple-backed Evernorth has written down its pre-listing XRP holdings by 60%",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/markets/2026/11/17/ripple-backed-evernorth-has-written-down-its-pre-listing-xrp-holdings-by-60",
-    "date": "Tue, 17 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b7ab3adea84221d8026972fcd65e9dd2a434b424-1500x900.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "The company’s accounting policy requires it to record price declines without reversing those write-downs when XRP recovers."
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5W8CX3ZEBAQRD95ZBDZ13BW/hi-using-ai-in-crypto-do-it-at-your-own-risk2.jpg",
+    "content": "Google says attackers are using AI agents to find and exploit software flaws automatically, reducing the time organizations have to apply patches."
   },
   {
     "title": "US judge clears brothers in $25M Ethereum MEV case after mistrial",
@@ -70,14 +78,6 @@
     "date": "Tue, 17 Nov 2026",
     "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-  },
-  {
-    "title": "Trezor customer data exposed in 3rd partner breach this year",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/trezor-customer-data-exposed-in-3rd-partner-breach-this-year?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "date": "Tue, 17 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7KSMV6VXD8X0C6CPDG5WCNC/trezor.jpg",
-    "content": "Trezor warned an attacker has been able to access customer names, phone numbers and delivery addresses linked to 27,000 orders from one of its shipping providers."
   },
   {
     "title": "Nvidia Board Not Considering Jensen Huang's Return: Report",
