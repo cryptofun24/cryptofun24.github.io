@@ -80,6 +80,14 @@
     "content": "Crypto platforms need enforceable limits on every route an API key can use to transfer value, including trades, internal transfers and shared pools."
   },
   {
+    "title": "Why Microsoft Thinks Smaller, Cheaper AI Can Beat Claude and GPT",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/383468/why-microsoft-thinks-smaller-cheaper-ai-beat-claude-gpt",
+    "date": "Tue, 17 Nov 2026",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/microsoft-gID_7.jpg@png",
+    "content": "Microsoft's new coding, cybersecurity and image models challenge bigger rivals on performance and price. The company's bet is that doing one job exceptionally well matters more than doing absolutely everything."
+  },
+  {
     "title": "Nvidia Board Shuts Down Jensen Huang Comeback, Launches Search for New CEO",
     "source": "Decrypt",
     "url": "https://decrypt.co/383513/nvidia-board-shuts-down-jensen-huang-comeback",
@@ -112,12 +120,12 @@
     "content": "The institution will test whether Circle’s USDC and blockchain rails can speed up and cut the cost of disbursing development funds."
   },
   {
-    "title": "Bitcoin Investors Are Capitulating—That’s Historically Been a Bottom Signal",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/383466/bitcoin-investors-capitulating-historical-bottom-signal",
+    "title": "Bitcoin Policy Institute Rebrands as Finney Foundation for Open Technology",
+    "source": "Bitcoin Magazine",
+    "url": "https://bitcoinmagazine.com/videos/bitcoin-policy-institute-rebrands-as-finney-foundation-for-open-technology",
     "date": "Tue, 17 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Bitcoin-glasses-decrypt-style-gID_7.png@png",
-    "content": "Glassnode says Bitcoin’s realized losses have reached levels seen only near the 2018, 2020, 2022 and early 2023 lows, as buyers defend the $62,000 to $66,000 range."
+    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
+    "content": "&#9654; Bitcoin Magazine Bitcoin Policy Institute Rebrands as Finney Foundation for Open Technology Andrew Bailey, head of strategy at the Finney Foundation for Open Technology, joins BMTV on the day the Bitcoin Policy Institute takes that new name and expands its work from into open source . This post Bitcoin Policy Institute Rebrands as Finney Foundation for Open Technology first appeared on Bitcoin Magazine and is written by Patrick Green ."
   },
   {
     "title": "Bitcoin Price Slips Below $64,000 as Strategy (MSTR) Falls Below $100",
@@ -150,13 +158,5 @@
     "date": "Tue, 17 Nov 2026",
     "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
     "content": "Bitcoin Magazine Situational Awareness Dumps Bitcoin Miners After Citadel Sale Situational Awareness, the AI fund run by Leopold Aschenbrenner, cut IREN about 94% and exited Core Scientific, Riot and Hive in the third quarter, leaving $80.8 million in three miner stocks after a July sale to Citadel. This post Situational Awareness Dumps Bitcoin Miners After Citadel Sale first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
-  },
-  {
-    "title": "Coinbase Launches ChatGPT Plugin for Trading Bitcoin, Stocks, and Derivatives",
-    "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/news/coinbase-chatgpt-plugin-bitcoin-trading",
-    "date": "Tue, 17 Nov 2026",
-    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "Bitcoin Magazine Coinbase Launches ChatGPT Plugin for Trading Bitcoin, Stocks, and Derivatives Coinbase launched an official ChatGPT plugin Tuesday that lets users connect an account and trade bitcoin, other crypto, stocks and derivatives in the chat, approving every order. The official plugin is currently available to U.S. users. This post Coinbase Launches ChatGPT Plugin for Trading Bitcoin, Stocks, and Derivatives first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
   }
 ]
