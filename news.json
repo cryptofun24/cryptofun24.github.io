@@ -1,5 +1,21 @@
 [
   {
+    "title": "Crypto's 'casino-chips' are disappearing, adding to pain from spot ETF outflows",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/daybook-us/2026/11/17/crypto-s-casino-chips-are-disappearing-adding-to-pain-from-spot-etf-outflows",
+    "date": "Tue, 17 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/bddd2de6b47eda24dc94477cb7ac06aeeeb43f58-2048x1152.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "Your day-ahead look for Nov. 17, 2026"
+  },
+  {
+    "title": "Ex-OpenAI researcher fund dumps bitcoin miners, cuts IREN 94% after portfolio slump",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/business/2026/11/17/ex-openai-researcher-fund-dumps-bitcoin-miners-cuts-iren-94-after-portfolio-slump",
+    "date": "Tue, 17 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e4ca7bbcf33940ac3a79675ca9923d61aeededd5-1920x1077.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "The fund swapped its common stock in Bloom Energy, Nebius and SanDisk for call options, keeping its bet on AI power, computing and memory."
+  },
+  {
     "title": "Bitcoin remains penned in near $64,000 even as ETF outflow streak ends",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/markets/2026/11/17/bitcoin-remains-penned-in-near-usd64-000-even-as-etf-outflow-streak-ends",
@@ -24,20 +40,12 @@
     "content": "Crypto native firms like Animoca Brands are betting AI-based agentic commerce to style every area of finance with the so-called “DeFi mullet”"
   },
   {
-    "title": "Fed Governor Michael Barr warns AI agents could trigger bank runs in minutes",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/business/2026/11/17/fed-governor-michael-barr-warns-ai-agents-could-trigger-bank-runs-in-minutes",
+    "title": "Revolut plans four blockchain-based funds for private markets, chair says",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/revolut-four-blockchain-funds-private-markets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "date": "Tue, 17 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4625d8a3291398fad638a6b7f9782fcf61505da9-4928x3264.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "In a speech at an AI event in Italy, Barr said automated financial decisions could overwhelm banks and raises concerns about AI systems bypassing security controls."
-  },
-  {
-    "title": "Live updates: Bitcoin holds near $64,000 as tech slides ahead of Nvidia earnings",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/business/2026/11/17/live-updates-bitcoin-holds-near-usd64-000-as-tech-slides-ahead-of-nvidia-earnings",
-    "date": "Tue, 17 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/73e85bf26e125d67c872693ea1fec1a702e224a0-1506x844.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "ZEC and HYPE led a quiet bounce in altcoins, while Nasdaq futures extended a two-day rout and traders waited on U.S. retail sales."
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7MMWX4AJK9NBZMR29WY4DGA/flag-removed.png",
+    "content": "Citing a looming liquidity crunch, Martin Gilbert said blockchain could help bring more liquidity to private markets."
   },
   {
     "title": "US senators seek SEC answers on tokenized stock money laundering risks",
@@ -72,12 +80,12 @@
     "content": "Google says attackers are using AI agents to find and exploit software flaws automatically, reducing the time organizations have to apply patches."
   },
   {
-    "title": "US judge clears brothers in $25M Ethereum MEV case after mistrial",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/us-judge-acquits-brothers-25m-ethereum-mev-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "'The Biggest Opportunity in Crypto Is Already Underway': Solana Bets Big on AI Agents",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/383417/the-biggest-opportunity-in-crypto-is-already-underway-solana-bets-big-on-ai-agents",
     "date": "Tue, 17 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7MCZMSF8D1C0PFBB5NPBZM3/b-lawsuit-1.jpg",
-    "content": "Judge Jessica Clarke said the transactions did not involve false promises, but the ruling did not determine whether the brothers’ conduct was ethical or violated other laws."
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/solana-decrypt-style-01-gID_7.png@png",
+    "content": "The Solana Foundation's head of AI said agents now account for three-quarters of AI token use, and need blockchains to pay for things."
   },
   {
     "title": "Optimizely Hack Hijacked Ledger, BBC and 176 Other Sites to Swap Crypto Wallet Addresses",
@@ -110,14 +118,6 @@
     "date": "Tue, 17 Nov 2026",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/solana-decrypt-style-04-gID_7.png@png",
     "content": "CoinGecko has received backing from the Solana Foundation to expand into market intelligence and explore trading."
-  },
-  {
-    "title": "Alibaba's Qwen 4 Max Leads China's AI Agent Race—But You Can't Download It",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/383395/alibaba-qwen-4-max-leads-china-ai-agent-race-cant-download-it",
-    "date": "Mon, 16 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/03/decrypt-style-alibaba-qwen-gID_7.png@png",
-    "content": "Alibaba's new flagship jumps ahead of Chinese rivals on agent and web design leaderboards, with cheaper API access. The closed model also previews the next generation of open Qwen releases."
   },
   {
     "title": "Why Bitcoin’s June Low May Not Be the Bottom — $58K the Key Test",
