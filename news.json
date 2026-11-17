@@ -1,5 +1,13 @@
 [
   {
+    "title": "Nvidia tops estimates, issues strong guidance; shares rise",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/11/17/nvidia-tops-estimates-issues-strong-guidance-adds-usd150-billion-to-buyback-authorization",
+    "date": "Tue, 17 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6c262ffb248f38b82738fd0f2bad6b32172b1d0f-1900x1268.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "The results come days following the resignation of CEO Jensen Huang."
+  },
+  {
     "title": "Coinbase CEO says AI agents will account for '99.9%' of transactions within a decade",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/markets/2026/11/17/coinbase-ceo-says-ai-agents-will-account-for-99-9-of-transactions-within-a-decade",
@@ -30,14 +38,6 @@
     "date": "Tue, 17 Nov 2026",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/fc32cdfe2379f454c7160b98435207e28877a3d9-4132x2324.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "content": "Waller suggested the Federal Reserve could provide trusted rails for emerging innovation tied to tokenized assets and agentic AI."
-  },
-  {
-    "title": "Hong Kong, Swift test tokenized deposits as banks chase stablecoin-style speed",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/business/2026/11/17/hong-kong-swift-test-tokenized-deposits-as-banks-chase-stablecoin-style-speed",
-    "date": "Tue, 17 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f96187856f3474dbbb316e0769389671addb2f9c-2288x1712.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "Hong Kong and Swift expanded their efforts to connect tokenized bank deposits across currencies, building on earlier work involving digital central bank money."
   },
   {
     "title": "Eastern Europe crypto flows fall 7.9% as Ukraine draws $12B in stablecoins",
@@ -80,6 +80,22 @@
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
   },
   {
+    "title": "OpenAI's GPT 6.2 Astra Challenges Anthropic on Price, But Not Every Benchmark",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/383488/openai-gpt-6-2-astra-challenges-anthropic-price-but-not-every-benchmark",
+    "date": "Tue, 17 Nov 2026",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-openai-logo-gID_7.png@png",
+    "content": "OpenAI's latest models promise better professional work for less money, as the company battles Anthropic and Google for AI supremacy and faces tougher questions about increasingly capable systems and safety."
+  },
+  {
+    "title": "World Bank Taps Circle and Citi to Test Stablecoins for Development Payments",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/383485/world-bank-circle-citi-test-stablecoins-development-payments",
+    "date": "Tue, 17 Nov 2026",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/USDC-gID_7.png@png",
+    "content": "The institution will test whether Circle’s USDC and blockchain rails can speed up and cut the cost of disbursing development funds."
+  },
+  {
     "title": "Bitcoin Investors Are Capitulating—That’s Historically Been a Bottom Signal",
     "source": "Decrypt",
     "url": "https://decrypt.co/383466/bitcoin-investors-capitulating-historical-bottom-signal",
@@ -104,20 +120,20 @@
     "content": "Developers warned on a core dev call that two scaling changes in the Glamsterdam upgrade break assumptions some contracts rely on—pitting a 3.3x capacity boost against the risk of disrupting thousands of apps."
   },
   {
-    "title": "Jensen Huang Says He'd Be 'Honored' to Return as Nvidia CEO, Despite Board's Resistance",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/383454/jensen-huang-honored-return-nvidia-ceo-board-resistance",
+    "title": "Bitcoin Price Slips Below $64,000 as Strategy (MSTR) Falls Below $100",
+    "source": "Bitcoin Magazine",
+    "url": "https://bitcoinmagazine.com/markets/bitcoin-price-slips-near-64000-strategy",
     "date": "Tue, 17 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/jensen-huang-nvidia-decrypt-style-03-e1794217137922-gID_7.jpg@png",
-    "content": "The ousted Nvidia founder apologized for his conduct, offered to return if directors ask, and addressed supporters as the chipmaker presses ahead with its search for new leadership this week."
+    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
+    "content": "Bitcoin Magazine Bitcoin Price Slips Below $64,000 as Strategy (MSTR) Falls Below $100 Bitcoin price slipped near $64,000 Tuesday afternoon as Strategy (MSTR) shares fell below the company's STRC preferred and Coinbase and other crypto stocks declined. This post Bitcoin Price Slips Below $64,000 as Strategy (MSTR) Falls Below $100 first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
   },
   {
-    "title": "Binance Hack Wallets Move $137 Million in Ethereum After Two Weeks of Silence",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/383446/binance-hack-wallets-move-ethereum-after-two-weeks",
+    "title": "Mark Yusko: Why Bitcoin Is Falling — $58k is the Key Level to Watch",
+    "source": "Bitcoin Magazine",
+    "url": "https://bitcoinmagazine.com/videos/mark-yusko-why-bitcoin-is-falling-58k-is-the-key-level-to-watch",
     "date": "Tue, 17 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/hacker3-gID_7.png@png",
-    "content": "A wallet linked to October’s record Binance theft moved $63 million in ether, before analysts flagged a larger wave of transfers and reported Bitcoin swaps amid ongoing U.S. recovery efforts."
+    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
+    "content": "&#9654; Bitcoin Magazine Mark Yusko: Why Bitcoin Is Falling — $58k is the Key Level to Watch Mark Yusko says we are in a bad right now. This post Mark Yusko: Why Bitcoin Is Falling — $58k is the Key Level to Watch first appeared on Bitcoin Magazine and is written by Patrick Green ."
   },
   {
     "title": "Wall Street Bought $4.2B of Bitcoin in Q3: What You Need to Know",
@@ -142,21 +158,5 @@
     "date": "Tue, 17 Nov 2026",
     "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
     "content": "Bitcoin Magazine Coinbase Launches ChatGPT Plugin for Trading Bitcoin, Stocks, and Derivatives Coinbase launched an official ChatGPT plugin Tuesday that lets users connect an account and trade bitcoin, other crypto, stocks and derivatives in the chat, approving every order. The official plugin is currently available to U.S. users. This post Coinbase Launches ChatGPT Plugin for Trading Bitcoin, Stocks, and Derivatives first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
-  },
-  {
-    "title": "Trezor Shipping Partner Breach Exposes 27,000 Orders as Customers Report Scam Calls",
-    "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/news/trezor-skladon-partner-breach-27000-orders",
-    "date": "Tue, 17 Nov 2026",
-    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "Bitcoin Magazine Trezor Shipping Partner Breach Exposes 27,000 Orders as Customers Report Scam Calls A breach at shipping partner Skladon exposed names, addresses, emails, phone numbers and purchase details for about 27,000 Trezor orders, the company said, and some customers have already reported scam calls. Wallet backups were not involved. This post Trezor Shipping Partner Breach Exposes 27,000 Orders as Customers Report Scam Calls first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
-  },
-  {
-    "title": "Wells Fargo More Than Doubles Its Bitcoin ETF Stake to $2.35 Billion",
-    "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/news/wells-fargo-ibit-stake-doubles-strategy-cut",
-    "date": "Tue, 17 Nov 2026",
-    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "Bitcoin Magazine Wells Fargo More Than Doubles Its Bitcoin ETF Stake to $2.35 Billion Wells Fargo's third-quarter 13F shows 49.6 million IBIT shares worth $2.35 billion at Sept. 30, up from 24.4 million, while its Strategy stake fell about 33% to 1.34 million shares. This post Wells Fargo More Than Doubles Its Bitcoin ETF Stake to $2.35 Billion first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
   }
 ]
