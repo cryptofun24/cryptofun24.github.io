@@ -1,5 +1,13 @@
 [
   {
+    "title": "U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/policy/2026/11/18/u-s-judge-says-ethereum-has-no-terms-of-use-clears-mit-brothers-of-usd25-million-fraud",
+    "date": "Wed, 18 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/4ff54342affad4b8b70857ff46850518ef027461-1500x1125.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "A federal judge acquitted Anton and James Peraire-Bueno, ruling that their 2023 trade against Ethereum trading bots involved no lie that anyone relied on, and closing the U.S. government’s first criminal case over the practice known as MEV."
+  },
+  {
     "title": "Bitcoin's 12% slide through key support looks scary, but history says give it 3 months.",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-s-rare-12-crash-through-its-200-week-average-has-a-bullish-track-record",
@@ -32,14 +40,6 @@
     "content": "Speaking on the earnings call, Chairman Harvey Jones said the board has no intention of reinstating Jensen Huang as CEO."
   },
   {
-    "title": "Coinbase CEO says AI agents will account for '99.9%' of transactions within a decade",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/markets/2026/11/17/coinbase-ceo-says-ai-agents-will-account-for-99-9-of-transactions-within-a-decade",
-    "date": "Tue, 17 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/860e34a0b9f5f6ea80a7e650ed7dfcb018dbc84d-4032x3024.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "Brian Armstrong says Coinbase is building payment tools for AI agents and believes bitcoin has hit bottom despite the selloff."
-  },
-  {
     "title": "Ledger hardware implant saga reaches Dubai’s Virgin Megastore",
     "source": "CoinTelegraph",
     "url": "https://cointelegraph.com/news/ledger-hardware-implant-saga-reaches-dubais-virgin-megastore?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -56,14 +56,6 @@
     "content": "Nvidia beat Wall Street’s revenue expectations by 5.6% and issued a stronger-than-expected sales forecast, while its board resisted growing calls for Jensen Huang’s reinstatement."
   },
   {
-    "title": "Here’s what happened in crypto today",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "date": "Tue, 17 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-    "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-  },
-  {
     "title": "CFTC halts some Kalshi Trump mention markets over manipulation concerns",
     "source": "CoinTelegraph",
     "url": "https://cointelegraph.com/news/cftc-kalshi-trump-mention-markets-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -78,6 +70,14 @@
     "date": "Tue, 17 Nov 2026",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7NF6KGF5937HFV5G808MCSV/maple-branded-header.png",
     "content": "Sidney Powell aims to reach $15 billion in assets under management by the end of 2027 as the firm looks to expand into tokenized lending and traditional finance."
+  },
+  {
+    "title": "Eastern Europe crypto flows fall 7.9% as Ukraine draws $12B in stablecoins",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/eastern-europe-crypto-activity-decline-chainalysis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "Tue, 17 Nov 2026",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7N9V9STHF6S9E0M81Y5Q7RA/hi-eastern-europe.png",
+    "content": "Chainalysis found that Eastern Europe recorded the steepest decline in crypto activity of any region, while cross-border stablecoin transfers to Ukraine continued amid the ongoing war."
   },
   {
     "title": "Why Microsoft Thinks Smaller, Cheaper AI Can Beat Claude and GPT",
