@@ -1,5 +1,21 @@
 [
   {
+    "title": "Google finds self-running AI hacking tool with Russian comments in its files",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/tech/2026/11/18/google-finds-self-running-ai-hacking-tool-with-russian-comments-in-its-files",
+    "date": "Wed, 18 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/1b60f0ad8fb01131abb6c4eae334bffffef79cc4-5760x3840.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "Google spots an AI that can find and exploit software flaws on its own, no human needed."
+  },
+  {
+    "title": "Live updates: Bitcoin stuck near $65,000 as popular 'basis trade' returns dry up",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/business/2026/11/18/live-updates-bitcoin-stuck-near-usd65-000-as-popular-basis-trade-returns-dry-up",
+    "date": "Wed, 18 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b7f2e6439dc9f136bb3e3ce319dfceed73524352-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "XRP edged toward $1 and SOL rose 3%, while a Talos report showed crypto’s favorite carry trade now pays about what Treasuries do."
+  },
+  {
     "title": "U.S. judge says Ethereum has ‘no terms of use,’ clears MIT brothers of $25 million fraud",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/policy/2026/11/18/u-s-judge-says-ethereum-has-no-terms-of-use-clears-mit-brothers-of-usd25-million-fraud",
@@ -24,20 +40,20 @@
     "content": "A holder whose wallets trace back to a 2020 Bitstamp withdrawal has moved 281 million XRP into two vaults three weeks apart, a behavior indicative of custody rather than a large investor heading for the exit."
   },
   {
-    "title": "CFTC nominee questions public benefit of prediction markets as legal fight grows",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/policy/2026/11/17/nominee-says-u-s-cftc-must-think-hard-about-public-benefit-of-prediction-markets",
+    "title": "SOL comes out of Breakpoint 7% higher as Solana exits beta",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/markets/solana-sol-gains-7-percent-breakpoint-beta-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "date": "Wed, 18 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/196bbc9bb34f3e2d19415834353ddcfb62b466d4-2378x1256.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "One of the two picks to join the regulatory commission, Democratic nominee Matthew Rowland, said he hopes to have a say in prediction markets rulemaking."
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7PVBTFSABZPYDQ0WHD9YNKW/price-movements-solana.png",
+    "content": "Solana’s token reached $75.12 on Tuesday, outpacing Bitcoin and Ether after the network retired the beta label it had used since its 2020 launch."
   },
   {
-    "title": "Nvidia shares rise on earnings beat, raised outlook despite leadership uncertainty",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/markets/2026/11/17/nvidia-tops-estimates-issues-strong-guidance-adds-usd150-billion-to-buyback-authorization",
-    "date": "Tue, 17 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6c262ffb248f38b82738fd0f2bad6b32172b1d0f-1900x1268.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "Speaking on the earnings call, Chairman Harvey Jones said the board has no intention of reinstating Jensen Huang as CEO."
+    "title": "Bitcoin ETFs lose $240M as CryptoQuant flags bearish market phase",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/markets/bitcoin-etf-240-million-outflow-bearish-phase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "Wed, 18 Nov 2026",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5HJSXMPY51PCJ82B9PXHE2E/hi-market-correction-vs-bear-market-btc-2.jpg",
+    "content": "Bitcoin ETF outflows returned after a one-day pause as CryptoQuant warned that Bitcoin had returned to a bearish market phase."
   },
   {
     "title": "Here’s what happened in crypto today",
@@ -62,22 +78,6 @@
     "date": "Wed, 18 Nov 2026",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7P04TMY3ZNTQGGY0NY9GWNQ/hi-why-low-latency-is-important-for-cryptocurrency-exchanges-nvidia.jpg",
     "content": "Nvidia beat Wall Street’s revenue expectations by 5.6% and issued a stronger-than-expected sales forecast, while its board resisted growing calls for Jensen Huang’s reinstatement."
-  },
-  {
-    "title": "CFTC halts some Kalshi Trump mention markets over manipulation concerns",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/cftc-kalshi-trump-mention-markets-review?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "date": "Tue, 17 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7NNKAA0TZDN6AEJDCQCDBHM/hi-comparison-us-elections-1.png",
-    "content": "The CFTC stayed Kalshi’s Trump-related mention markets after raising concerns about manipulation risks, giving the platform until Dec. 11 to defend its contracts."
-  },
-  {
-    "title": "Maple Finance CEO targets up to $15B in assets by the end of 2027",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/maple-finance-15b-assets-target-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "date": "Tue, 17 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7NF6KGF5937HFV5G808MCSV/maple-branded-header.png",
-    "content": "Sidney Powell aims to reach $15 billion in assets under management by the end of 2027 as the firm looks to expand into tokenized lending and traditional finance."
   },
   {
     "title": "Why Microsoft Thinks Smaller, Cheaper AI Can Beat Claude and GPT",
