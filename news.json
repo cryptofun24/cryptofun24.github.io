@@ -13,7 +13,7 @@
     "url": "https://www.coindesk.com/markets/2026/11/18/bullish-beats-revenue-estimates-as-institutional-services-offset-sluggish-spot-crypto-volumes",
     "date": "Wed, 18 Nov 2026",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/6d8345ab102c51714055bd408fc49095d52d1019-4000x1868.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "The crypto platform reported a net loss of $576.3 million for the third quarter, compared with a gain of $18.5 million a year earlier."
+    "content": "The crypto platform reported net income of $576.3 million for the third quarter thanks to a sharp rise in the price of bitcoin."
   },
   {
     "title": "Circle turns to DBS as banks build rival digital payment systems across Asia",
@@ -40,44 +40,60 @@
     "content": "Bitcoin (BTC) is down 1.1% since midnight UTC at around $64,100, failing to keep pace with rising stock index futures after Nvidia beat earnings."
   },
   {
-    "title": "Tokenized Nvidia market cap surges 159% amid Jensen Huang’s exit",
+    "title": "Bitcoin Covenants Part 6: FE Covenants — Enforcing covenants through cryptographically restricted signing keys",
     "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/tokenized-nvidia-cap-rises-158-stock-loses-750b?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "url": "https://cointelegraph.com/research/bitcoin-covenants-part-6-fe-covenants-enforcing-covenants-through-cryptographically-restricted-signing-keys?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "date": "Wed, 18 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7Q7NKG0EFP1GGQ9YBYJNTQS/hi-nvidia-becomes-its-own-chip-maker.jpg",
-    "content": "Nvidia stock tokens reached $401.9 million in combined value as Jensen Huang stepped down and the chipmaker posted record quarterly revenue."
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M4WX6QRMY3H03AP4FKTGM4KT/hi-why-the-crypto-market-is-falling-lately2.jpg",
+    "content": "FE covenants encode spending constraints into the signing key, so only transactions that satisfy a predefined condition can be signed."
   },
   {
-    "title": "Bitwise seeks Texas Stock Exchange listing for Zcash ETF",
+    "title": "CoinShares sells all treasury ETH, halves SOL holdings for buybacks",
     "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/bitwise-zcash-etf-texas-stock-exchange-listing?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "url": "https://cointelegraph.com/news/coinshares-sells-eth-treasury-holdings-halves-sol-share-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "date": "Wed, 18 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7Q2P5HGE3ZFSJ3N0EK6V580/zcash-etf.png",
-    "content": "Coinbase Custody would safeguard the fund’s ZEC holdings, while Bitwise Investment Advisers would serve as its manager and sponsor."
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2SW0NN1AJCM8SBK7NYC8PRK/hi-crypto-negotiation-1.jpg",
+    "content": "The October sales raised $19.3 million, nearly half the $40 million CoinShares can spend on buybacks before its next annual meeting."
   },
   {
-    "title": "Bitcoin steadies after Nvidia’s earnings beat as $60K bids stand out",
+    "title": "Here’s what happened in crypto today",
     "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/markets/bitcoin-60k-liquidity-stocks-gain-nvidia-1158b-earnings-beat?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "date": "Wed, 18 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7Q0JDHMQTXG5XXY6NN8HAEF/article-covers-255514-bitcoin-tests-fresh-decoupling-trade-tech-correlation-breaks-1280x853.webp",
-    "content": "Bitcoin halted downside as Nvidia confidence returned, with its stock gaining 3% premarket and South Korea’s tech-heavy KOSPI reclaiming 5,000 points."
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
   },
   {
-    "title": "World Bank partners with Circle, Citi to explore stablecoins for payments",
+    "title": "Sanctions fears loom over Russia’s regulated crypto trading launch",
     "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/world-bank-circle-citi-explore-stablecoins-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "url": "https://cointelegraph.com/news/sanctions-fears-russia-crypto-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "date": "Wed, 18 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1P74NCJ7VVQEWSD26T81DZH/digital-bank-2.jpg",
-    "content": "The initiative builds on the World Bank’s existing blockchain platform, which aims to create more fund traceability for investments in developing countries."
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7Q75JXEH3W3H0DFN6HB6KQR/contemplative-coin-character.png",
+    "content": "Russia’s crypto trading rollout faces uncertainty as companies weigh sanctions exposure, while Moscow Exchange prepares to launch crypto trading in December."
   },
   {
-    "title": "SOL comes out of Breakpoint 7% higher as Solana exits beta",
+    "title": "How to preserve wealth and access funds during a national emergency",
     "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/markets/solana-sol-gains-7-percent-breakpoint-beta-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "url": "https://cointelegraph.com/magazine/how-to-preserve-wealth-and-access-it-during-a-national-emergency?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "date": "Wed, 18 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7PVBTFSABZPYDQ0WHD9YNKW/price-movements-solana.png",
-    "content": "Solana’s token reached $75.12 on Tuesday, outpacing Bitcoin and Ether after the network retired the beta label it had used since its 2020 launch."
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7NTHS8XZJPX88HFGPM5APW7/toned-down-explosion.png",
+    "content": "As geopolitical and technological threats multiply, the big question is whether you can hold on to your wealth and access funds when the system fails."
+  },
+  {
+    "title": "Movie2K Defendant Could Hand Over 40,000 Bitcoin to End Trial—and Stay a Billionaire",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/383533/movie2k-defendant-could-hand-over-40000-bitcoin-to-end-trial-and-stay-a-billionaire",
+    "date": "Wed, 18 Nov 2026",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png@png",
+    "content": "A German judge has offered to drop the charges if the alleged operator of the piracy site gives up most of his remaining Bitcoin."
+  },
+  {
+    "title": "Morning Minute: Nvidia Beats, Board Says ‘No’ on Jensen",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/383530/morning-minute-nvidia-beats-board-says-no-on-jensen",
+    "date": "Wed, 18 Nov 2026",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/nvidia-logo-decrypt-style-01-gID_7.png@png",
+    "content": "Nvidia delivered its best earnings ever and raised forward guidance. And yet, the market mostly shrugged. What does it mean?"
   },
   {
     "title": "'Doomed From the Start': President Trump's Meme Coin Hits New Lows After Midterms",
@@ -104,20 +120,20 @@
     "content": "Scotland's Tyler Buchanan is the last of five defendants sentenced in a phishing and SIM-swapping scheme that targeted crypto holders."
   },
   {
-    "title": "Why Microsoft Thinks Smaller, Cheaper AI Can Beat Claude and GPT",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/383468/why-microsoft-thinks-smaller-cheaper-ai-beat-claude-gpt",
-    "date": "Tue, 17 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/microsoft-gID_7.jpg@png",
-    "content": "Microsoft's new coding, cybersecurity and image models challenge bigger rivals on performance and price. The company's bet is that doing one job exceptionally well matters more than doing absolutely everything."
+    "title": "Bitcoin Price Trades Near $64,000 as Fed’s Waller Floats Half-Point Hike",
+    "source": "Bitcoin Magazine",
+    "url": "https://bitcoinmagazine.com/markets/bitcoin-price-trades-near-64000-waller",
+    "date": "Wed, 18 Nov 2026",
+    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
+    "content": "Bitcoin Magazine Bitcoin Price Trades Near $64,000 as Fed&#8217;s Waller Floats Half-Point Hike Bitcoin price traded near $64,000 Wednesday morning as Fed Governor Christopher Waller floated a half-point December rate hike, offsetting a lift from Nvidia earnings. This post Bitcoin Price Trades Near $64,000 as Fed&#8217;s Waller Floats Half-Point Hike first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
   },
   {
-    "title": "Nvidia Board Shuts Down Jensen Huang Comeback, Launches Search for New CEO",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/383513/nvidia-board-shuts-down-jensen-huang-comeback",
-    "date": "Tue, 17 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/jensen-huang-nvidia-decrypt-style-05-gID_7.jpg@png",
-    "content": "Nvidia's board rejected a comeback for its ousted co-founder as it hired a search firm, backed interim CEO Colette Kress, and tightened oversight of chip exports to China."
+    "title": "South Korea Set to Let 3,500 Companies Buy Bitcoin, Report Says",
+    "source": "Bitcoin Magazine",
+    "url": "https://bitcoinmagazine.com/news/south-korea-companies-buy-bitcoin",
+    "date": "Wed, 18 Nov 2026",
+    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
+    "content": "Bitcoin Magazine South Korea Set to Let 3,500 Companies Buy Bitcoin, Report Says South Korea's Financial Services Commission plans to release guidelines next week that would let about 3,500 listed companies and professional-investor firms invest in bitcoin and other crypto, News1 reported. This post South Korea Set to Let 3,500 Companies Buy Bitcoin, Report Says first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
   },
   {
     "title": "Bitcoin Policy Institute Rebrands as Finney Foundation for Open Technology",
@@ -142,21 +158,5 @@
     "date": "Tue, 17 Nov 2026",
     "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
     "content": "&#9654; Bitcoin Magazine Mark Yusko: Why Bitcoin Is Falling — $58k is the Key Level to Watch Mark Yusko says we are in a bad right now. This post Mark Yusko: Why Bitcoin Is Falling — $58k is the Key Level to Watch first appeared on Bitcoin Magazine and is written by Patrick Green ."
-  },
-  {
-    "title": "Wall Street Bought $4.2B of Bitcoin in Q3: What You Need to Know",
-    "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/videos/wall-street-bought-4-2b-of-bitcoin-in-q3-what-you-need-to-know",
-    "date": "Tue, 17 Nov 2026",
-    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "&#9654; Bitcoin Magazine Wall Street Bought $4.2B of Bitcoin in Q3: What You Need to Know Grace Remington and Sean Hagan walk through deadline-day filings and what they show about who owns , and how they own it. This post Wall Street Bought $4.2B of Bitcoin in Q3: What You Need to Know first appeared on Bitcoin Magazine and is written by Patrick Green ."
-  },
-  {
-    "title": "Situational Awareness Dumps Bitcoin Miners After Citadel Sale",
-    "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/news/aschenbrenner-fund-dumps-bitcoin-miners",
-    "date": "Tue, 17 Nov 2026",
-    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "Bitcoin Magazine Situational Awareness Dumps Bitcoin Miners After Citadel Sale Situational Awareness, the AI fund run by Leopold Aschenbrenner, cut IREN about 94% and exited Core Scientific, Riot and Hive in the third quarter, leaving $80.8 million in three miner stocks after a July sale to Citadel. This post Situational Awareness Dumps Bitcoin Miners After Citadel Sale first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
   }
 ]
