@@ -80,6 +80,22 @@
     "content": "FE covenants encode spending constraints into the signing key, so only transactions that satisfy a predefined condition can be signed."
   },
   {
+    "title": "Why CoinShares Just Sold All Its Ethereum and Half Its Solana",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/383570/why-coinshares-just-sold-all-ethereum-half-solana",
+    "date": "Wed, 18 Nov 2026",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/ethereum-dogecoin-bitcoin-cardano-xrp-decrypt-style-1-gID_7.jpg@png",
+    "content": "The crypto asset manager sold $16.6 million in Ethereum and $2.7 million in Solana, freeing up $19.3 million. Here's why."
+  },
+  {
+    "title": "Bitcoin Tanks Ahead of Anthropic’s IPO. Should We Really Blame AI?",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/383551/bitcoin-tanks-ahead-anthropics-ipo-should-we-really-blame-ai",
+    "date": "Wed, 18 Nov 2026",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_red-gID_7.png@png",
+    "content": "Bitcoin slid toward $63,000 as Anthropic prepared its blockbuster debut. Analysts dispute whether the IPO is draining crypto liquidity, pointing instead to ETF outflows, forced selling and rising interest rates."
+  },
+  {
     "title": "Bitcoin Miners Are Selling Their Stacks to Fund the AI Boom",
     "source": "Decrypt",
     "url": "https://decrypt.co/383568/bitcoin-miners-selling-fund-ai-boom",
@@ -104,20 +120,12 @@
     "content": "The trader turned $300 into over $200,000 as early footage of GTA 6 sent degens flocking between different token tickers."
   },
   {
-    "title": "'It Speaks in Tongues That Only 6.2 Astra Understands': Why Early Testers Hate OpenAI’s New Model",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/383539/speaks-tongues-only-6-2-astra-understands-why-early-testers-hate-openai-new-model",
+    "title": "Scattered Spider Hacker Gets Six Years for $11.6 Million Crypto Theft",
+    "source": "Bitcoin Magazine",
+    "url": "https://bitcoinmagazine.com/news/scattered-spider-hacker-six-years-crypto-theft",
     "date": "Wed, 18 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/ChatGPT-gID_7.jpg@png",
-    "content": "OpenAI's flagship AI model is dazzling developers with 3D creations, but early testers say it stalls during long projects, gives baffling explanations, and hides failures."
-  },
-  {
-    "title": "Movie2K Defendant Could Hand Over 40,000 Bitcoin to End Trial—and Stay a Billionaire",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/383533/movie2k-defendant-could-hand-over-40000-bitcoin-to-end-trial-and-stay-a-billionaire",
-    "date": "Wed, 18 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png@png",
-    "content": "A German judge has offered to drop the charges if the alleged operator of the piracy site gives up most of his remaining Bitcoin."
+    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
+    "content": "Bitcoin Magazine Scattered Spider Hacker Gets Six Years for $11.6 Million Crypto Theft A Scottish hacker tied to Scattered Spider was sentenced to six years in U.S. prison for a SIM-swap and phishing scheme that stole at least $11.6 million in crypto. This post Scattered Spider Hacker Gets Six Years for $11.6 Million Crypto Theft first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
   },
   {
     "title": "Binance Says It Won Court Order to Recover Frozen Hack Funds",
@@ -150,13 +158,5 @@
     "date": "Wed, 18 Nov 2026",
     "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
     "content": "Bitcoin Magazine German Court Offers to Drop Movie2k Case for 40,000 Bitcoin A Leipzig judge has offered to dismiss the Movie2k criminal case if the defendant hands over 40,000 bitcoin, which would leave him about 16,000 coins worth roughly $1.02 billion. This post German Court Offers to Drop Movie2k Case for 40,000 Bitcoin first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
-  },
-  {
-    "title": "Coinbase Says Its AI Blocked $4.7 Million in Deepfake Elon Musk Scam",
-    "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/news/coinbase-ai-blocks-deepfake-musk-scam",
-    "date": "Wed, 18 Nov 2026",
-    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "Bitcoin Magazine Coinbase Says Its AI Blocked $4.7 Million in Deepfake Elon Musk Scam Coinbase said its AI scam-prevention agent stopped about $4.7 million, roughly 91% of what customers tried to send, from reaching scammers running a deepfake Elon Musk crypto giveaway. This post Coinbase Says Its AI Blocked $4.7 Million in Deepfake Elon Musk Scam first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
   }
 ]
