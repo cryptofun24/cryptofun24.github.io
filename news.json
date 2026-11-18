@@ -1,5 +1,13 @@
 [
   {
+    "title": "CFTC nominee questions public benefit of prediction markets as legal fight grows",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/policy/2026/11/17/nominee-says-u-s-cftc-must-think-hard-about-public-benefit-of-prediction-markets",
+    "date": "Wed, 18 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/196bbc9bb34f3e2d19415834353ddcfb62b466d4-2378x1256.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "One of the two picks to join the regulatory commission, Democratic nominee Matthew Rowland, said he hopes to have a say in prediction markets rulemaking."
+  },
+  {
     "title": "Nvidia tops estimates, issues strong guidance; shares rise",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/markets/2026/11/17/nvidia-tops-estimates-issues-strong-guidance-adds-usd150-billion-to-buyback-authorization",
@@ -32,12 +40,12 @@
     "content": "The billionaire investor is prioritizing capital preservation and shifting his AI focus from infrastructure to applications."
   },
   {
-    "title": "U.S. Fed Governor Waller pitches keeping central bank at the center of tokenization",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/policy/2026/11/17/u-s-fed-governor-waller-pitches-keeping-central-bank-at-the-center-of-tokenization",
-    "date": "Tue, 17 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/fc32cdfe2379f454c7160b98435207e28877a3d9-4132x2324.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "Waller suggested the Federal Reserve could provide trusted rails for emerging innovation tied to tokenized assets and agentic AI."
+    "title": "Nvidia board rejects Huang comeback despite record $116B quarter",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/markets/nvidia-board-rejects-huang-comeback-amid-record-116b-quarter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "Wed, 18 Nov 2026",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7P04TMY3ZNTQGGY0NY9GWNQ/hi-why-low-latency-is-important-for-cryptocurrency-exchanges-nvidia.jpg",
+    "content": "Nvidia beat Wall Street’s revenue expectations by 5.6% and issued a stronger-than-expected sales forecast, while its board resisted growing calls for Jensen Huang’s reinstatement."
   },
   {
     "title": "Here’s what happened in crypto today",
@@ -70,14 +78,6 @@
     "date": "Tue, 17 Nov 2026",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7N9V9STHF6S9E0M81Y5Q7RA/hi-eastern-europe.png",
     "content": "Chainalysis found that Eastern Europe recorded the steepest decline in crypto activity of any region, while cross-border stablecoin transfers to Ukraine continued amid the ongoing war."
-  },
-  {
-    "title": "Lighter incident exposes risks beyond withdrawal controls",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/lighter-incident-exposes-risks-beyond-withdrawal-controls?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "date": "Tue, 17 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7N1GK3FJ1PBDSJP9B84C5F0/blockchain-tangled-cats-cradle-defi-2.jpg",
-    "content": "Crypto platforms need enforceable limits on every route an API key can use to transfer value, including trades, internal transfers and shared pools."
   },
   {
     "title": "Why Microsoft Thinks Smaller, Cheaper AI Can Beat Claude and GPT",
