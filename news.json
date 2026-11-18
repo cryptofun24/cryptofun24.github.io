@@ -40,6 +40,14 @@
     "content": "The bitcoin miner is taking on borrowing tied to an Ohio power plant as it shifts more of its business toward AI infrastructure."
   },
   {
+    "title": "MARA prices $185M debt offering after $1.1B Bitcoin sale",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/markets/mara-long-ridge-debt-offering-bitcoin-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "Wed, 18 Nov 2026",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7QST21C60SV76QK44V5QB7B/hi-how-to-use-render-network-for-decentralized-gpu-rendering-ai.png",
+    "content": "The Bitcoin miner is taking on new debt to finance its AI infrastructure expansion, with the Long Ridge acquisition adding nearly $69 million in annual interest costs."
+  },
+  {
     "title": "$25M Ethereum MEV acquittal tests criminal enforcement limits",
     "source": "CoinTelegraph",
     "url": "https://cointelegraph.com/news/25m-ethereum-mev-acquittal-tests-criminal-enforcement-limits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -72,12 +80,20 @@
     "content": "FE covenants encode spending constraints into the signing key, so only transactions that satisfy a predefined condition can be signed."
   },
   {
-    "title": "CoinShares sells all treasury ETH, halves SOL holdings for buybacks",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/coinshares-sells-eth-treasury-holdings-halves-sol-share-buybacks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Bitcoin Miners Are Selling Their Stacks to Fund the AI Boom",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/383568/bitcoin-miners-selling-fund-ai-boom",
     "date": "Wed, 18 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2SW0NN1AJCM8SBK7NYC8PRK/hi-crypto-negotiation-1.jpg",
-    "content": "The October sales raised $19.3 million, nearly half the $40 million CoinShares can spend on buybacks before its next annual meeting."
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/bitcoin-mining-decrypt-style-02-gID_7.png@png",
+    "content": "MARA sold 13,597 BTC after September and Riot sold 20,264 BTC through September to fund debt repayment and AI data center buildouts, as Glassnode flagged the pair as the main sellers among Bitcoin treasury firms."
+  },
+  {
+    "title": "Fed's Waller Calls for 50-Basis-Point Rate Hike, Says Tokenized Finance Still Needs Traditional Banks",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/383566/fed-waller-50-basis-point-rate-hike-tokenized-finance-banks",
+    "date": "Wed, 18 Nov 2026",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/Federal-Reserve-Bank-gID_7.jpg@png",
+    "content": "Christopher Waller says stubborn inflation may warrant a bigger December rate hike, while a separate speech outlined why blockchain-based payments still need traditional settlement systems and stronger safeguards to scale."
   },
   {
     "title": "Lucky Trader Banks 66,000% Profit on GTA 6 Meme Coin Ticker Confusion",
@@ -104,20 +120,12 @@
     "content": "A German judge has offered to drop the charges if the alleged operator of the piracy site gives up most of his remaining Bitcoin."
   },
   {
-    "title": "Morning Minute: Nvidia Beats, Board Says ‘No’ on Jensen",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/383530/morning-minute-nvidia-beats-board-says-no-on-jensen",
+    "title": "Binance Says It Won Court Order to Recover Frozen Hack Funds",
+    "source": "Bitcoin Magazine",
+    "url": "https://bitcoinmagazine.com/news/binance-abu-dhabi-order-recover-frozen",
     "date": "Wed, 18 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/nvidia-logo-decrypt-style-01-gID_7.png@png",
-    "content": "Nvidia delivered its best earnings ever and raised forward guidance. And yet, the market mostly shrugged. What does it mean?"
-  },
-  {
-    "title": "'Doomed From the Start': President Trump's Meme Coin Hits New Lows After Midterms",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/383524/doomed-from-the-start-president-trumps-meme-coin-hits-new-lows-after-midterms",
-    "date": "Wed, 18 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Trump-decrypt-style-04-gID_7.png@png",
-    "content": "The TRUMP token has fallen almost 40% since election day, with analysts pointing to the Democrats’ subpoena plans, fading interest, and a heavy unlock schedule."
+    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
+    "content": "Bitcoin Magazine Binance Says It Won Court Order to Recover Frozen Hack Funds Binance says it has a court order from Abu Dhabi Global Market to recover crypto frozen after the $6.3 billion hack. This post Binance Says It Won Court Order to Recover Frozen Hack Funds first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
   },
   {
     "title": "Analyst: Bitcoin Below $70,000 is a ‘Gift From the Market’",
@@ -150,13 +158,5 @@
     "date": "Wed, 18 Nov 2026",
     "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
     "content": "Bitcoin Magazine Coinbase Says Its AI Blocked $4.7 Million in Deepfake Elon Musk Scam Coinbase said its AI scam-prevention agent stopped about $4.7 million, roughly 91% of what customers tried to send, from reaching scammers running a deepfake Elon Musk crypto giveaway. This post Coinbase Says Its AI Blocked $4.7 Million in Deepfake Elon Musk Scam first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
-  },
-  {
-    "title": "New York State Pension Fund Boosts Strategy (MSTR) Stake by More Than 10%",
-    "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/news/ny-pension-fund-boosts-strategy-stake",
-    "date": "Wed, 18 Nov 2026",
-    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "Bitcoin Magazine New York State Pension Fund Boosts Strategy (MSTR) Stake by More Than 10% New York's state pension fund raised its Strategy (MSTR) stake to 352,850 shares worth $54.0 million at Sept. 30, a gain of more than 10% from June 30, its latest 13F shows. This post New York State Pension Fund Boosts Strategy (MSTR) Stake by More Than 10% first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
   }
 ]
