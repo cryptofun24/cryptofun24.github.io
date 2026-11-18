@@ -1,5 +1,21 @@
 [
   {
+    "title": "Strategy stock could plunge 76% to $23, chart analyst warns",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/11/18/strategy-stock-could-crash-76-to-usd23-chart-analyst-warns",
+    "date": "Wed, 18 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/7b63b5e1efc97e601271d42bd7599050e6015e6c-1920x1281.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "Aksel Kibar, who has tracked Bitcoin’s price action since at least 2018, made the bearish call, citing a still-active head-and-shoulders pattern on MicroStrategy’s (MSTR) daily chart."
+  },
+  {
+    "title": "Hyundai tests AI agent commerce on JPMorgan’s Kinexys blockchain",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/business/2026/11/18/hyundai-tests-ai-agent-commerce-on-jpmorgan-s-kinexys-blockchain",
+    "date": "Wed, 18 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/bfe29fd94edbdf4664f3082c0e99e10ccf1842a9-1280x720.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "The exploration of AI agents with JPMorgan builds on Hyundai’s recent stablecoin-based cross-border remittance pilot."
+  },
+  {
     "title": "Google finds self-running AI hacking tool with Russian comments in its files",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/tech/2026/11/18/google-finds-self-running-ai-hacking-tool-with-russian-comments-in-its-files",
@@ -24,20 +40,12 @@
     "content": "A federal judge acquitted Anton and James Peraire-Bueno, ruling that their 2023 trade against Ethereum trading bots involved no lie that anyone relied on, and closing the U.S. government’s first criminal case over the practice known as MEV."
   },
   {
-    "title": "Bitcoin's 12% slide through key support looks scary, but history says give it 3 months.",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-s-rare-12-crash-through-its-200-week-average-has-a-bullish-track-record",
+    "title": "World Bank partners with Circle, Citi to explore stablecoins for payments",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/world-bank-circle-citi-explore-stablecoins-payments?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "date": "Wed, 18 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/bddca123d6c3c3404585c705b5e2bf87a9f282ac-1600x900.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "Bitcoin broke below its 200-week average with a 12% drop. Only three similar crashes have occurred since 2013. Here’s what happened next."
-  },
-  {
-    "title": "XRP whales moved $270 million during the selloff. The coins didn’t go to exchanges",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/markets/2026/11/18/xrp-whales-moved-usd270-million-during-the-selloff-the-coins-didn-t-go-to-exchanges",
-    "date": "Wed, 18 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b53d077c4e5949d0efd6629978ef575ece087f83-2400x1350.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "A holder whose wallets trace back to a 2020 Bitstamp withdrawal has moved 281 million XRP into two vaults three weeks apart, a behavior indicative of custody rather than a large investor heading for the exit."
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1P74NCJ7VVQEWSD26T81DZH/digital-bank-2.jpg",
+    "content": "The initiative builds on the World Bank’s existing blockchain platform, which aims to create more fund traceability for investments in developing countries."
   },
   {
     "title": "SOL comes out of Breakpoint 7% higher as Solana exits beta",
@@ -70,14 +78,6 @@
     "date": "Wed, 18 Nov 2026",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7P83FWSZ6BPXQ3S3FXWM9VP/hi-ledger0.jpg",
     "content": "Two Ledger owners reported losing a combined $604,000 in crypto from hardware wallets they said were purchased at authorized retailer Virgin Megastore in Dubai."
-  },
-  {
-    "title": "Nvidia board rejects Huang comeback despite record $116B quarter",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/markets/nvidia-board-rejects-huang-comeback-amid-record-116b-quarter?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "date": "Wed, 18 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7P04TMY3ZNTQGGY0NY9GWNQ/hi-why-low-latency-is-important-for-cryptocurrency-exchanges-nvidia.jpg",
-    "content": "Nvidia beat Wall Street’s revenue expectations by 5.6% and issued a stronger-than-expected sales forecast, while its board resisted growing calls for Jensen Huang’s reinstatement."
   },
   {
     "title": "Why Microsoft Thinks Smaller, Cheaper AI Can Beat Claude and GPT",
