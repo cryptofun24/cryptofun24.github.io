@@ -1,5 +1,13 @@
 [
   {
+    "title": "Payward, the owner of crypto exchange Kraken, is buying its CEO’s venture capital business, Tribe",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/business/2026/11/18/payward-the-owner-of-crypto-exchange-kraken-is-buying-its-ceo-s-venture-capital-business-tribe",
+    "date": "Wed, 18 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/60eaa4392d735a85d254d5ac89ec08baf0b7a62e-2048x1152.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "Sethi, who was appointed co-CEO of Kraken in October 2024, is also the chairman of Tribe Capital."
+  },
+  {
     "title": "A $1.5 billion crypto startup is taking on Hyperliquid with a Wall Street playbook",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/business/2026/11/18/a-usd1-5-billion-crypto-startup-is-taking-on-hyperliquid-with-a-wall-street-playbook",
@@ -32,12 +40,20 @@
     "content": "As Hong Kong pushes banks to use AI to combat crypto crime, experts say the technology must detect suspicious transfers without putting customer funds at risk."
   },
   {
-    "title": "Bitcoin miner MARA raises $185 million in debt after selling $1 billion BTC to repay loans",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/markets/2026/11/18/bitcoin-miner-mara-raises-usd185-million-in-debt-after-selling-usd1-billion-btc-to-repay-loans",
+    "title": "Here’s what happened in crypto today",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "date": "Wed, 18 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ca66b3dc87ea8726aae8c39431318f25701396b3-4000x2667.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "The bitcoin miner is taking on borrowing tied to an Ohio power plant as it shifts more of its business toward AI infrastructure."
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+  },
+  {
+    "title": "Tether invokes The Big Short in swipe at S&P over USDT reserve risks",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/tether-usdt-sp-stability-assessment-reserve-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "Wed, 18 Nov 2026",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7R37068GHKH9WAH82DY4DT6/tether-with-watermark.png",
+    "content": "S&P Global made no downward adjustment in its latest Stablecoin Stability Assessment, as 5 is the lowest available score."
   },
   {
     "title": "Ledger warns Berlin customers as hardware wallet tampering investigation expands",
@@ -64,20 +80,12 @@
     "content": "The court orders allow legal notices to be served via blockchain and provide for a continuously updated list of 26,000 wallet addresses linked to stolen assets, Binance’s lawyers said."
   },
   {
-    "title": "MARA prices $185M debt offering after $1.1B Bitcoin sale",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/markets/mara-long-ridge-debt-offering-bitcoin-sales?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Ledger Confirms Tampered Bitcoin Wallets in Berlin as Spy Implant Probe Spreads Beyond Asia",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/383586/ledger-confirms-tampered-bitcoin-wallets-berlin-spreads-beyond-asia",
     "date": "Wed, 18 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7QST21C60SV76QK44V5QB7B/hi-how-to-use-render-network-for-decentralized-gpu-rendering-ai.png",
-    "content": "The Bitcoin miner is taking on new debt to finance its AI infrastructure expansion, with the Long Ridge acquisition adding nearly $69 million in annual interest costs."
-  },
-  {
-    "title": "$25M Ethereum MEV acquittal tests criminal enforcement limits",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/25m-ethereum-mev-acquittal-tests-criminal-enforcement-limits?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "date": "Wed, 18 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7QHP33KYEEN9JBBBFRAHBHY/hi-what-is-mev-a-beginners-guide-to-ethereums-invisible-tax.jpg",
-    "content": "BlackRock’s staked Ether ETF earns a cut of what traders pay for priority on Ethereum, the acquittal left the legal risk to that income unresolved."
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/ledger-hardware-wallets-decrypt-style-gID_7.jpg@png",
+    "content": "Ledger says its hardware implant investigation has confirmed tampered devices in Berlin and is examining two suspected units in Dubai, as the incident spreads beyond Southeast Asia."
   },
   {
     "title": "ChatGPT, Claude, Gemini and Grok Helped Plan Terror Attacks in Government Tests",
@@ -110,14 +118,6 @@
     "date": "Wed, 18 Nov 2026",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/ethereum-dogecoin-bitcoin-cardano-xrp-decrypt-style-1-gID_7.jpg@png",
     "content": "The crypto asset manager sold $16.6 million in Ethereum and $2.7 million in Solana, freeing up $19.3 million. Here's why."
-  },
-  {
-    "title": "Bitcoin Tanks Ahead of Anthropic’s IPO. Should We Really Blame AI?",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/383551/bitcoin-tanks-ahead-anthropics-ipo-should-we-really-blame-ai",
-    "date": "Wed, 18 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_red-gID_7.png@png",
-    "content": "Bitcoin slid toward $63,000 as Anthropic prepared its blockbuster debut. Analysts dispute whether the IPO is draining crypto liquidity, pointing instead to ETF outflows, forced selling and rising interest rates."
   },
   {
     "title": "Saifedean Ammous: AI Could Be “Massively Overvalued” as Bitcoin Starts “Its Own Run”",
