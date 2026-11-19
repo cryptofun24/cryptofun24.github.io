@@ -1,5 +1,13 @@
 [
   {
+    "title": "Ethereum block builders received the most in a $3.4 million vault hack, data shows",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/tech/2026/11/19/ethereum-block-builders-received-the-most-in-a-usd3-4-million-vault-hack-data-shows",
+    "date": "Thu, 19 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/49077f3ae23a34060a80b384790794ebb4c25687-2560x1707.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "An automated trading bot copied the attack on K3 Capital's sBOLD vault, taking more than half the funds and paying most of its proceeds to get its transactions processed first."
+  },
+  {
     "title": "Bitcoin miner that sold its last BTC warns it may run short of cash for $1.2 billion AI deal",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/markets/2026/11/19/bitcoin-miner-that-sold-its-last-btc-warns-it-may-run-short-of-cash-for-usd1-2-billion-ai-deal",
@@ -32,12 +40,20 @@
     "content": "Sethi, who was appointed co-CEO of Kraken in October 2024, is also the chairman of Tribe Capital."
   },
   {
-    "title": "A $1.5 billion crypto startup is taking on Hyperliquid with a Wall Street playbook",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/business/2026/11/18/a-usd1-5-billion-crypto-startup-is-taking-on-hyperliquid-with-a-wall-street-playbook",
-    "date": "Wed, 18 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2180f062d339af02b2052281b305e8f75b13fdef-1920x1281.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "Variational and its investors are betting that the future of onchain trading will look more like a traditional brokerage than a crypto exchange."
+    "title": "Senators warn GENIUS Act rules could push stablecoin firms toward federal oversight",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/us-senators-genius-act-rules-favor-federal-stablecoin-issuers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "Thu, 19 Nov 2026",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7S3XTAVJ2EZZX3W47HHYMWA/federal-usa-state-issuer.png",
+    "content": "The lawmakers urged Treasury to extend safe harbor protections to stablecoin issuers in states expected to establish qualifying regulatory frameworks before January 2028."
+  },
+  {
+    "title": "Binance hackers stole 192 tokens across 11 networks, court docs show",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/binance-hackers-stole-192-tokens-across-11-networks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "Thu, 19 Nov 2026",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7S2PS7A7DGE0V6HJFS82SEY/hi-what-are-crypto-exit-scams-and-how-to-protect-against-them.jpg",
+    "content": "Stablecoins accounted for at least $3.46 billion of the $6.3 billion stolen, while the hackers also took memecoins, tokenized gold and gaming tokens."
   },
   {
     "title": "Trump administration unveils new center to choke off scam payments",
@@ -56,28 +72,12 @@
     "content": "The latest FOMC minutes suggest greater appetite for higher rates than the Fed’s 10–2 vote indicated, with markets now pricing in a December hike."
   },
   {
-    "title": "Here’s what happened in crypto today",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "date": "Wed, 18 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-    "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-  },
-  {
     "title": "Tether invokes The Big Short in swipe at S&P over USDT reserve risks",
     "source": "CoinTelegraph",
     "url": "https://cointelegraph.com/news/tether-usdt-sp-stability-assessment-reserve-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "date": "Wed, 18 Nov 2026",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7R37068GHKH9WAH82DY4DT6/tether-with-watermark.png",
     "content": "S&P Global made no downward adjustment in its latest Stablecoin Stability Assessment, as 5 is the lowest available score."
-  },
-  {
-    "title": "Ledger warns Berlin customers as hardware wallet tampering investigation expands",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/ledger-warns-berlin-customers-hardware-wallet-investigation?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "date": "Wed, 18 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7R7EK1MNWSD45EFCA2JN3ZP/hi-ledger-nano-s-plus-review-unlocking-features-security-and-performance.png",
-    "content": "Ledger advised customers who purchased devices in Berlin since January 2026 to contact support as it investigates suspected hardware implants in Germany and Dubai."
   },
   {
     "title": "Ledger Confirms Tampered Bitcoin Wallets in Berlin as Spy Implant Probe Spreads Beyond Asia",
