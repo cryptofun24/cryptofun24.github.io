@@ -1,5 +1,13 @@
 [
   {
+    "title": "Sky's USDS stablecoin shrinks 35% as $1.5 billion exits reserves after illicit-finance report",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/business/2026/11/19/sky-s-usds-stablecoin-shrinks-35-as-usd1-5-billion-exits-reserves-after-illicit-finance-report",
+    "date": "Thu, 19 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/68cca7099bc4c4f1be04587d54e876e9da8719ee-1440x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "USDS held its $1 peg as a large holder linked to Poloniex withdrew much of decentralized protocol Sky's USDC liquidity backing its stablecoins."
+  },
+  {
     "title": "Trump's Democratic SEC pick suggests tokenization policy deserves full rule process",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/policy/2026/11/19/trump-s-democratic-sec-pick-suggests-tokenization-policy-deserves-full-rule-process",
@@ -56,6 +64,14 @@
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
   },
   {
+    "title": "Bitcoin Enters Death Cross as Anthropic IPO Fails to Lift Wall Street",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/383655/bitcoin-enters-death-cross-anthropic-ipo",
+    "date": "Thu, 19 Nov 2026",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/bitcoin-crack-decrypt-style-gID_7.jpg@png",
+    "content": "Anthropic shares surged on their Nasdaq debut, but stocks slid and Bitcoin fell lower. Its daily chart shows deeply oversold momentum, a strong downtrend, and fragile support."
+  },
+  {
     "title": "Protesters Arrested Outside Nasdaq as Activists Oppose Anthropic IPO Over AI Bubble Risks",
     "source": "Decrypt",
     "url": "https://decrypt.co/383642/protesters-arrested-nasdaq-anthropic-ipo-ai-bubble-risks",
@@ -88,12 +104,12 @@
     "content": "The Claude maker beat SpaceX's original share sale, though not its expanded final IPO. Here's who got the money and why the computing bill could be even bigger."
   },
   {
-    "title": "Gen Z Embraces Crypto While Most Americans Call It a 'Side Quest'",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/383589/gen-z-embraces-crypto-most-americans-side-quest",
+    "title": "Institutions are Piling Into Bitcoin ETFs, Pushing Holdings to a Record",
+    "source": "Bitcoin Magazine",
+    "url": "https://bitcoinmagazine.com/markets/institutional-bitcoin-etf-holdings",
     "date": "Thu, 19 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/genz-phones-ai-1-gID_7.png@png",
-    "content": "A SoFi and YouGov survey found that 21% of Gen Z adults own crypto, more than hold employer retirement plans, even as only 13% of all Americans own it and most remain skeptical."
+    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
+    "content": "Bitcoin Magazine Institutions are Piling Into Bitcoin ETFs, Pushing Holdings to a Record Galaxy Research says 13F filers added 49,229 BTC through U.S. spot bitcoin ETPs in Q3, lifting institutional holdings to a record 356,491 BTC as Wells Fargo became the largest holder. This post Institutions are Piling Into Bitcoin ETFs, Pushing Holdings to a Record first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
   },
   {
     "title": "Swiss Bank Sygnum Says Bitcoin Could Reach New High Near $128,000",
@@ -126,13 +142,5 @@
     "date": "Thu, 19 Nov 2026",
     "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
     "content": "Bitcoin Magazine Ledger Finds Tampered Hardware Wallets in Berlin, Probes Two in Dubai Ledger confirmed tampered hardware wallets in Berlin and is investigating two more in Dubai, widening a probe into spy implants that steal recovery phrases. This post Ledger Finds Tampered Hardware Wallets in Berlin, Probes Two in Dubai first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
-  },
-  {
-    "title": "Coinbase Launches U.S. Spot Margin Trading With Up to 10x Leverage",
-    "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/news/coinbase-us-spot-margin-10x",
-    "date": "Thu, 19 Nov 2026",
-    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "Bitcoin Magazine Coinbase Launches U.S. Spot Margin Trading With Up to 10x Leverage Coinbase opened crypto spot margin trading in the U.S. with up to 10x leverage, but only for eligible contract participants with more than $10 million invested. This post Coinbase Launches U.S. Spot Margin Trading With Up to 10x Leverage first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
   }
 ]
