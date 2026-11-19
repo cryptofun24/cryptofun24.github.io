@@ -1,5 +1,37 @@
 [
   {
+    "title": " ‘Highly advanced’ quantum computers could crack financial encryption in five years",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/tech/2026/11/19/banks-and-blockchains-lag-on-quantum-defense-as-encryption-risks-loom-watchdog-warns",
+    "date": "Thu, 19 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e87c2d1c3401c9d716f30b95b8ccef99c06082d2-2276x1707.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "No quantum computer can yet break widely used cryptography, but the securities watchdog says banks and blockchains face a yearslong security overhaul that many have barely begun."
+  },
+  {
+    "title": "Live updates: Bitcoin nears $64,000 as Anthropic’s record IPO lifts tech",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/11/19/live-updates-bitcoin-nears-usd64-000-as-anthropic-s-record-ipo-lifts-tech",
+    "date": "Thu, 19 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/78ddba1fdf70d875d5aa32a91e2feba988b0741f-1496x846.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "Nasdaq futures jumped nearly 2% with Anthropic shares indicated as much as 24% higher, and one analyst said IPO money could flow back into crypto."
+  },
+  {
+    "title": "Singapore settles $77.5 million tokenized bill sale in local CBDC",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/business/2026/11/19/singapore-settles-usd77-5-million-tokenized-bill-sale-in-local-cbdc",
+    "date": "Thu, 19 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b8d846e2133aa83a7cc8c40a8d6391ac0c3050bc-6192x4128.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "The central bank aims to expand this digital settlement network and test wider collateral use in 2027."
+  },
+  {
+    "title": "Roundhill scraps Solana and XRP income ETFs as rival funds indicate low demand",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/11/19/roundhill-scraps-solana-and-xrp-income-etfs-as-rival-funds-attract-just-usd12-million",
+    "date": "Thu, 19 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/7082c0bc8a09a5527ac657aa14cf9beac27d71a7-4096x2304.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "Roundhill withdrew plans for two funds designed to generate income from SOL and XRP, highlighting the gap between billions invested in spot crypto ETFs and limited demand for more specialized strategies."
+  },
+  {
     "title": "Fed's rate hike push may be a mistake. Here's why",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/markets/2026/11/19/fed-s-push-for-more-rate-hikes-leans-on-backward-looking-data-as-gas-prices-slide-analysts-argue",
@@ -8,36 +40,12 @@
     "content": "Experts argue that the Fed is looking at the wrong data as it pushes for more interest-rate hikes, with falling gasoline and energy prices suggesting inflation pressures are already easing."
   },
   {
-    "title": "Ethereum block builders received the most in a $3.4 million vault hack, data shows",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/tech/2026/11/19/ethereum-block-builders-received-the-most-in-a-usd3-4-million-vault-hack-data-shows",
+    "title": "IOSCO warns quantum upgrades could slow blockchains, leave security gaps",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/iosco-quantum-blockchain-upgrades-security-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "date": "Thu, 19 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/49077f3ae23a34060a80b384790794ebb4c25687-2560x1707.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "An automated trading bot copied the attack on K3 Capital's sBOLD vault, taking more than half the funds and paying most of its proceeds to get its transactions processed first."
-  },
-  {
-    "title": "Bitcoin miner that sold its last BTC warns it may run short of cash for $1.2 billion AI deal",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/markets/2026/11/19/bitcoin-miner-that-sold-its-last-btc-warns-it-may-run-short-of-cash-for-usd1-2-billion-ai-deal",
-    "date": "Thu, 19 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/0fc1192501a915d72c5180473c7488ac63038946-1900x1268.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "Hyperscale Data needs another $74.8 million to complete its Michigan data center project, even after selling its remaining bitcoin and raising fresh debt."
-  },
-  {
-    "title": "CZ says tokenized Anthropic is coming to BNB Chain on IPO day",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/markets/2026/11/19/cz-says-tokenized-anthropic-is-coming-to-bnb-chain-on-ipo-day",
-    "date": "Thu, 19 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d3b0012ee91ace25714d9cd726e345705bb5bdd1-3000x1688.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "Changpeng Zhao says Anthropic-linked tokens from bStocks, Ondo and xStocks will hit BNB Chain on day one of the AI giant’s Nasdaq debut. This follows a $500 million pre-IPO rush that comes with notable fine print."
-  },
-  {
-    "title": "Another U.S. appellate court goes against Kalshi, building the industry's legal headwinds",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/policy/2026/11/18/another-u-s-appellate-court-goes-against-kalshi-building-the-industry-s-legal-headwinds",
-    "date": "Thu, 19 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/46965db61ee4916aada25defc894a9708c8072c8-4256x2832.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "Despite a Commodity Futures Trading Commission demand that prediction markets return to operating in all 50 states, federal courts continue to get in the way."
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7SM359KWG92A5Y8EAMD2EM8/hi-a-simple-breakdown-bitcoins-post-quantum-migration.jpg",
+    "content": "A Solana test network ran about 90% slower with quantum-resistant signatures, and wallets that keep using older keys could remain vulnerable."
   },
   {
     "title": "Singapore settles $77.5M tokenized bill sale with wholesale CBDC",
@@ -72,12 +80,12 @@
     "content": "Bitcoin climbed back above $63,500 after its second dip to $62,000 this week, while Anthropic priced its record $81.3 billion IPO at $83 a share."
   },
   {
-    "title": "Bitcoin carry trades could beat Treasury bills in 2027, Sygnum predicts",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/markets/sygnum-bitcoin-carry-trades-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Bitcoin Struggles to Hold $64,000 as ETF Outflows Hit $2.9B in November",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/383597/bitcoin-struggles-to-hold-64000-as-etf-outflows-hit-2-9b-in-november",
     "date": "Thu, 19 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7R6WEJ8WD3YY7VF1JPW7MH8/sponsor-screen-traid-bitcoin.jpg",
-    "content": "Sygnum predicts that Bitcoin carry trades may offer higher returns than Treasury bills in 2027, following a sharp drop in funding rates that made the strategy less compelling in 2026."
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/Bitcoin-decrypt-style-23-gID_7.jpg@png",
+    "content": "Bitcoin is down 13% in a week as investors pull money from spot ETFs and brace for another Federal Reserve rate hike."
   },
   {
     "title": "Ledger Confirms Tampered Bitcoin Wallets in Berlin as Spy Implant Probe Spreads Beyond Asia",
@@ -110,14 +118,6 @@
     "date": "Wed, 18 Nov 2026",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
     "content": "Google's Genie 4 lets Ultra subscribers reshape interactive scenes while exploring them, complete with sound and dialogue, as Project Genie adds longer sessions and new community creation and sharing tools."
-  },
-  {
-    "title": "Why CoinShares Just Sold All Its Ethereum and Half Its Solana",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/383570/why-coinshares-just-sold-all-ethereum-half-solana",
-    "date": "Wed, 18 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/ethereum-dogecoin-bitcoin-cardano-xrp-decrypt-style-1-gID_7.jpg@png",
-    "content": "The crypto asset manager sold $16.6 million in Ethereum and $2.7 million in Solana, freeing up $19.3 million. Here's why."
   },
   {
     "title": "Why The $1T AI Credit Complex Could be Bitcoin’s Next Catalyst | Jeff Walton",
