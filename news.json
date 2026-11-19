@@ -1,5 +1,13 @@
 [
   {
+    "title": "Binance wins $6.5 billion feezing order against hackers behind crypto's largest theft",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/business/2026/11/19/binance-wins-usd6-5-billion-feezing-order-against-hackers-behind-crypto-s-largest-theft",
+    "date": "Thu, 19 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6afa7aee3dd3e7c1e37e3929a4ac24b7cebaccdd-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "The crypto exchange said it has already replaced the stolen assets using its own funds and insurance reserves."
+  },
+  {
     "title": "Crypto traders vs. Wall Street: OKX’s Anthropic markets put IPO pricing to the test",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/markets/2026/11/19/crypto-traders-vs-wall-street-okx-s-anthropic-markets-put-ipo-pricing-to-the-test",
@@ -30,14 +38,6 @@
     "date": "Thu, 19 Nov 2026",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/78ddba1fdf70d875d5aa32a91e2feba988b0741f-1496x846.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "content": "Bitcoin ETFs saw more than $300 million in outflows Wednesday, with attention now turning to Anthrophic's $100 billion IPO."
-  },
-  {
-    "title": "North Korean hackers used Sky's stablecoin system, putting billions at freeze risk",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/business/2026/11/19/north-korean-hackers-used-sky-s-stablecoin-system-putting-billions-at-freeze-risk",
-    "date": "Thu, 19 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/8d3913996d8637f1c2bafb345532b4b1480c2275-1191x670.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "Blockchain investigation traced $518 million in illicit-linked activity, including the 2025 Bybit hack, through a key reserve backing DAI and USDS tokens, putting Sky's institutional finance ambitions and open design on collision course."
   },
   {
     "title": "Here’s what happened in crypto today",
@@ -120,6 +120,14 @@
     "content": "Ryan Cohen said publishers are cutting out trade-ins, as he backs a U.S. bill that would guarantee gamers keep access to games they buy."
   },
   {
+    "title": "Ledger Finds Tampered Hardware Wallets in Berlin, Probes Two in Dubai",
+    "source": "Bitcoin Magazine",
+    "url": "https://bitcoinmagazine.com/news/ledger-tampered-wallets-berlin-dubai",
+    "date": "Thu, 19 Nov 2026",
+    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
+    "content": "Bitcoin Magazine Ledger Finds Tampered Hardware Wallets in Berlin, Probes Two in Dubai Ledger confirmed tampered hardware wallets in Berlin and is investigating two more in Dubai, widening a probe into spy implants that steal recovery phrases. This post Ledger Finds Tampered Hardware Wallets in Berlin, Probes Two in Dubai first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
+  },
+  {
     "title": "Coinbase Launches U.S. Spot Margin Trading With Up to 10x Leverage",
     "source": "Bitcoin Magazine",
     "url": "https://bitcoinmagazine.com/news/coinbase-us-spot-margin-10x",
@@ -150,13 +158,5 @@
     "date": "Thu, 19 Nov 2026",
     "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
     "content": "&#9654; Bitcoin Magazine Why The $1T AI Credit Complex Could be Bitcoin’s Next Catalyst | Jeff Walton Jeff Walton, Chief Risk Officer at Strive, joins BMTV as Anthropic's IPO nears its first day of trading. This post Why The $1T AI Credit Complex Could be Bitcoin’s Next Catalyst | Jeff Walton first appeared on Bitcoin Magazine and is written by Patrick Green ."
-  },
-  {
-    "title": "Bloomberg’s James Seyffart: Wall Street Bought $4.2 BILLION BTC in Q3",
-    "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/videos/bloombergs-james-seyffart-wall-street-bought-4-2-billion-btc-in-q3",
-    "date": "Thu, 19 Nov 2026",
-    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "&#9654; Bitcoin Magazine Bloomberg’s James Seyffart: Wall Street Bought $4.2 BILLION BTC in Q3 Bloomberg Intelligence's James Seyffart breaks down the latest 13F filings for the spot Bitcoin ETFs. This post Bloomberg’s James Seyffart: Wall Street Bought $4.2 BILLION BTC in Q3 first appeared on Bitcoin Magazine and is written by Patrick Green ."
   }
 ]
