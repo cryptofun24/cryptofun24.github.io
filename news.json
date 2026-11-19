@@ -1,5 +1,21 @@
 [
   {
+    "title": "North Korean hackers used Sky's stablecoin system, putting billions at freeze risk",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/business/2026/11/19/north-korean-hackers-used-sky-s-stablecoin-system-putting-billions-at-freeze-risk",
+    "date": "Thu, 19 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/8d3913996d8637f1c2bafb345532b4b1480c2275-1191x670.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "Blockchain investigation traced $518 million in illicit-linked activity, including the 2025 Bybit hack, through a key reserve backing DAI and USDS tokens, putting Sky's institutional finance ambitions and open design on collision course."
+  },
+  {
+    "title": "Anthropic’s $107 billion sale set to top SpaceX’s IPO as tokenized stocks gain traction",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/11/19/anthropic-s-usd107-billion-raise-set-to-surpass-spacex-s-ipo-haul",
+    "date": "Thu, 19 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/8fd95443e3e2c921397c19baef34ed692d264598-6000x3375.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "The maker of Claude priced its Nasdaq debut at $83 a share for a $1.5 trillion fully diluted valuation, with the Nasdaq 100 down 14% from record highs."
+  },
+  {
     "title": " ‘Highly advanced’ quantum computers could crack financial encryption in five years",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/tech/2026/11/19/banks-and-blockchains-lag-on-quantum-defense-as-encryption-risks-loom-watchdog-warns",
@@ -24,20 +40,12 @@
     "content": "The central bank aims to expand this digital settlement network and test wider collateral use in 2027."
   },
   {
-    "title": "Roundhill scraps Solana and XRP income ETFs as rival funds indicate low demand",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/markets/2026/11/19/roundhill-scraps-solana-and-xrp-income-etfs-as-rival-funds-attract-just-usd12-million",
+    "title": "Sweden’s H100 could tap Bitcoin trading pool to fund share buybacks",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/swedens-h100-13m-q3-loss-share-buyback-approval?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "date": "Thu, 19 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/7082c0bc8a09a5527ac657aa14cf9beac27d71a7-4096x2304.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "Roundhill withdrew plans for two funds designed to generate income from SOL and XRP, highlighting the gap between billions invested in spot crypto ETFs and limited demand for more specialized strategies."
-  },
-  {
-    "title": "Fed's rate hike push may be a mistake. Here's why",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/markets/2026/11/19/fed-s-push-for-more-rate-hikes-leans-on-backward-looking-data-as-gas-prices-slide-analysts-argue",
-    "date": "Thu, 19 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2eab4808b63892b3e12963406ff38d375ac45e9e-5760x3840.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "Experts argue that the Fed is looking at the wrong data as it pushes for more interest-rate hikes, with falling gasoline and energy prices suggesting inflation pressures are already easing."
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7SNB5B19MZXHBMWJSW6SVAN/hi-coinbase-seeks-ipo-1.png",
+    "content": "Shareholders will vote Dec. 7 on whether H100 can buy back up to 10% of its shares, potentially using a Bitcoin pool that lost about 30 BTC in Q3."
   },
   {
     "title": "IOSCO warns quantum upgrades could slow blockchains, leave security gaps",
@@ -72,12 +80,12 @@
     "content": "The EU’s cybersecurity service said the flaws could let attackers to run malicious code remotely on vulnerable servers without logging in."
   },
   {
-    "title": "Bitcoin retests $62K as Nasdaq futures rise ahead of Anthropic debut",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/markets/bitcoin-retests-62k-nasdaq-futures-anthropic-debut?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "GameStop CEO Says Digital-Only Games Have ‘Hurt Consumers’ as GTA 6 Skips Discs",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/383600/gamestop-ceo-says-digital-only-games-have-hurt-consumers-as-gta-6-skips-discs",
     "date": "Thu, 19 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7SAQX2C3P4SKA31S67KZP1W/article-covers-259292-anthropic-launches-pac-ai-policy-tensions-washington-960x640.webp",
-    "content": "Bitcoin climbed back above $63,500 after its second dip to $62,000 this week, while Anthropic priced its record $81.3 billion IPO at $83 a share."
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/grand-theft-auto-6-gta-vi-decrypt-style-gID_7.jpg@png",
+    "content": "Ryan Cohen said publishers are cutting out trade-ins, as he backs a U.S. bill that would guarantee gamers keep access to games they buy."
   },
   {
     "title": "Bitcoin Struggles to Hold $64,000 as ETF Outflows Hit $2.9B in November",
@@ -110,14 +118,6 @@
     "date": "Wed, 18 Nov 2026",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/HXXq95IbsAIw3Vn-1-gID_7.jpg@png",
     "content": "The Oculus founder says his decade-old SLAB project aims to escape state restrictions on manufacturing and medical treatment."
-  },
-  {
-    "title": "Google's Genie 4 Is Here, Letting Ultra Subscribers Build AI Worlds in Real Time",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/383572/google-genie-4-ultra-subscribers-build-ai-worlds-real-time",
-    "date": "Wed, 18 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/05/decrypt-style-google-3-gID_7.png@png",
-    "content": "Google's Genie 4 lets Ultra subscribers reshape interactive scenes while exploring them, complete with sound and dialogue, as Project Genie adds longer sessions and new community creation and sharing tools."
   },
   {
     "title": "Why The $1T AI Credit Complex Could be Bitcoin’s Next Catalyst | Jeff Walton",
