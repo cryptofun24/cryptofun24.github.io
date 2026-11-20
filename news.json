@@ -40,6 +40,14 @@
     "content": "BlackRock’s bitcoin ETF saw a record $541.1 million outflow as the U.S. tech selloff spread to Asia, sending South Korea’s Kospi down more than 5%."
   },
   {
+    "title": "Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/wrapped-monero-token-crashes-998-amid-suspected-135m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "Fri, 20 Nov 2026",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7X4D1A62D3GQT3E2RD261Q4/hi-company-hits-vulnerability-2.png",
+    "content": "Bitquery traced $13.5 million in suspicious sales of the wrapped Monero token, as its operator blamed a security breach and promised to reimburse affected traders."
+  },
+  {
     "title": "Sky Protocol sees $2 billion in stablecoin withdrawals, disputes illicit fund claims",
     "source": "CoinTelegraph",
     "url": "https://cointelegraph.com/news/sky-protocol-sees-2b-in-stablecoin-withdrawals-disputes-illicit-fund-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -72,12 +80,12 @@
     "content": "Bitcoin price strength felt pressure from falling US equities as traders reassessed AI prospects after Anthropic’s IPO."
   },
   {
-    "title": "DBS bets it can lose the deposit and keep the client",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/dbs-bets-it-can-lose-the-deposit-and-keep-the-client?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "SBF’s 'The Altruists' Plot Twist: FTX’s Anthropic Shares Would Be Worth $43 Billion",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/383739/sbf-altruists-ftx-anthropic-shares-worth-43-billion",
     "date": "Fri, 20 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7WNFYH0FRWPZX615E3RNKNQ/sponsored-marina-bay-sand-singapore-light-water11-1.jpg",
-    "content": "The Singapore bank earned a record $208 million in transaction services fees in the third quarter — now it’s helping companies turn deposits into stablecoins they can spend without it."
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/sam-bankman-fried-ftx-sbf-decrypt-style-gID_7.jpg@png",
+    "content": "Anthropic’s IPO made FTX’s liquidated AI bet a $43 billion what-if, just as Netflix premiered its Sam Bankman-Fried drama."
   },
   {
     "title": "Cathie Wood Bets $91M on Anthropic IPO While Paring Crypto Exposure",
@@ -112,12 +120,12 @@
     "content": "Bitcoin broke below $60,000 Friday as crypto sentiment collapsed and AI-linked stocks sank after Anthropic’s IPO."
   },
   {
-    "title": "Senate Passes Bill Banning Prediction Market Bets on War, Terrorism and Death",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/383700/senate-passes-bill-banning-prediction-market-bets-on-war-terrorism-and-death",
+    "title": "SEC Freezes Assets in $560 Million Crypto Trading Ponzi Scheme",
+    "source": "Bitcoin Magazine",
+    "url": "https://bitcoinmagazine.com/news/sec-freezes-crypto-560-million-ponzi",
     "date": "Fri, 20 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/us-capitol-decrypt-style-01-gID_7.jpg@png",
-    "content": "Sen. Adam Schiff's DEATH BETS Act would bar U.S.-regulated exchanges from listing contracts tied to war, assassinations or deaths."
+    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
+    "content": "Bitcoin Magazine SEC Freezes Assets in $560 Million Crypto Trading Ponzi Scheme The SEC obtained an asset freeze against Backward Hat Capital and its founders, alleging a $560 million Ponzi scheme sold as AI-driven FX trading funded through crypto. Prosecutors and the CFTC filed parallel cases. This post SEC Freezes Assets in $560 Million Crypto Trading Ponzi Scheme first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
   },
   {
     "title": "Researchers Publish Security Analysis of Bitcoin’s Post-Quantum SHRINCS Proposal",
@@ -150,13 +158,5 @@
     "date": "Fri, 20 Nov 2026",
     "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
     "content": "Bitcoin Magazine Block Says Most Bitcoin Payments on Square Are for Coffee and Food Block’s first bitcoin payments report found the median Square payment is about $13, with 72% at food and drink businesses, as it pushes for a de minimis tax exemption. This post Block Says Most Bitcoin Payments on Square Are for Coffee and Food first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
-  },
-  {
-    "title": "Bitcoin Hovers Just Above Average Holder’s Cost Basis as Price Keeps Dipping",
-    "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/markets/bitcoin-hovers-above-realized-price",
-    "date": "Fri, 20 Nov 2026",
-    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "Bitcoin Magazine Bitcoin Hovers Just Above Average Holder’s Cost Basis as Price Keeps Dipping Bitcoin is trading barely above its realized price, the average cost of every coin, and a break below would put the average holder at a loss for the first time since early 2023. This post Bitcoin Hovers Just Above Average Holder’s Cost Basis as Price Keeps Dipping first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
   }
 ]
