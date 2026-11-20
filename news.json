@@ -1,5 +1,21 @@
 [
   {
+    "title": "Coinbase targets first-half 2027 for its own prediction market contracts",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/business/2026/11/20/coinbase-targets-first-half-2027-for-its-own-prediction-market-contracts",
+    "date": "Fri, 20 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/95065965bd9d8b2fdbe8c67714967407854d20e5-1920x1280.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "The move would reduce Coinbase's reliance on a partnership Kalshi, which brought in $200 million in annualized revenue in the third quarter."
+  },
+  {
+    "title": "No special rules for Hyperliquid or other onchain trading platforms, CFTC says",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/11/20/cftc-tells-hyperliquid-and-crypto-rivals-no-special-rules-for-onchain-trading",
+    "date": "Fri, 20 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2ea663e27b7a8aedacb15a99a17ec144f1ef72ac-4928x2772.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "Hyperliquid and other onchain exchanges can offer derivatives to U.S. traders if they obtain the required licenses or work with a registered exchange, the CFTC chairman said."
+  },
+  {
     "title": "Cathie Wood's Ark Invest piled into Anthropic IPO, buying $90 million worth of shares",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/markets/2026/11/20/cathie-wood-s-ark-invest-piled-into-anthropic-ipo-buying-usd90-million-worth-of-shares",
@@ -24,20 +40,12 @@
     "content": "Gold fell to its lowest level since September 2025 on Friday, and the same catalyst driving its decline is likely also weighing on bitcoin."
   },
   {
-    "title": "Anthropic shares may fall 5% at Friday’s open, crypto futures suggest",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/markets/2026/11/20/crypto-traders-have-anthropic-trading-below-its-first-nasdaq-close-on-hyperliquid",
+    "title": "Bitcoin nears repeat of chart pattern that preceded 2023’s $25K retest",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/markets/bitcoin-first-death-cross-repeat-2023-bottom-25k?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "date": "Fri, 20 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e1c6b75a8b74bc87b66e15947b85122a0ef80c34-960x640.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "About $1.7 billion traded through a Hyperliquid contract on the AI company’s shares in 24 hours, and the biggest position heading into Friday’s Nasdaq open is a $30 million short."
-  },
-  {
-    "title": "This Bitcoin miner sold 267 BTC to clear $22 million debt. It still may not survive",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/markets/2026/11/20/this-bitcoin-miner-sold-267-btc-to-clear-usd22-million-debt-it-still-may-not-survive",
-    "date": "Fri, 20 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/54bd04de039305784bf732dce245207bcc75ba21-7008x3942.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "PowerCompute had its lender sell 267 pledged bitcoin in September, wiping out most of its debt, and ended the month with about $650,000 in cash and a going-concern warning."
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7W5JM0BJ0Z5FQEW9GD5YQE3/article-covers-252484-bitcoin-price-chart-death-cross-back-late-cycle-fears-960x640.webp",
+    "content": "Bitcoin’s 21-day moving average fell below its 200-day average, and analyst Keith Alan expects a second bearish crossover by Sunday."
   },
   {
     "title": "BlackRock’s IBIT loses record $541M amid Anthropic market debut",
@@ -72,12 +80,12 @@
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
   },
   {
-    "title": "Institutions pile back into US Bitcoin ETFs in Q3 after selling streak",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/markets/institutional-bitcoin-etf-holdings-clock-record-quarter-after-selling-streak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "CryptoUK Urges FCA Not to Treat DeFi Devs as Regulated by Default",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/383679/cryptouk-urges-fca-not-to-treat-defi-devs-as-regulated-by-default",
     "date": "Fri, 20 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M399X14JGMZWTWX9787D6BTC/hi-what-are-inflows-and-outflows-on-crypto-exchanges-bitcoin-etf.jpg",
-    "content": "Asset managers added the equivalent of 49,229 Bitcoin to their US Bitcoin ETF holdings in the third quarter, reversing three quarters of net selling."
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/uk-fca-financial-conduct-authority-decrypt-style-gID_7.jpg@png",
+    "content": "The UK crypto trade group broadly backed the regulator's proposed perimeter guidance, but warned that parts of it go further than the law."
   },
   {
     "title": "Citi Says Customers Are Responsible When AI Banking Agents Go Rogue—Even After a Hack",
@@ -110,14 +118,6 @@
     "date": "Thu, 19 Nov 2026",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/crypto-credit-cards-mastercard-visa-gID_7.jpg@png",
     "content": "A ransomware group breached third-party vendors, not the companies’ own systems. Visa said no card data was affected while Mastercard cited a limited cardholder subset."
-  },
-  {
-    "title": "Bitcoin Enters Death Cross as Anthropic IPO Fails to Lift Wall Street",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/383655/bitcoin-enters-death-cross-anthropic-ipo",
-    "date": "Thu, 19 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/bitcoin-crack-decrypt-style-gID_7.jpg@png",
-    "content": "Anthropic shares surged on their Nasdaq debut, but stocks slid and Bitcoin fell lower. Its daily chart shows deeply oversold momentum, a strong downtrend, and fragile support."
   },
   {
     "title": "Inside Bukele’s Casa Presidencial Dinner: Bitcoiners Discuss Energy, Immigration, and El Salvador’s Future",
