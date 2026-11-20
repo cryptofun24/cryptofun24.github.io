@@ -80,6 +80,14 @@
     "content": "Bitcoin price strength felt pressure from falling US equities as traders reassessed AI prospects after Anthropic’s IPO."
   },
   {
+    "title": "Claude Claims Historic Math Breakthrough One Day After Anthropic IPO",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/383747/claude-historic-math-breakthrough-anthropic-ipo",
+    "date": "Fri, 20 Nov 2026",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/math-problems-AI-gID_1.jpg@png",
+    "content": "Levent Alpöge claims Claude helped prove a 167-year-old math conjecture, but independent checks remain pending, and the release just after Anthropic’s IPO has prompted questions about its unusual publication timing."
+  },
+  {
     "title": "Nvidia Shares Sink to 52-Week Low After Report SEC Is Probing Accounting",
     "source": "Decrypt",
     "url": "https://decrypt.co/383744/nvidia-shares-sink-52-week-low-sec-probing-accounting",
@@ -112,12 +120,12 @@
     "content": "Gemini's new Mac computer-use feature navigates apps, files, and websites in a separate window, but Google's own documentation warns about prompt injection."
   },
   {
-    "title": "Wrapped Monero Token Collapses 99% After $13 Million Hack Blamed on Web Host",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/383732/wrapped-monero-token-collapses-99-after-13-million-hack-blamed-on-web-host",
+    "title": "Bitcoin Price Slips to Lows Not Seen Since 2024, Nasdaq Plunges 5%",
+    "source": "Bitcoin Magazine",
+    "url": "https://bitcoinmagazine.com/markets/bitcoin-price-slips-58300-nasdaq",
     "date": "Fri, 20 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/crime_hacker-gID_7.png@png",
-    "content": "Wagyu’s XMR1 token fell more than 99% after an attacker moved 5.2 million tokens out of its deployer account and sold a fraction of them for $13.5 million."
+    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
+    "content": "Bitcoin Magazine Bitcoin Price Slips to Lows Not Seen Since 2024, Nasdaq Plunges 5% The bitcoin price slipped to near $58,300 on Friday afternoon, briefly dipping under its summer low, as a chip-led selloff sent the Nasdaq down about 5% and dragged crypto stocks and miners sharply lower. This post Bitcoin Price Slips to Lows Not Seen Since 2024, Nasdaq Plunges 5% first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
   },
   {
     "title": "MSTR Head of Investor Relations Addresses Bitcoin Pullback, Equity Performance",
@@ -150,13 +158,5 @@
     "date": "Fri, 20 Nov 2026",
     "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
     "content": "Bitcoin Magazine U.S. Treasury Secretary Pushes Back on Bigger Fed Hike Treasury Secretary Scott Bessent urged the Fed not to embrace a bigger rate hike as Citi and traders still see a quarter-point move in December and bitcoin fell below $60,000. This post U.S. Treasury Secretary Pushes Back on Bigger Fed Hike first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
-  },
-  {
-    "title": "Bitcoin Price Crashes to $59,000 as Market Selloff Deepens",
-    "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/markets/bitcoin-price-crashes-below-60000",
-    "date": "Fri, 20 Nov 2026",
-    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "Bitcoin Magazine Bitcoin Price Crashes to $59,000 as Market Selloff Deepens Bitcoin fell below $60,000 for the first time since early July on Friday as a tech stock rout, rate hike bets and record ETF outflows hit risk assets. This post Bitcoin Price Crashes to $59,000 as Market Selloff Deepens first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
   }
 ]
