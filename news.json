@@ -1,5 +1,13 @@
 [
   {
+    "title": "Bitcoin plunges below $59,000 as rush to cash puts new bear market lows back in play ",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/11/20/bitcoin-plunges-below-usd59-000-as-rush-to-cash-puts-new-bear-market-lows-back-in-play",
+    "date": "Fri, 20 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/13d74c4c3feaf7c1066344227101358a75134c19-1520x856.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "Bitcoin is closing in on its $57,700 summer low as Delphi Digital strategist warns the Fed could make matters worse and STS Digital sees cash as the place to hide."
+  },
+  {
     "title": "Former Point72 head of proprietary research says AI could turn data into a new asset class for Wall Street",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/markets/2026/11/20/former-point72-head-of-proprietary-research-says-ai-could-turn-data-into-a-new-asset-class-for-wall-street",
@@ -32,12 +40,12 @@
     "content": "BlackRock’s bitcoin ETF saw a record $541.1 million outflow as the U.S. tech selloff spread to Asia, sending South Korea’s Kospi down more than 5%."
   },
   {
-    "title": "Bitcoin bots pounced within seconds when researchers exposed their wallet keys",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/tech/2026/11/20/bitcoin-bots-pounced-within-seconds-when-researchers-exposed-their-keys",
+    "title": "Sky Protocol sees $2 billion in stablecoin withdrawals, disputes illicit fund claims",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/sky-protocol-sees-2b-in-stablecoin-withdrawals-disputes-illicit-fund-claims?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "date": "Fri, 20 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/dd1a65646bd21c2b4d0d2821fdd923999c402438-1000x667.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "University of Liège researchers put a few dollars into deliberately vulnerable bitcoin addresses and watched rival bots race for the money within seconds."
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7X2CXDXB4B5SGSAMFZAXXE0/hi-kraken-ipo-1.png",
+    "content": "Sky says its USDS stablecoin held its $1 value despite more than $2 billion in withdrawals, as it disputes a report linking the protocol to illicit activity."
   },
   {
     "title": "Bitcoin falls below $60K for first time since July amid broader market selloff",
@@ -72,12 +80,20 @@
     "content": "The Singapore bank earned a record $208 million in transaction services fees in the third quarter — now it’s helping companies turn deposits into stablecoins they can spend without it."
   },
   {
-    "title": "Here’s what happened in crypto today",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Cathie Wood Bets $91M on Anthropic IPO While Paring Crypto Exposure",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/383737/cathie-wood-bets-91m-anthropic-ipo-paring-crypto-exposure",
     "date": "Fri, 20 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-    "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/cathie-wood-ark-invest-decrypt-style-gID_7.jpg@png",
+    "content": "The firm bought 934,968 Anthropic shares across six ETFs on the Claude maker’s Nasdaq debut while trimming a combined $4.1 million from its Ethereum and Solana staking ETFs."
+  },
+  {
+    "title": "Google Gives Gemini Control of Mac Apps, But Its New AI Agent Comes With Risks",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/383733/google-gives-gemini-control-mac-apps-ai-agent",
+    "date": "Fri, 20 Nov 2026",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/google-decrypt-style-2-gID_7.png@png",
+    "content": "Gemini's new Mac computer-use feature navigates apps, files, and websites in a separate window, but Google's own documentation warns about prompt injection."
   },
   {
     "title": "Wrapped Monero Token Collapses 99% After $13 Million Hack Blamed on Web Host",
@@ -102,22 +118,6 @@
     "date": "Fri, 20 Nov 2026",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/us-capitol-decrypt-style-01-gID_7.jpg@png",
     "content": "Sen. Adam Schiff's DEATH BETS Act would bar U.S.-regulated exchanges from listing contracts tied to war, assassinations or deaths."
-  },
-  {
-    "title": "Morning Minute: Anthropic IPO Pops, Sinks Markets",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/383691/morning-minute-anthropic-ipo-pops-sinks-markets",
-    "date": "Fri, 20 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png@png",
-    "content": "A (brief) win for Anthropic's ANT stock on IPO day meant a loss for just about every other major asset class."
-  },
-  {
-    "title": "MoonPay Applies for National Trust Bank Charter to Grow Custody and Stablecoin Business",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/383688/moonpay-applies-for-national-trust-bank-charter-to-grow-custody-and-stablecoin-business",
-    "date": "Fri, 20 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-moonpay-gID_7.png@png",
-    "content": "The crypto payments firm joins a rush of crypto companies seeking federal trust charters, which face growing political scrutiny."
   },
   {
     "title": "Researchers Publish Security Analysis of Bitcoin’s Post-Quantum SHRINCS Proposal",
