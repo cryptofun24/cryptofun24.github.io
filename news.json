@@ -1,5 +1,29 @@
 [
   {
+    "title": "Live news: Bitcoin hovers just above $61,000 as Anthropic slides after Nasdaq debut",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/tech/2026/11/20/live-news-bitcoin-hovers-just-above-usd61-000-as-anthropic-slides-13-after-nasdaq-debut",
+    "date": "Fri, 20 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e1c6b75a8b74bc87b66e15947b85122a0ef80c34-960x640.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "BlackRock’s bitcoin ETF saw a record $541.1 million outflow as the U.S. tech selloff spread to Asia, sending South Korea’s Kospi down more than 5%."
+  },
+  {
+    "title": "Bitcoin bots pounced within seconds when researchers exposed their wallet keys",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/tech/2026/11/20/bitcoin-bots-pounced-within-seconds-when-researchers-exposed-their-keys",
+    "date": "Fri, 20 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/dd1a65646bd21c2b4d0d2821fdd923999c402438-1000x667.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "University of Liège researchers put a few dollars into deliberately vulnerable bitcoin addresses and watched rival bots race for the money within seconds."
+  },
+  {
+    "title": "ECB’s Lagarde warns Europe could lose control of growing tokenized asset market",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/policy/2026/11/20/ecb-s-largarde-warns-europe-could-lose-control-of-growing-tokenized-asset-market",
+    "date": "Fri, 20 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/26cccb22ec392aed75fa716d72a469596e1faf75-6048x4032.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "The ECB president called for common rules as the EU's new blockchain settlement system handled a 1 billion-euro ($1.1 billion) digital bond transaction."
+  },
+  {
     "title": "Bitcoin, stocks and gold traders getting nervous, and volatility gauges are surging",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/daybook-us/2026/11/20/bitcoin-stocks-and-gold-traders-getting-nervous-and-volatility-gauges-are-surging",
@@ -16,28 +40,20 @@
     "content": "BlackRock’s spot bitcoin ETF recorded the largest single-day outflow since its introduction more than two years ago as investors continued to flee the sector."
   },
   {
-    "title": "Coinbase targets first-half 2027 for its own prediction market contracts",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/business/2026/11/20/coinbase-targets-first-half-2027-for-its-own-prediction-market-contracts",
+    "title": "Here’s what happened in crypto today",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "date": "Fri, 20 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/95065965bd9d8b2fdbe8c67714967407854d20e5-1920x1280.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "The move would reduce Coinbase's reliance on a partnership Kalshi, which brought in $200 million in annualized revenue in the third quarter."
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
   },
   {
-    "title": "No special rules for Hyperliquid or other onchain trading platforms, CFTC says",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/markets/2026/11/20/cftc-tells-hyperliquid-and-crypto-rivals-no-special-rules-for-onchain-trading",
+    "title": "Lagarde warns Europe could miss chance to unify tokenized markets",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/lagarde-europe-limited-window-tokenization-rules?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "date": "Fri, 20 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2ea663e27b7a8aedacb15a99a17ec144f1ef72ac-4928x2772.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "Hyperliquid and other onchain exchanges can offer derivatives to U.S. traders if they obtain the required licenses or work with a registered exchange, the CFTC chairman said."
-  },
-  {
-    "title": "Cathie Wood's Ark Invest piled into Anthropic IPO, buying $90 million worth of shares",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/markets/2026/11/20/cathie-wood-s-ark-invest-piled-into-anthropic-ipo-buying-usd90-million-worth-of-shares",
-    "date": "Fri, 20 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6ccf18504f2934569339f68665f855f679f37378-4312x2426.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "ARK Invest snapped up $90 million in Anthropic stock across six funds during the AI maker’s historic Nasdaq debut while offloading Nvidia shares amid leadership turmoil."
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7WGQEQ57ZB4C6X8Y2M5KYTQ/christine-lagarde-imf.jpg",
+    "content": "The ECB president said Europe’s market for tokenized securities could split into platforms that cannot settle trades with one another."
   },
   {
     "title": "Binance hacker moves nearly $600M in ETH, routes funds through THORChain, Chainflip",
@@ -64,20 +80,12 @@
     "content": "Bitcoin’s 21-day moving average fell below its 200-day average, and analyst Keith Alan expects a second bearish crossover by Sunday."
   },
   {
-    "title": "BlackRock’s IBIT loses record $541M amid Anthropic market debut",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/markets/blackrock-ibit-record-single-day-outflow?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Morning Minute: Anthropic IPO Pops, Sinks Markets",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/383691/morning-minute-anthropic-ipo-pops-sinks-markets",
     "date": "Fri, 20 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7VWM2HDCADQ2AM2AK506KFS/btc-1.png",
-    "content": "BlackRock’s IBIT posted its largest daily outflow on record, taking three-session outflows near $900 million as BTC dipped amid a broader market selloff."
-  },
-  {
-    "title": "SEC charges eight firms over fake crypto platforms tied to $37M fraud",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/sec-charges-eight-fake-crypto-platforms-37m-fraud?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "date": "Fri, 20 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7VWVJFSAZCDB7METDY1P77G/hi-otc-over-the-counter-trade-fraud.jpg",
-    "content": "Fraudsters allegedly used social media ads, chat groups and forged SEC filings to defraud US investors of approximately $37 million."
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/decrypt-style-anthropic-2-gID_7.png@png",
+    "content": "A (brief) win for Anthropic's ANT stock on IPO day meant a loss for just about every other major asset class."
   },
   {
     "title": "MoonPay Applies for National Trust Bank Charter to Grow Custody and Stablecoin Business",
@@ -112,12 +120,12 @@
     "content": "The UK crypto trade group broadly backed the regulator's proposed perimeter guidance, but warned that parts of it go further than the law."
   },
   {
-    "title": "Citi Says Customers Are Responsible When AI Banking Agents Go Rogue—Even After a Hack",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/383677/citi-customers-responsible-ai-banking-agents-rogue-hack",
-    "date": "Thu, 19 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/10/citi-decrypt-style-gID_7.jpg@png",
-    "content": "Citibank’s updated terms put customers on the hook for outside AI agents, including leaked logins."
+    "title": "Bitcoin Price Slips Near $61,500 as Tech Selloff Spreads to Asia",
+    "source": "Bitcoin Magazine",
+    "url": "https://bitcoinmagazine.com/markets/bitcoin-price-slips-61500-asia",
+    "date": "Fri, 20 Nov 2026",
+    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
+    "content": "Bitcoin Magazine Bitcoin Price Slips Near $61,500 as Tech Selloff Spreads to Asia The bitcoin price slipped to near $61,500 on Friday morning, its lowest level since July, as the tech selloff spread to Asia and IBIT posted a record outflow. This post Bitcoin Price Slips Near $61,500 as Tech Selloff Spreads to Asia first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
   },
   {
     "title": "Inside Bukele’s Casa Presidencial Dinner: Bitcoiners Discuss Energy, Immigration, and El Salvador’s Future",
@@ -150,13 +158,5 @@
     "date": "Thu, 19 Nov 2026",
     "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
     "content": "&#9654; Bitcoin Magazine David Lawant: Seeing “Very Strong Inflow” for Bitcoin at $60k David Lawant, Head of Research at Anchorage Digital, joins BMTV to break down what's really driving Bitcoin's sell-off and who's doing the selling. This post David Lawant: Seeing “Very Strong Inflow” for Bitcoin at $60k first appeared on Bitcoin Magazine and is written by Patrick Green ."
-  },
-  {
-    "title": "Bitcoin Price Slumps Under $62,000, Crashing 25% in One Month",
-    "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/markets/bitcoin-price-slumps-under-62000",
-    "date": "Thu, 19 Nov 2026",
-    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "Bitcoin Magazine Bitcoin Price Slumps Under $62,000, Crashing 25% in One Month The bitcoin price slumped under $62,000 on Thursday, down about 24% in one month, as Anthropic's Nasdaq debut set off a tech selloff that hit crypto stocks. This post Bitcoin Price Slumps Under $62,000, Crashing 25% in One Month first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
   }
 ]
