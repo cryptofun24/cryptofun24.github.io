@@ -1,5 +1,29 @@
 [
   {
+    "title": "This Bitcoin miner sold 267 BTC to clear $22 million debt. It still may not survive",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/11/20/this-bitcoin-miner-sold-267-btc-to-clear-usd22-million-debt-it-still-may-not-survive",
+    "date": "Fri, 20 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/54bd04de039305784bf732dce245207bcc75ba21-7008x3942.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "PowerCompute had its lender sell 267 pledged bitcoin in September, wiping out most of its debt, and ended the month with about $650,000 in cash and a going-concern warning."
+  },
+  {
+    "title": "Big money bought a net $4 billion of bitcoin funds in Q3, ending 9 months of selling",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/11/20/big-money-bought-a-net-usd4-billion-of-bitcoin-funds-in-q3-ending-9-months-of-selling",
+    "date": "Fri, 20 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/e8d7b672b5e76d65b87b9cfd2ed2de8728a530fb-7740x6192.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "Wall Street piled into Bitcoin funds in the third quarter, ending a three-quarter selling streak, according to Galaxy Research. But the buying has given way to renewed selling this quarter."
+  },
+  {
+    "title": "Ethereum’s next big upgrade is pushed into 2027 by apps it would break",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/tech/2026/11/20/ethereum-s-next-big-upgrade-is-pushed-into-2027-by-apps-it-would-break",
+    "date": "Fri, 20 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "Glamsterdam was originally targeted for December, but developers now say January is the earliest possible date as companies work to fix affected smart contracts."
+  },
+  {
     "title": "VanEck drops Gemini as custodian of its bitcoin, ether and SOL ETFs",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/markets/2026/11/20/vaneck-drops-gemini-as-custodian-of-its-bitcoin-ether-and-sol-etfs",
@@ -14,30 +38,6 @@
     "date": "Fri, 20 Nov 2026",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/fb21374687550e965340d083e61b5214aabddd3c-2182x1213.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "content": "Bitcoin remains under pressure after Anthropic's IPO as Nasdaq futures dip below their 200-day average."
-  },
-  {
-    "title": "Sky's USDS stablecoin shrinks 35% as $1.5 billion exits reserves after illicit-finance report",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/business/2026/11/19/sky-s-usds-stablecoin-shrinks-35-as-usd1-5-billion-exits-reserves-after-illicit-finance-report",
-    "date": "Thu, 19 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/68cca7099bc4c4f1be04587d54e876e9da8719ee-1440x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "USDS held its $1 peg as a large holder linked to Poloniex withdrew much of decentralized protocol Sky's USDC liquidity backing its stablecoins."
-  },
-  {
-    "title": "Trump's Democratic SEC pick suggests tokenization policy deserves full rule process",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/policy/2026/11/19/trump-s-democratic-sec-pick-suggests-tokenization-policy-deserves-full-rule-process",
-    "date": "Thu, 19 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/62f74ec6452b6d450e9b40f533eae3445ab31f4e-1255x687.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "The U.S. Senate Banking Committee held a confirmation hearing for the two nominees — one from each party — as the administration rebuilds the markets regulators."
-  },
-  {
-    "title": "Anthropic gains after IPO, but pulls off highest levels",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/markets/2026/11/19/anthropic-opens-for-trade-at-usd11-50-up-34-from-ipo-price",
-    "date": "Thu, 19 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/821262fb4f697ff07420d4aa3b5969e9eb886658-5424x3616.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "After opening at $111.50, ANT quickly slipped back under $100, still above its $83 offering price."
   },
   {
     "title": "Institutions pile back into US Bitcoin ETFs in Q3 after selling streak",
