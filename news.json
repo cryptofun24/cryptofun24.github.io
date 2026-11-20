@@ -1,5 +1,13 @@
 [
   {
+    "title": "Kalshi races to get ahead of New York order that could shut down exchange",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/policy/2026/11/20/kalshi-races-to-get-ahead-of-new-york-order-that-could-shut-down-exchange",
+    "date": "Fri, 20 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6d7901aa6391850923b865dba6e93d85d7542d76-6000x4001.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "The U.S. prediction market firm asked a New York court to give the company a chance to argue against a pending restraining order stemming from a new court loss."
+  },
+  {
     "title": "Fairmint plans tokenized stock venue on Canton, Ethereum under SEC experiment",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/business/2026/11/20/fairmint-plans-tokenized-stock-venue-on-canton-ethereum-under-sec-experiment",
@@ -30,14 +38,6 @@
     "date": "Fri, 20 Nov 2026",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/ee1f6aa8d9fba0788e1caa531b53c15fbc6174ba-4608x2880.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "content": "Hong Kong wants to bring crypto brokers, advisers, asset managers and custodians under its existing regulatory framework."
-  },
-  {
-    "title": "U.S. Senate passes bill to ban prediction market bets on war and death",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/policy/2026/11/20/u-s-senated-passes-bill-to-ban-prediction-market-best-on-war-and-death",
-    "date": "Fri, 20 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/cb2a91ec8eda764f9a0f74f30550a6a716563fda-2517x1416.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "The bill would ban bets on war, assassinations and military operations amid concerns that traders could profit from inside information, as has already occurred."
   },
   {
     "title": "Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit",
@@ -120,6 +120,14 @@
     "content": "Gemini's new Mac computer-use feature navigates apps, files, and websites in a separate window, but Google's own documentation warns about prompt injection."
   },
   {
+    "title": "Tracy Schuchart: Bitcoin Trading “Like a Risk Asset” as Fed Hikes Loom",
+    "source": "Bitcoin Magazine",
+    "url": "https://bitcoinmagazine.com/videos/tracy-schuchart-bitcoin-trading-like-a-risk-asset-as-fed-hikes-loom",
+    "date": "Fri, 20 Nov 2026",
+    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
+    "content": "&#9654; Bitcoin Magazine Tracy Schuchart: Bitcoin Trading “Like a Risk Asset” as Fed Hikes Loom Tracy Shuchart says Bitcoin's biggest long-term argument is its monetary scarcity, but investors need to separate the long-term thesis from how it's trading today. This post Tracy Schuchart: Bitcoin Trading “Like a Risk Asset” as Fed Hikes Loom first appeared on Bitcoin Magazine and is written by Patrick Green ."
+  },
+  {
     "title": "Bitcoin Price Slips to Lows Not Seen Since 2024, Nasdaq Plunges 5%",
     "source": "Bitcoin Magazine",
     "url": "https://bitcoinmagazine.com/markets/bitcoin-price-slips-58300-nasdaq",
@@ -150,13 +158,5 @@
     "date": "Fri, 20 Nov 2026",
     "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
     "content": "Bitcoin Magazine Researchers Publish Security Analysis of Bitcoin’s Post-Quantum SHRINCS Proposal Blockstream researchers published a 131-page security analysis of SHRINCS, a hash-based post-quantum signature scheme for Bitcoin, and are asking the community to review it for flaws. This post Researchers Publish Security Analysis of Bitcoin’s Post-Quantum SHRINCS Proposal first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
-  },
-  {
-    "title": "U.S. Treasury Secretary Pushes Back on Bigger Fed Hike",
-    "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/markets/bessent-fed-bigger-rate-hike-bitcoin",
-    "date": "Fri, 20 Nov 2026",
-    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "Bitcoin Magazine U.S. Treasury Secretary Pushes Back on Bigger Fed Hike Treasury Secretary Scott Bessent urged the Fed not to embrace a bigger rate hike as Citi and traders still see a quarter-point move in December and bitcoin fell below $60,000. This post U.S. Treasury Secretary Pushes Back on Bigger Fed Hike first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
   }
 ]
