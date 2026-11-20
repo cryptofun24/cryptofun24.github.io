@@ -1,5 +1,13 @@
 [
   {
+    "title": "Former Point72 head of proprietary research says AI could turn data into a new asset class for Wall Street",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/11/20/former-point72-head-of-proprietary-research-says-ai-could-turn-data-into-a-new-asset-class-for-wall-street",
+    "date": "Fri, 20 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a8d4f09fa40a3ad93e79c6b4455bc55283d46a87-3528x1930.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "A former Point72 executive says AI could reshape Wall Street's data market, turning once-exclusive information into a source of revenue and financing."
+  },
+  {
     "title": "Hong Kong moves to extend crypto licensing rules to brokers, advisers and custodians",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/policy/2026/11/20/hong-kong-moves-to-extend-crypto-licensing-rules-to-brokers-advisers-and-custodians",
@@ -16,7 +24,7 @@
     "content": "The bill would ban bets on war, assassinations and military operations amid concerns that traders could profit from inside information, as has already occurred."
   },
   {
-    "title": "Live news: Bitcoin slips to fresh lows near $60,000 as Anthropic slides after Nasdaq debut",
+    "title": "Live news: Bitcoin slips to fresh lows below $60,000 as Anthropic slides after Nasdaq debut",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/tech/2026/11/20/live-news-bitcoin-hovers-just-above-usd61-000-as-anthropic-slides-13-after-nasdaq-debut",
     "date": "Fri, 20 Nov 2026",
@@ -32,12 +40,20 @@
     "content": "University of Liège researchers put a few dollars into deliberately vulnerable bitcoin addresses and watched rival bots race for the money within seconds."
   },
   {
-    "title": "ECB’s Lagarde warns Europe could lose control of growing tokenized asset market",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/policy/2026/11/20/ecb-s-largarde-warns-europe-could-lose-control-of-growing-tokenized-asset-market",
+    "title": "US Senate advances prediction market restrictions with DEATH BETS Act",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/us-senate-advances-prediction-market-restrictions-with-death-bets-act?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "date": "Fri, 20 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/26cccb22ec392aed75fa716d72a469596e1faf75-6048x4032.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "The ECB president called for common rules as the EU's new blockchain settlement system handled a 1 billion-euro ($1.1 billion) digital bond transaction."
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7WS7SH44A7MXA0Q21TD4GY8/hi-when-will-the-prediction-market-take-place-and-what-effect-is-it-having-on-crypto-2.png",
+    "content": "The Senate-approved bill would ban prediction market contracts tied to war, assassination and death amid concerns over potential insider trading on military events."
+  },
+  {
+    "title": "Bitcoin price drops to $60K as Anthropic drops to $87 in tech sell-off",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/markets/bitcoin-hits-new-20-week-low-anthropic-drops-87-tech-sell-off?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "Fri, 20 Nov 2026",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7WQNA6474S1X1PQY3N7WJMX/hi-bollinger-band-explained2-960x640.webp",
+    "content": "Bitcoin price strength felt pressure from falling US equities as traders reassessed AI prospects after Anthropic’s IPO."
   },
   {
     "title": "DBS bets it can lose the deposit and keep the client",
@@ -64,20 +80,12 @@
     "content": "The ECB president said Europe’s market for tokenized securities could split into platforms that cannot settle trades with one another."
   },
   {
-    "title": "Binance hacker moves nearly $600M in ETH, routes funds through THORChain, Chainflip",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/binance-hacker-600m-eth-routes-thorchain-chainflip?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Bitcoin Breaks Below $60K as Crypto Fear Index Hits Worst Level Since February",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/383702/bitcoin-breaks-below-60k-crypto-fear-greed-index-lowest",
     "date": "Fri, 20 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5KZARS72JZC0FSMD8WX2PAG/aml-money-laundering-crypto-1.jpg",
-    "content": "OnChain Lens tracked nearly $600 million in ETH transfers over two days as the Binance hackers moved the stolen funds through fresh wallets and cross-chain protocols to obscure their trail."
-  },
-  {
-    "title": "VanEck to end Gemini ETF custody deals, keeps Coinbase",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/vaneck-gemini-etf-custody-end-keep-coinbase?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "date": "Fri, 20 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M7W70S79VWG5A9Q3C9MCT7R8/vvv.png",
-    "content": "VanEck plans to end Gemini’s custody agreements for three crypto ETFs in February 2027, while Coinbase will continue serving as a custodian for the funds."
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/bitcoin-down-crash-decrypt-style-1-gID_7.jpg@png",
+    "content": "Bitcoin broke below $60,000 Friday as crypto sentiment collapsed and AI-linked stocks sank after Anthropic’s IPO."
   },
   {
     "title": "Senate Passes Bill Banning Prediction Market Bets on War, Terrorism and Death",
@@ -112,12 +120,20 @@
     "content": "Thursday's ETF outflow was the funds' biggest in three weeks, as rising Treasury yields and Fed rate hike bets weigh on crypto."
   },
   {
-    "title": "Coinbase Targets In-House Prediction Markets by First Half of 2027: Report",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/383682/coinbase-targets-in-house-prediction-markets-by-first-half-of-2027-report",
+    "title": "U.S. Treasury Secretary Pushes Back on Bigger Fed Hike",
+    "source": "Bitcoin Magazine",
+    "url": "https://bitcoinmagazine.com/markets/bessent-fed-bigger-rate-hike-bitcoin",
     "date": "Fri, 20 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Coinbase_logo-nft-nyc-decrypt-style-scaled-gID_7.jpg@png",
-    "content": "The exchange offers event contracts through Kalshi, but running its own would give it more control and a bigger share of trading revenue."
+    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
+    "content": "Bitcoin Magazine U.S. Treasury Secretary Pushes Back on Bigger Fed Hike Treasury Secretary Scott Bessent urged the Fed not to embrace a bigger rate hike as Citi and traders still see a quarter-point move in December and bitcoin fell below $60,000. This post U.S. Treasury Secretary Pushes Back on Bigger Fed Hike first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
+  },
+  {
+    "title": "Bitcoin Price Crashes to $59,000 as Market Selloff Deepens",
+    "source": "Bitcoin Magazine",
+    "url": "https://bitcoinmagazine.com/markets/bitcoin-price-crashes-below-60000",
+    "date": "Fri, 20 Nov 2026",
+    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
+    "content": "Bitcoin Magazine Bitcoin Price Crashes to $59,000 as Market Selloff Deepens Bitcoin fell below $60,000 for the first time since early July on Friday as a tech stock rout, rate hike bets and record ETF outflows hit risk assets. This post Bitcoin Price Crashes to $59,000 as Market Selloff Deepens first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
   },
   {
     "title": "Block Says Most Bitcoin Payments on Square Are for Coffee and Food",
@@ -142,21 +158,5 @@
     "date": "Fri, 20 Nov 2026",
     "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
     "content": "Bitcoin Magazine Bitcoin Price Slips Near $61,500 as Tech Selloff Spreads to Asia The bitcoin price slipped to near $61,500 on Friday morning, its lowest level since July, as the tech selloff spread to Asia and IBIT posted a record outflow. This post Bitcoin Price Slips Near $61,500 as Tech Selloff Spreads to Asia first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
-  },
-  {
-    "title": "Inside Bukele’s Casa Presidencial Dinner: Bitcoiners Discuss Energy, Immigration, and El Salvador’s Future",
-    "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/news/inside-bukeles-casa-presidencial-dinner-bitcoiners-discuss-energy-immigration-and-el-salvadors-future",
-    "date": "Thu, 19 Nov 2026",
-    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "Bitcoin Magazine Inside Bukele’s Casa Presidencial Dinner: Bitcoiners Discuss Energy, Immigration, and El Salvador’s Future On November 10, 2026, President Nayib Bukele hosted roughly 30 Bitcoiners at Casa Presidencial during Bitcoin Histórico. Guests included Ricardo Salinas Pliego, Parker Lewis, Mike Peterson, and miners; discussions covered power generation for compute and immigration. This post Inside Bukele’s Casa Presidencial Dinner: Bitcoiners Discuss Energy, Immigration, and El Salvador’s Future first appeared on Bitcoin Magazine and is written by Juan Galt ."
-  },
-  {
-    "title": "Strategy (MSTR) Shares Tumble for Sixth Straight Day to $86 as Bitcoin Slides",
-    "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/markets/strategy-stock-sinks-62000",
-    "date": "Thu, 19 Nov 2026",
-    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "Bitcoin Magazine Strategy (MSTR) Shares Tumble for Sixth Straight Day to $86 as Bitcoin Slides Strategy shares fell 4.6% to $86.13 on Thursday, their sixth straight decline, as bitcoin dipped below $62,000. The company's 850,849 BTC are now worth about $11 billion less than it paid. This post Strategy (MSTR) Shares Tumble for Sixth Straight Day to $86 as Bitcoin Slides first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
   }
 ]
