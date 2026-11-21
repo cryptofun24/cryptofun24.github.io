@@ -1,5 +1,13 @@
 [
   {
+    "title": "Bitcoin bounces 9% from two-year low to retake $60,000 as traders eye Monday’s stock open",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-bounces-9-from-two-year-low-to-retake-usd60-000-as-traders-eye-monday-s-stock-open",
+    "date": "Sat, 21 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6a50d7f76698cadd3cc56a5abf007eb4039d9d74-1163x450.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "The sell-off wiped out $1.8 billion in leveraged crypto positions, mostly from bullish bets on rising prices."
+  },
+  {
     "title": "Cross-chain protocol Chainflip's FLIP tanks 30% after suspected $4.86 million vault drain",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/business/2026/11/21/cross-chain-protocol-chainflip-s-flip-tanks-30-after-suspected-usd4-86-million-vault-drain",
@@ -30,14 +38,6 @@
     "date": "Sat, 21 Nov 2026",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/e801fab0ba43b1fac7d53b2dde06f85232d5e766-1506x830.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "content": "The token broke its previous November lows during Saturday's crypto selloff, with long positions accounting for most XRP liquidations and technical indicators showing further weakness."
-  },
-  {
-    "title": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone",
-    "date": "Sat, 21 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c4a0fdccd8d94e89522ad3903cb55ceb60c5e3d6-2158x1102.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "BTC's sell-off deepened on Saturday, with prices hitting two-year lows under $57,000."
   },
   {
     "title": "Here’s what happened in crypto today",
@@ -80,6 +80,14 @@
     "content": "Bitquery traced $13.5 million in suspicious sales of the wrapped Monero token, as its operator blamed a security breach and promised to reimburse affected traders."
   },
   {
+    "title": "GTA 6 Leaker Dangles a PC Port Behind a $15 Million Crypto Pump",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/383756/gta-6-leaker-dangles-pc-port-15-million-crypto-pump",
+    "date": "Sat, 21 Nov 2026",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/grand-theft-auto-6-gta-vi-decrypt-style-gID_7.jpg@png",
+    "content": "The anonymous leaker, Cyberleek, released a 209 GB Xbox build but is withholding the executable that could enable a PC port until its CYBERLEEK token hits $15 million."
+  },
+  {
     "title": "Fraudsters Used Fake Crypto Exchanges to Steal $37 Million, SEC Alleges",
     "source": "Decrypt",
     "url": "https://decrypt.co/383752/fraudsters-fake-crypto-exchanges-steal-37-million-sec",
@@ -110,14 +118,6 @@
     "date": "Fri, 20 Nov 2026",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/09/math-problems-AI-gID_1.jpg@png",
     "content": "Levent Alpöge claims Claude helped prove a 167-year-old math conjecture, but independent checks remain pending, and the release just after Anthropic’s IPO has prompted questions about its unusual publication timing."
-  },
-  {
-    "title": "Nvidia Shares Sink to 52-Week Low After Report SEC Is Probing Accounting",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/383744/nvidia-shares-sink-52-week-low-sec-probing-accounting",
-    "date": "Fri, 20 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/nvidia-logo-decrypt-style-02-gID_7.png@png",
-    "content": "Nvidia shares fell about 13% to a 52-week low after reports that SEC enforcement staff are examining potential accounting issues, adding to pressure on the chipmaker after Jensen Huang’s resignation."
   },
   {
     "title": "Tracy Schuchart: Bitcoin Trading “Like a Risk Asset” as Fed Hikes Loom",
