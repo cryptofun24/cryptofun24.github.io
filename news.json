@@ -1,5 +1,13 @@
 [
   {
+    "title": "Bitcoin tanks below $57,000 for the first time in two years, and its not alone",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/11/21/bitcoin-tanks-below-usd57-000-for-the-first-time-in-two-years-and-its-not-alone",
+    "date": "Sat, 21 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c4a0fdccd8d94e89522ad3903cb55ceb60c5e3d6-2158x1102.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "BTC's sell-off deepened on Saturday, with prices hitting two-year lows under $57,000."
+  },
+  {
     "title": "Kalshi races to get ahead of New York order that could shut down exchange",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/policy/2026/11/20/kalshi-races-to-get-ahead-of-new-york-order-that-could-shut-down-exchange",
@@ -30,14 +38,6 @@
     "date": "Fri, 20 Nov 2026",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/a8d4f09fa40a3ad93e79c6b4455bc55283d46a87-3528x1930.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "content": "A former Point72 executive says AI could reshape Wall Street's data market, turning once-exclusive information into a source of revenue and financing."
-  },
-  {
-    "title": "Hong Kong moves to extend crypto licensing rules to brokers, advisers and custodians",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/policy/2026/11/20/hong-kong-moves-to-extend-crypto-licensing-rules-to-brokers-advisers-and-custodians",
-    "date": "Fri, 20 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ee1f6aa8d9fba0788e1caa531b53c15fbc6174ba-4608x2880.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "Hong Kong wants to bring crypto brokers, advisers, asset managers and custodians under its existing regulatory framework."
   },
   {
     "title": "Wrapped Monero token crashes 99.8% amid suspected $13.5M exploit",
