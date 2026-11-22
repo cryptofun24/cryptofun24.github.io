@@ -1,5 +1,13 @@
 [
   {
+    "title": "More on the pending oversight hearings: State of Crypto ",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/",
+    "date": "Sun, 22 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/39aef47b93f60ebf7e668e371d51320693bb79e3-3364x1894.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "New letters show the widening range of Congressional committees that will be probing the presidential administration — and the crypto collateral that may be swept up."
+  },
+  {
     "title": "Bitcoin's quantum security challenge extends to bridges, custodians and millions of coins",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/tech/2026/11/22/bitcoin-s-quantum-security-challenge-extends-to-bridges-custodians-and-millions-of-coins",
@@ -30,14 +38,6 @@
     "date": "Sat, 21 Nov 2026",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/1bd48a3fe18062fee7cb925250ccc088b0e73dc9-2312x1264.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "content": "OpenAI, Anthropic, and other technology giants are backing standards designed to enable agents to work together without putting any one company in control."
-  },
-  {
-    "title": "Ether treasury firm BTCS warns SEC its $54 million Aave loan could be liquidated",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/markets/2026/11/21/ether-treasury-firm-btcs-warns-sec-its-usd54-million-aave-loan-could-be-liquidated",
-    "date": "Sat, 21 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a0b9c77ef2096d8c4905fefac8edbe280eb49ff3-1920x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "BTCS cut its reported Aave debt by about $10 million in ten days, but falling ether prices are keeping its collateral under pressure."
   },
   {
     "title": "The future of onchain FX could start with users, not institutional liquidity",
