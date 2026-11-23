@@ -1,5 +1,29 @@
 [
   {
+    "title": "South Korea to expand cryptocurrency account freezes and curb illicit transfers abroad",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/policy/2026/11/23/south-korea-to-expand-cryptocurrency-account-freezes-and-curb-illicit-transfers-abroad",
+    "date": "Mon, 23 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/0148f2ac9bbe3e7881c7c4d8cc67ea3460855f32-1163x605.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "The proposed measures would also expand a June phishing-account suspension system, which has already frozen more than 11,500 accounts, to cover other serious financial crimes."
+  },
+  {
+    "title": "Bitcoin breaks a record streak of 'lower highs.' Here's what it means",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/11/23/bitcoin-breaks-a-record-streak-of-lower-highs-here-s-what-it-means",
+    "date": "Mon, 23 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/024593ca27f9b4117c21eda12313ff940386aa5d-2268x1736.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "Bitcoin rose above the previous day’s peak on Sunday, an early sign that selling pressure may be easing even as the cryptocurrency remains down 21% in November."
+  },
+  {
+    "title": "U.S. inflation, Thanksgiving trading: Crypto Week Ahead",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/11/23/u-s-inflation-thanksgiving-trading-crypto-week-ahead",
+    "date": "Mon, 23 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c77d41c0d74604ff4a44aa8ef2e69a7d40822c15-4000x2250.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "Your look at what’s coming in the week starting Nov. 23."
+  },
+  {
     "title": "Crypto thieves are using online ads to infect iPhones with a single tap, research finds",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/tech/2026/11/23/moldyroost-malvertizing-campaign-uses-one-tap-iphone-hacks-to-hunt-crypto-wallet-keys-research-shows",
@@ -14,30 +38,6 @@
     "date": "Mon, 23 Nov 2026",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/4b16caa4ab1ebec0072b074bf7f21eb8d17a3b12-1300x968.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "content": "Stockholm-listed H100 moved a slice of its bitcoin into a derivatives book after an August acquisition and has shed nearly $2 million worth of BTC by the end of September."
-  },
-  {
-    "title": "Cardano holders are turning down a $4 million request for running its flagship event",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/markets/2026/11/23/cardano-holders-are-turning-down-a-usd4-million-request-for-running-its-flagship-event",
-    "date": "Mon, 23 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/46eab9d9d394e11bb0a87ec45889b24f8aeff3d4-4076x3057.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "Roughly five times as much voting stake has opposed the Foundation's 2027 conference budget as has backed it, while a developer tools request filed on Nov. 16 faces almost no opposition."
-  },
-  {
-    "title": "Bitcoin sold for $17,000 on Kraken's Canadian dollar market, and the trades stand",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/markets/2026/11/23/bitcoin-sold-for-usd17-000-on-kraken-s-canadian-dollar-market-and-the-trades-stand",
-    "date": "Mon, 23 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b40a09ecac1334e17574f556c1f2cb1e9c68b091-2576x1449.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "An apparent breakdown in Kraken's CAD order book cut every coin on it by over 70%, overnight."
-  },
-  {
-    "title": "Market rout kills 50 basis points December Fed rate hike bets",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/markets/2026/11/23/market-rout-kills-50-basis-points-december-fed-rate-hike-bets",
-    "date": "Mon, 23 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/86094ea78f944f140cc21b29434392b1d1380382-1920x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "Traders have removed the possibility of a 50-basis-point December Fed rate hike after last week’s market rout."
   },
   {
     "title": "‘MoldyRoost’ ads can steal crypto wallet recovery phrases from iPhones",
