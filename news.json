@@ -1,5 +1,13 @@
 [
   {
+    "title": "'AI trade never died': Traders see room for market recovery, but bitcoin's participation is another story",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/11/24/ai-trade-never-died-traders-see-room-for-market-recovery-despite-bitcoin-s-weakness",
+    "date": "Tue, 24 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/cfd2092b1db2778aa23e4fb8395ac04ad57dd0fd-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "Monday's tech enthusiasm is quickly fading on Tuesday, while bitcoin remains near bear-market lows."
+  },
+  {
     "title": "Anchorage Digital to unveil new asset-management subsidiary",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/business/2026/11/24/anchorage-digital-to-unveil-new-asset-management-subsidiary",
@@ -24,7 +32,7 @@
     "content": "Ansem suspects someone broke into his account on Bullpen, the trading terminal he co-founded, where the wallet's private key had been imported."
   },
   {
-    "title": "Live updates: Bitcoin pulls back to $60,000, stock rally fades, as tariffs re-enter the picture",
+    "title": "Live updates: Bitcoin pulls back below $60,000, stock rally fades, as tariffs re-enter the picture",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/tech/2026/11/24/live-updates-bitcoin-pulls-back-to-usd60-000-as-stock-rally-fails-to-budge-crypto",
     "date": "Tue, 24 Nov 2026",
@@ -32,12 +40,20 @@
     "content": "The Trump Administration could unveil tariff hikes against China, Japan, South Korea and other countries as soon as this week, according to a WSJ report."
   },
   {
-    "title": "Bitcoin drops as November spot ETF outflows increase to record $4.71 billion",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/daybook-us/2026/11/24/bitcoin-drops-as-november-spot-etf-outflows-increase-to-record-usd4-71-billion",
+    "title": "Bitcoin slides amid US tariff nerves as Anthropic falls below IPO price",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/markets/bitcoin-slides-us-tariff-nerves-anthropic-falls-ipo-price?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "date": "Tue, 24 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/ade19978cc441c7713e77ac5772f01d8d72b30e0-1200x675.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "Your day-ahead look for Nov. 24, 2026"
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M875FNTK5A5N7SWKXH8E8RC9/article-covers-143614-the-bitcoin-bottom-is-not-in-btc-traders-set-price-targets-in-low-40k-range-1280x853.webp",
+    "content": "Bitcoin gave up gains above $60,000 as tariff concerns weighed on US stocks and Anthropic shares hit new lows below $76."
+  },
+  {
+    "title": "How South Korea’s proposed 20% cap could change who runs Upbit",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/how-south-koreas-proposed-20-cap-could-change-who-runs-upbit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "Tue, 24 Nov 2026",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M597BM0AMWQ1YPAXSBBRRVZN/south-korea-1.jpg",
+    "content": "Naver Financial agreed to buy every share in Upbit’s operator, but a proposed ownership cap could strip away its voting rights on four-fifths of them."
   },
   {
     "title": "USDT buyers face 22% VAT when Moscow Exchange opens crypto trading",
@@ -64,20 +80,28 @@
     "content": "Borrowers would sell SKY to the protocol and use the proceeds to pay down their loans, freeing up funds for depositors in the stUSDS pool."
   },
   {
-    "title": "Grayscale calls Bitcoin ‘oversold’ at $62K but warns of AI risks",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/markets/bitcoin-oversold-ai-risks-grayscale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "What Is Pons? The Robinhood Chain Meme Coin Launchpad Explained",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/resources/what-is-pons-the-robinhood-chain-meme-coin-launchpad-explained",
     "date": "Tue, 24 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M86R3XR84EC6JZ8PPBN2SC3P/bitcoin1111.png",
-    "content": "Grayscale said Bitcoin’s bear market was its longest on record at 411 days and counting, though the 56% drop was the smallest percentage decline."
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/pons-meme-coin-gID_4-pID_1.png@png",
+    "content": "Pons lets anyone launch a fixed-supply token on Robinhood Chain in one transaction. Here's how it works, and what its PONS token does."
   },
   {
-    "title": "South Korea proposes bank-led stablecoins, 20% cap on crypto exchange stakes",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/south-korea-draft-bill-crypto-innovation-user-protection?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Ansem Meme Coin Crashes After $2.57 Million Wallet Drain, Bullpen Confirms Security Breach",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/383889/ansem-meme-coin-crashes-wallet-drain-bullpen-security-breach",
     "date": "Tue, 24 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M5Z3BJXQ46ZDN2Q8H9RF7F7N/hi-will-crypto-be-the-only-digital-currency-left-standing-south-korea-1.jpg",
-    "content": "The draft bill would also reopen domestic initial coin offerings after a ban dating to 2017 and require issuers to disclose risks before soliciting buyers."
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-01-gID_7.png@png",
+    "content": "Bullpen identified unauthorized transfers from as many as 19 early accounts after millions moved from wallets linked to Ansem."
+  },
+  {
+    "title": "Europol Traces $28M in Crypto Behind Europe's Illegal Streaming Industry",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/383877/europol-traces-28m-in-crypto-behind-europes-illegal-streaming-industry",
+    "date": "Tue, 24 Nov 2026",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/europol-decrypt-style-gID_7.jpg@png",
+    "content": "Police from 11 countries worked with Binance, Coinbase and Chainalysis to follow crypto payments made to pirate TV services."
   },
   {
     "title": "Justice Department Moves to Forfeit $1.1B in USDC From North Korea's Binance Hack",
@@ -96,28 +120,20 @@
     "content": "The blockchain security firm walked officers from across Asia and the South Pacific through a real wallet-theft case at a workshop in Hanoi."
   },
   {
-    "title": "Morning Minute: Jensen Returns, Markets Soar (Except Crypto)",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/383868/morning-minute-jensen-returns-markets-soar-except-crypto",
+    "title": "Coldcard Postmortem Says Weak Seeds, Not Hacked Devices, Drove Bitcoin Thefts",
+    "source": "Bitcoin Magazine",
+    "url": "https://bitcoinmagazine.com/news/coldcard-postmortem-seed-flaw",
     "date": "Tue, 24 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/jensen-huang-nvidia-decrypt-style-04-gID_7.jpg@png",
-    "content": "It was a very green Monday for most markets, but crypto couldn’t hold the pump as ETF sellers race for the exits."
+    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
+    "content": "Bitcoin Magazine Coldcard Postmortem Says Weak Seeds, Not Hacked Devices, Drove Bitcoin Thefts Coinkite published its full Coldcard postmortem, saying a five-year firmware flaw weakened wallet seeds and that about 242 customer accounts have reported losses. This post Coldcard Postmortem Says Weak Seeds, Not Hacked Devices, Drove Bitcoin Thefts first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
   },
   {
-    "title": "GTA 6 PC Ports ‘Nuked’ Just Days Before Devs Expected It to Be Playable",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/383860/gta-6-pc-ports-nuked-just-days-before-devs-expected-it-to-be-playable",
+    "title": "Stacks Opens Bond 4 With 1,050 BTC of Bitcoin Staking Capacity",
+    "source": "Bitcoin Magazine",
+    "url": "https://bitcoinmagazine.com/press-releases/stacks-opens-bond-4-with-1050-btc-of-bitcoin-staking-capacity",
     "date": "Tue, 24 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/grand-theft-auto-vi-gta-vi-gta-6-decrypt-style-02-gID_7.jpg@png",
-    "content": "Leonida and GTA6Modding went dark a day after Cyberleek released the executable file that porters had been waiting for."
-  },
-  {
-    "title": "$14.7B in ‘Lost’ Bitcoin Has Moved Since 2018: Report",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/383854/14-7b-in-lost-bitcoin-has-moved-since-2018-report",
-    "date": "Tue, 24 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Bitcoin-decrypt-style-20-gID_7.png@png",
-    "content": "Roughly 245,000 BTC has left almost 10,000 wallets presumed lost, undercutting a lawsuit that argues silence means abandonment."
+    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
+    "content": "Bitcoin Magazine Stacks Opens Bond 4 With 1,050 BTC of Bitcoin Staking Capacity Registration is open for the bond starting ~Dec. 5, after Bond 3 sold out at 1,005 BTC with 21shares and Bullish. This post Stacks Opens Bond 4 With 1,050 BTC of Bitcoin Staking Capacity first appeared on Bitcoin Magazine and is written by Bitcoin Magazine ."
   },
   {
     "title": "Global Debt Will Make Bitcoin the Best Performing Asset in the World",
@@ -142,21 +158,5 @@
     "date": "Tue, 24 Nov 2026",
     "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
     "content": "Bitcoin Magazine South Korea Unveils Crypto Bill Capping Exchange Ownership at 20% South Korea’s financial regulator unveiled a bill that would cap major shareholders of crypto exchanges at 20%, allow domestic ICOs and let bank-led groups issue won stablecoins. This post South Korea Unveils Crypto Bill Capping Exchange Ownership at 20% first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
-  },
-  {
-    "title": "DOJ Moves to Forfeit $1.1 Billion in USDC Stolen in Binance Hack",
-    "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/news/doj-forfeit-usdc-binance-hack",
-    "date": "Tue, 24 Nov 2026",
-    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "Bitcoin Magazine DOJ Moves to Forfeit $1.1 Billion in USDC Stolen in Binance Hack The Justice Department filed to forfeit more than $1.1 billion in USDC stolen from Binance by North Korean hackers, and Circle agreed to issue replacement tokens. This post DOJ Moves to Forfeit $1.1 Billion in USDC Stolen in Binance Hack first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
-  },
-  {
-    "title": "Relai Launches Stacks, Letting Bitcoin Savers Split Plans by Goal",
-    "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/news/relai-launches-stacks-bitcoin-savings",
-    "date": "Tue, 24 Nov 2026",
-    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "Bitcoin Magazine Relai Launches Stacks, Letting Bitcoin Savers Split Plans by Goal Swiss bitcoin app Relai launched Stacks, letting users in Switzerland and the EU run separate recurring bitcoin savings plans for each goal inside one self-custodial wallet. This post Relai Launches Stacks, Letting Bitcoin Savers Split Plans by Goal first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
   }
 ]
