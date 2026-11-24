@@ -1,5 +1,13 @@
 [
   {
+    "title": "U.S. CFTC sets policies on event contract data, using crypto to check financial boxes",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/policy/2026/11/23/u-s-cftc-sets-policies-on-event-contract-data-using-crypto-to-check-financial-boxes",
+    "date": "Tue, 24 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2ea663e27b7a8aedacb15a99a17ec144f1ef72ac-4928x2772.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "The derivatives regulator issues a rule on data reporting for event contracts and new guidance for how crypto assets can be used to meet regulatory requirements."
+  },
+  {
     "title": "New York judge declines to block Kalshi from operating in the state for now",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/policy/2026/11/23/new-york-judge-declines-to-block-kalshi-from-operating-in-the-state-for-now",
@@ -32,12 +40,20 @@
     "content": "ProShares' rival CoinDesk 20 Crypto ETF (KRYP) holds $1.81 million in assets nearly 10 months post-launch."
   },
   {
-    "title": "Binance hackers push $247 million through transactions designed to cloud the source",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/business/2026/11/23/binance-hackers-push-usd247-million-through-transactions-designed-to-cloud-the-source",
+    "title": "Ethereum Foundation doubles protocol security team ahead of overhaul",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/ethereum-foundation-doubles-protocol-security-team-amid-ai-quantum-overhaul?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "Tue, 24 Nov 2026",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M85DS27NQE002XJJS1QRWYQV/hi-eth-dragon-fire.jpg",
+    "content": "The foundation said its next upgrade will be harder than the Merge, and the required pace of development will make it easier to ship bugs."
+  },
+  {
+    "title": "CFTC staff say exchanges can count Bitcoin toward operating reserves",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/cftc-staff-say-exchanges-can-count-bitcoin-toward-operating-reserves?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "date": "Mon, 23 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/03e2d9be0c65442154bdff629a58c6496d145707-1280x717.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "Elliptic found that nearly all the mixing transactions, known as coinjoins, were coordinated by an entity called Kruw during fixed daily hours, suggesting potential handoffs to China-based money launderers."
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M85B9CDHGAHS6MHGSVMX0BWZ/hi-report-suggests-women-underrepresented-on-memecoin-market-structure-cftc.jpg",
+    "content": "The staff guidance allows Bitcoin, Ether and payment stablecoins to count towards operating reserves."
   },
   {
     "title": "Here’s what happened in crypto today",
@@ -62,22 +78,6 @@
     "date": "Mon, 23 Nov 2026",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M84YTSSZCSXXMQBKZMNS9T51/hi-when-prediction-markets-go-wrong-who-decides-what-counts-as-the-truth-2.jpg",
     "content": "The ruling allows Kalshi to continue operating as its legal battle with New York over sports-related event contracts moves toward a January hearing."
-  },
-  {
-    "title": "BTCS offloads $44M in ETH to reduce DeFi debt amid market downturn",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/btcs-offloads-44m-eth-reduce-defi-debt-market-downturn?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "date": "Mon, 23 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M84VFSZP83BETXS7WKZ3GZEZ/hi-risk-vs-reward-investing-in-ethereum.png",
-    "content": "BTCS sold more than half its Ether holdings to reduce leverage following the market sell-off, while BitMine added another 7,819 ETH to its treasury."
-  },
-  {
-    "title": "Base makes quantum security a 2027 priority as regulators warn of risks",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/interview/base-quantum-security-2027-priority-regulators-warn-risks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "date": "Mon, 23 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M84X25GWYAAE3AGR265PESJB/hi-how-to-buy-usdc-on-the-base-network.png",
-    "content": "Base creator Jesse Pollak says the upcoming Everest upgrade will help prepare wallets for future quantum threats, although further changes will be needed."
   },
   {
     "title": "China's Z.ai Says Its New AI Model Can Think Like One Four Times Its Size",
