@@ -1,5 +1,13 @@
 [
   {
+    "title": "Utah moves to drop criminal pursuit of Kalshi after the firm halted services there",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/policy/2026/11/24/utah-moves-to-drop-criminal-pursuit-of-kalshi-after-the-firm-halted-services-there",
+    "date": "Tue, 24 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6d84d85eddfea0214122fb8436cd96c91a7a922e-2880x1620.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "The state continues to hold the criminal charges in its back pocket with a vow to hit Kalshi and other prediction markets with gambling accusations if they return."
+  },
+  {
     "title": "'AI trade never died': Traders see room for market recovery, but bitcoin's participation is another story",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/markets/2026/11/24/ai-trade-never-died-traders-see-room-for-market-recovery-despite-bitcoin-s-weakness",
@@ -32,12 +40,20 @@
     "content": "Ansem suspects someone broke into his account on Bullpen, the trading terminal he co-founded, where the wallet's private key had been imported."
   },
   {
-    "title": "Live updates: Bitcoin pulls back below $60,000, stock rally fades, as tariffs re-enter the picture",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/tech/2026/11/24/live-updates-bitcoin-pulls-back-to-usd60-000-as-stock-rally-fails-to-budge-crypto",
+    "title": "CFTC sets new prediction market rules as more firms seek US entry",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/cftc-new-prediction-market-rules-firms-seek-us-entry?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "date": "Tue, 24 Nov 2026",
-    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "The Trump Administration could unveil tariff hikes against China, Japan, South Korea and other countries as soon as this week, according to a WSJ report."
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M2TJB7047S01XKJY4FWVJGEK/judge-hammer-regulation-cftc-2.jpg",
+    "content": "The US regulator has approved permanent reporting rules for certain event contracts as more companies look to launch prediction markets."
+  },
+  {
+    "title": "BlackRock launches tokenized money market fund accepting stablecoins in Hong Kong",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/blackrock-launches-tokenized-money-market-fund-stablecoins-hong-kong?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "Tue, 24 Nov 2026",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M875NJM2XF6AM2XW3HR7BBSV/hi-usdt-vs-usdc-whats-the-difference-hong-kong.png",
+    "content": "The tokenized fund launched with approximately $100 million in assets, with Standard Chartered and Ant International participating as seed investors."
   },
   {
     "title": "Bitcoin slides amid US tariff nerves as Anthropic falls below IPO price",
@@ -64,20 +80,20 @@
     "content": "Buyers will pay VAT on top of the trade price in December because Russia’s tax code has no explicit exemption for foreign digital instruments."
   },
   {
-    "title": "Swiss central bank, UBS and SIX study ledger for tokenized settlement",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/swiss-central-bank-ubs-six-explore-ledger-tokenized-settlement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "South Korea Moves to Lift Its ICO Ban After Nearly a Decade",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/383905/south-korea-moves-lift-ico-ban-after-nearly-decade",
     "date": "Tue, 24 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M86VV86WEBASNMG35FPTXVR5/hi-switzerland-crypto-valley-crypto-regulation2.jpg",
-    "content": "The study will assess whether a shared ledger can bring central bank money, commercial bank money and securities onto the same platform."
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/bitcoin-south-korea-won-decrypt-style-gID_7.jpg@png",
+    "content": "The Financial Services Commission’s draft Digital Asset Act would let domestic projects sell tokens again under IPO-style disclosure rules, reversing a 2017 ban that mostly pushed Korean issuers offshore."
   },
   {
-    "title": "Sky lender proposes buyback of up to $50M to fund stUSDS withdrawals",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/sky-community-proposes-50m-buybacks-stusds-liquidity-crisis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Wall Street and Crypto Are in 'Extreme Fear'. What's Spooking Investors?",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/383898/wall-street-crypto-extreme-whats-spooking-investors",
     "date": "Tue, 24 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M86T456D4TB4XDA273PK6Z1E/hi-dao-governance-models-crypto.jpg",
-    "content": "Borrowers would sell SKY to the protocol and use the proceeds to pay down their loans, freeing up funds for depositors in the stUSDS pool."
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/06/Chart4_red-gID_7.png@png",
+    "content": "Fear and Greed indexes are flashing extreme fear across stocks and crypto as Nvidia’s relief rally fades, Bitcoin falls below $60,000, and investors brace for higher interest rates"
   },
   {
     "title": "What Is Pons? The Robinhood Chain Meme Coin Launchpad Explained",
@@ -104,20 +120,12 @@
     "content": "Police from 11 countries worked with Binance, Coinbase and Chainalysis to follow crypto payments made to pirate TV services."
   },
   {
-    "title": "Justice Department Moves to Forfeit $1.1B in USDC From North Korea's Binance Hack",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/383874/justice-department-moves-to-forfeit-1-1b-in-usdc-from-north-koreas-binance-hack",
+    "title": "Anchorage Digital Sets Up Asset Manager to Offer Bitcoin Yield to Clients",
+    "source": "Bitcoin Magazine",
+    "url": "https://bitcoinmagazine.com/news/anchorage-digital-bitcoin-yield-asset-manager",
     "date": "Tue, 24 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/department-of-justice-doj-decrypt-style-scaled-gID_7.jpg@png",
-    "content": "U.S. authorities say they've now helped freeze, seize or return more than $2.9 billion of the crypto stolen from Binance in October."
-  },
-  {
-    "title": "CertiK Trains Interpol Investigators to Trace and Freeze Stolen Crypto",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/383857/certik-trains-interpol-investigators-to-trace-and-freeze-stolen-crypto",
-    "date": "Tue, 24 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/11/Interpol-gID_7.jpg@png",
-    "content": "The blockchain security firm walked officers from across Asia and the South Pacific through a real wallet-theft case at a workshop in Hanoi."
+    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
+    "content": "Bitcoin Magazine Anchorage Digital Sets Up Asset Manager to Offer Bitcoin Yield to Clients Anchorage Digital is launching 61st Parallel Asset Management, a subsidiary expected to open by early December with a bitcoin-denominated fund that lets custody clients earn yield. This post Anchorage Digital Sets Up Asset Manager to Offer Bitcoin Yield to Clients first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
   },
   {
     "title": "Coldcard Postmortem Says Weak Seeds, Not Hacked Devices, Drove Bitcoin Thefts",
@@ -150,13 +158,5 @@
     "date": "Tue, 24 Nov 2026",
     "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
     "content": "Bitcoin Magazine UniCredit Opens Bitcoin to Italian Savers, Capping Gains at 65% UniCredit began selling a six-year, capital-protected certificate linked to BlackRock's iShares Bitcoin ETP to retail clients in Italy, with gains capped at 65%. This post UniCredit Opens Bitcoin to Italian Savers, Capping Gains at 65% first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
-  },
-  {
-    "title": "South Korea Unveils Crypto Bill Capping Exchange Ownership at 20%",
-    "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/news/south-korea-crypto-bill-exchange-ownership-cap",
-    "date": "Tue, 24 Nov 2026",
-    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "Bitcoin Magazine South Korea Unveils Crypto Bill Capping Exchange Ownership at 20% South Korea’s financial regulator unveiled a bill that would cap major shareholders of crypto exchanges at 20%, allow domestic ICOs and let bank-led groups issue won stablecoins. This post South Korea Unveils Crypto Bill Capping Exchange Ownership at 20% first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
   }
 ]
