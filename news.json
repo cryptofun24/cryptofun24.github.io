@@ -1,5 +1,21 @@
 [
   {
+    "title": "'This time actually seems different': Crypto veterans brace for more pain as bitcoin tumbles",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/11/25/this-time-actually-seems-different-crypto-veterans-brace-for-more-pain-as-bitcoin-tumbles",
+    "date": "Wed, 25 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b5759e58dbca079ac7f62cea4739a25c5f08d150-2280x1284.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "Crypto sentiment is near rock bottom, but Galaxy sees room for a deeper slide and even longtime crypto bulls are wary of buying amid fears of AI and quantum computing."
+  },
+  {
+    "title": "EU bank watchdog seeks European Commission rules for crypto firms offering DeFi lending",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/policy/2026/11/25/eu-bank-watchdog-seeks-european-commission-rules-for-crypto-firms-offering-defi-lending",
+    "date": "Wed, 25 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/1b8af97c895160d3ed27ac10e9be7535ee79e1d6-3673x2449.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "The EBA renewed its call for the commission to propose rules for crypto firms granting client access to DeFi, particularly lending protocols."
+  },
+  {
     "title": "Ukrainian lawmakers pass crypto tax and regulation bill expected to bring in $330 million",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/business/2026/11/25/ukrainian-lawmakers-pass-crypto-tax-and-regulation-bill-expected-to-bring-in-usd330-million",
@@ -24,20 +40,28 @@
     "content": "South Korea's second-largest crypto exchange said its trading systems were not breached, but stolen customer records could already be being used in future scams."
   },
   {
-    "title": "Fed’s preferred inflation gauge lands with a December rate increase already priced in",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/daybook-us/2026/11/25/fed-s-preferred-inflation-gauge-lands-with-a-december-rate-increase-already-priced-in",
+    "title": "Bitcoin falls toward $57K amid US tariff fears, hot PCE data as Nasdaq drops 4%",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/markets/bitcoin-falls-57k-us-tariff-pce-data-nasdaq-drops?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "date": "Wed, 25 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d63edc245e05db9f58c963f4d17fdcab9e457780-1600x900.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "Your day-ahead look for Nov. 25, 2026"
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M89RQDCSS11KJ2G00H0WCG5F/article-covers-243058-bitcoin-spot-traders-lose-ground-as-btc-bears-defend-dollar98k-1280x853.webp",
+    "content": "The prospect of higher US tariffs and hotter-than-expected PCE inflation weighed on Bitcoin, crypto and stocks on Wednesday."
   },
   {
-    "title": "Ether, DeFi fall twice as hard as bitcoin as equities selloff resumes",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/markets/2026/11/25/ether-defi-fall-twice-as-hard-as-bitcoin-as-equities-selloff-resumes",
+    "title": "Nvidia agrees to $290M settlement over crypto mining revenue disclosures",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/nvidia-agrees-290m-settlement-crypto-mining-revenue-disclosures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "date": "Wed, 25 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/97ad697324ea7a7ca2ac229eafb3c41aa7545557-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "Bitcoin (BTC) is down 1.2% since midnight UTC as the stock selloff resumes, with ether (ETH) and DeFi tokens falling about twice as far."
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M89RFTEF8CMJP9QP016YWPAR/hi-the-action-against-nvidia-is-bad-news.png",
+    "content": "The proposed settlement would resolve a shareholder lawsuit dating back to 2018 that alleged Nvidia misled investors about its exposure to the cryptocurrency industry."
+  },
+  {
+    "title": "FCC authorizes SpaceX to deploy 1M satellites for orbital AI data centers",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/fcc-authorizes-spacex-1m-satellites-orbital-ai-data-centers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "Wed, 25 Nov 2026",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M89THTPYBFG3C2HD4QRYNZJM/spaceblack-holemoney-cardano.png",
+    "content": "The planned Starmind constellation will process data in orbit for use on Earth, as demand for artificial intelligence computing power continues to grow."
   },
   {
     "title": "Ex-FTX COO calls out Netflix over CZ’s ‘Asian mafia’ portrayal",
@@ -56,28 +80,28 @@
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
   },
   {
-    "title": "Ukraine passes bill to legalize crypto and tax profits at 23%",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/ukraine-passes-bill-crypto-regulation-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Elon Musk’s X Wins Court Judgment Against Alleged Bitcoin Bot Farm Operators",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/383985/elon-musk-x-court-judgment-bitcoin-bot-farm-operators",
     "date": "Wed, 25 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8992X91RDVP095WKH0ZV4TH/u11111.png",
-    "content": "Ukraine’s parliament passed a crypto regulation bill after three years of legislative work, with the new rules set to take effect in July 2027."
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/twitter-x-logo-decrypt-style-01.png-gID_7.png@png",
+    "content": "London’s High Court entered a default judgment against Vivek Kumar Sen and Zamyang Sherpa after they failed to respond, though damages, which X estimates at over £207,000, won’t be set until a later hearing."
   },
   {
-    "title": "Japan’s SBI, SMFG launch Solana venture for stablecoins, tokenization",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/sbi-smfg-solana-global-stablecoin-tokenization?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Bitcoin Falls Further as Inflation, Trump Tariffs and AI Selloff Rattle Markets",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/383967/bitcoin-sinks-inflation-trump-tariffs-ai-selloff",
     "date": "Wed, 25 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M896PHE1PD4MWC6ATP71JDFZ/sol-jjapan.png",
-    "content": "SBI Solana Global plans to develop stablecoin payment infrastructure, explore AI agent micropayments and tokenize financial assets."
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/02/bitcoin-down-crash-decrypt-style-1-gID_7.jpg@png",
+    "content": "Bitcoin fell below $58,000 as stronger U.S. growth, accelerating inflation and proposed tariffs coincided with a renewed AI stock selloff and bets on higher interest rates in December and beyond."
   },
   {
-    "title": "Hong Kong launches tokenized debt platform with 24-hour settlement",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/hong-kong-central-bank-platform-tokenized-debt-securities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Ukraine Passes Law to Legalize and Tax Its Crypto Market From July 2027",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/383962/ukraine-passes-law-to-legalize-and-tax-its-crypto-market-from-july-2027",
     "date": "Wed, 25 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/10/01M489R6N7E1AB2YW1Y7Q9J3JB/hi-how-hong-kong-is-turning-tokenized-bonds-into-real-market-infrastructure-1.jpg",
-    "content": "The HKMA’s new platform supports settlement in multiple currencies and handles debt issuance, interest payments and repayment at maturity."
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Judge-decrypt-style-2-gID_7.png@png",
+    "content": "The law taxes crypto profits at 18% plus a 5% military levy, cuts the rate for older holdings and puts stablecoins under the central bank."
   },
   {
     "title": "Morning Minute: Ethereum Focuses on Security As AI Threats Rise",
@@ -96,28 +120,20 @@
     "content": "Holders had warned that reporting wallets worth over €100,000 could expose them to risk in a country hit by a wave of crypto kidnappings."
   },
   {
-    "title": "Florida Man Jailed for Using AI to Pose as Streamer N3ON in $260K Crypto Scam",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/383941/florida-man-jailed-for-using-ai-to-pose-as-streamer-n3on-in-260k-crypto-scam",
+    "title": "HRF Announces Funding of Seven Bitcoin Projects for People Living Under Authoritarian Regimes",
+    "source": "Bitcoin Magazine",
+    "url": "https://bitcoinmagazine.com/news/hrf-bitcoin-development-seven-projects",
     "date": "Wed, 25 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/Jail-cell-2-gID_7.png@png",
-    "content": "David Anthony Sanchez posed as the streamer to persuade a meme coin project's organizers to pay him for a fake endorsement deal."
+    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
+    "content": "Bitcoin Magazine HRF Announces Funding of Seven Bitcoin Projects for People Living Under Authoritarian Regimes HRF's Bitcoin Development Fund backed seven projects for self-custody, privacy and education under repression, from phone wallets to solar mining in Nigeria. This post HRF Announces Funding of Seven Bitcoin Projects for People Living Under Authoritarian Regimes first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
   },
   {
-    "title": "Hyperliquid Leads Altcoin Losses as Bitcoin Slips Below $59K",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/383938/hyperliquid-leads-altcoin-losses-as-bitcoin-slips-below-59k",
+    "title": "CleanSpark Weighs Selling More Bitcoin Than It Mines After $987M Loss",
+    "source": "Bitcoin Magazine",
+    "url": "https://bitcoinmagazine.com/news/cleanspark-987-million-loss-fiscal-2026",
     "date": "Wed, 25 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/hyperliquid-decrypt-style-gID_7.jpg@png",
-    "content": "HYPE fell more than 8% after Abraxas Capital pulled out of Hyperliquid, while U.S. Bitcoin ETFs' November outflows passed $4.9 billion."
-  },
-  {
-    "title": "Take-Two Hits GTA 6 PC Port Leonida With DMCA, Taking Down 3,007 GitHub Repos",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/383935/take-two-hits-gta-6-pc-port-leonida-with-dmca-taking-down-3007-github-repos",
-    "date": "Wed, 25 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/grand-theft-auto-vi-gta-vi-gta-6-decrypt-style-gID_7.jpg@png",
-    "content": "Rockstar's parent said the project's \"bring your own files\" instruction was a misleading attempt to dodge responsibility for the leak."
+    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
+    "content": "Bitcoin Magazine CleanSpark Weighs Selling More Bitcoin Than It Mines After $987M Loss CleanSpark's CFO said the miner may sell more bitcoin than it mines to reduce risk after a $987.1 million fiscal 2026 loss, as its shares hit a new 52-week low. This post CleanSpark Weighs Selling More Bitcoin Than It Mines After $987M Loss first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
   },
   {
     "title": "Next Technology (NXTT) Sells 500 Bitcoin to Fund AI Push",
@@ -128,35 +144,19 @@
     "content": "Bitcoin Magazine Next Technology (NXTT) Sells 500 Bitcoin to Fund AI Push Next Technology sold about 500 BTC for $29.22 million to fund AI work, cutting its holdings to 5,333 BTC, and said it does not expect to buy more bitcoin. This post Next Technology (NXTT) Sells 500 Bitcoin to Fund AI Push first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
   },
   {
+    "title": "Square’s NATIONWIDE Bitcoin Payments Rollout: What People Are Actually Buying",
+    "source": "Bitcoin Magazine",
+    "url": "https://bitcoinmagazine.com/videos/squares-nationwide-bitcoin-payments-rollout-what-people-are-actually-buying",
+    "date": "Wed, 25 Nov 2026",
+    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
+    "content": "&#9654; Bitcoin Magazine Square’s NATIONWIDE Bitcoin Payments Rollout: What People Are Actually Buying Janessa Lopez of Block joins Bitcoin Magazine TV to break down Block's new Bitcoin payments report. This post Square’s NATIONWIDE Bitcoin Payments Rollout: What People Are Actually Buying first appeared on Bitcoin Magazine and is written by Patrick Green ."
+  },
+  {
     "title": "Bitcoin Price Slumps Below $57,500 as Nasdaq Sinks 4% at Open",
     "source": "Bitcoin Magazine",
     "url": "https://bitcoinmagazine.com/markets/bitcoin-price-falls-57500-nasdaq",
     "date": "Wed, 25 Nov 2026",
     "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
     "content": "Bitcoin Magazine Bitcoin Price Slumps Below $57,500 as Nasdaq Sinks 4% at Open The bitcoin price fell to near $57,500 Wednesday as the Nasdaq sank 4% at the open on a deepening tech selloff, hot core PCE inflation and new U.S. tariff proposals. This post Bitcoin Price Slumps Below $57,500 as Nasdaq Sinks 4% at Open first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
-  },
-  {
-    "title": "France’s Senate Rejects Rule Forcing Bitcoin Holders to Declare Self-Custody Wallets",
-    "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/news/france-senate-rejects-self-custody",
-    "date": "Wed, 25 Nov 2026",
-    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "Bitcoin Magazine France&#8217;s Senate Rejects Rule Forcing Bitcoin Holders to Declare Self-Custody Wallets France's Senate rejected amendments that would have forced holders to declare self-custody crypto wallets worth €100,000 or more, along with stablecoin and exit tax measures. This post France&#8217;s Senate Rejects Rule Forcing Bitcoin Holders to Declare Self-Custody Wallets first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
-  },
-  {
-    "title": "Bitcoin Faces 6-Year Moving Average Test Only Seen During FTX Collapse",
-    "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/videos/bitcoin-faces-6-year-moving-average-test-only-seen-during-ftx-collapse",
-    "date": "Tue, 24 Nov 2026",
-    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "&#9654; Bitcoin Magazine Bitcoin Faces 6-Year Moving Average Test Only Seen During FTX Collapse Since 2016, the only time Bitcoin closed below its six-year moving average was the FTX crash. This post Bitcoin Faces 6-Year Moving Average Test Only Seen During FTX Collapse first appeared on Bitcoin Magazine and is written by Patrick Green ."
-  },
-  {
-    "title": "“Escape Velocity” Coming for Bitcoin with Repeat of 2017 Cycle | Michaël van de Poppe",
-    "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/videos/escape-velocity-coming-for-bitcoin-with-repeat-of-2017-cycle-michael-van-de-poppe",
-    "date": "Tue, 24 Nov 2026",
-    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "&#9654; Bitcoin Magazine “Escape Velocity” Coming for Bitcoin with Repeat of 2017 Cycle | Michaël van de Poppe The Fear &#38; Greed Index has sat in extreme fear, and Michaël van de Poppe says people are upset that Bitcoin has underperformed other assets. This post “Escape Velocity” Coming for Bitcoin with Repeat of 2017 Cycle | Michaël van de Poppe first appeared on Bitcoin Magazine and is written by Patrick Green ."
   }
 ]
