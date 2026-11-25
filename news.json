@@ -40,6 +40,22 @@
     "content": "Yen-funded carry trades ran an estimated $250 billion before the August 2024 selloff, and the Bank of Japan's policy rate is now around 1.25%. Phillip Lord of Bitcoin Japan explains how yen funding conditions reach bitcoin, and the shareholder test Japanese companies' bitcoin treasury strategies should have to pass."
   },
   {
+    "title": "Braiins warns of Bitcoin mining attacks affecting over 1,000 sites",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/braiins-warns-bitcoin-mining-attacks-affecting-1000-sites?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "Wed, 25 Nov 2026",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8A6MMEPRZNERDMM8DPPCV1R/hi-hacker-launders-nearly-all-money-in-stolen-funds.jpg",
+    "content": "Bitcoin mining pool operator Braiins warned that attackers are exploiting unsecured connections to hijack miners’ computing power and potentially steal rewards."
+  },
+  {
+    "title": "Why ECB collateral eligibility could boost demand for tokenized bonds",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/why-ecb-collateral-eligibility-could-boost-demand-tokenized-bonds?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "Wed, 25 Nov 2026",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M89SGJ98DS23Q9G7WEFX07KJ/lift-rise-rising-digital-euro-man-up.jpg",
+    "content": "Past ECB decisions offer clues to the value of using bonds as collateral, while US derivatives exchanges face a different calculation over their Bitcoin holdings."
+  },
+  {
     "title": "Ethereum Foundation backs Keccak-256 to counter quantum, AI threats",
     "source": "CoinTelegraph",
     "url": "https://cointelegraph.com/news/ethereum-foundation-keccak-256-counter-quantum-ai-threats?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
@@ -64,20 +80,20 @@
     "content": "The prospect of higher US tariffs and hotter-than-expected PCE inflation weighed on Bitcoin, crypto and stocks on Wednesday."
   },
   {
-    "title": "Nvidia agrees to $290M settlement over crypto mining revenue disclosures",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/nvidia-agrees-290m-settlement-crypto-mining-revenue-disclosures?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "What Happened to Alice Huang, the Woman at the Center of Nvidia’s Scandal?",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/384001/what-happened-alice-huang-nvidia-spy-scandal",
     "date": "Wed, 25 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M89RFTEF8CMJP9QP016YWPAR/hi-the-action-against-nvidia-is-bad-news.png",
-    "content": "The proposed settlement would resolve a shareholder lawsuit dating back to 2018 that alleged Nvidia misled investors about its exposure to the cryptocurrency industry."
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/alice-huang-social-gID_7.jpg@png",
+    "content": "U.S. intelligence found no evidence that Beijing directed Alice Huang to spy on Nvidia’s CEO, but the former Megaspeed executive still faces entry bans and scrutiny of business ties."
   },
   {
-    "title": "FCC authorizes SpaceX to deploy 1M satellites for orbital AI data centers",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/fcc-authorizes-spacex-1m-satellites-orbital-ai-data-centers?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "The 1Password Breach Didn’t Touch Your Vault. The Phishing Emails Might",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/384002/1password-breach-vaults-phishing-emails",
     "date": "Wed, 25 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M89THTPYBFG3C2HD4QRYNZJM/spaceblack-holemoney-cardano.png",
-    "content": "The planned Starmind constellation will process data in orbit for use on Earth, as demand for artificial intelligence computing power continues to grow."
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2023/07/scammers-impersonators-gID_7.jpeg@png",
+    "content": "An attacker compromised an employee’s GitHub account to reach 1Password’s backend and copy customer names and emails, but the company says vault contents, encryption keys and your Secret Key were never exposed."
   },
   {
     "title": "Another Bitcoin Mining Firm Flags 'Hashrate Hijacking' Attacks That Reroute Rewards",
@@ -102,22 +118,6 @@
     "date": "Wed, 25 Nov 2026",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/07/nvidia-logo-decrypt-style-02-gID_7.png@png",
     "content": "The proposed cash settlement would resolve a shareholder suit alleging the chipmaker hid how much of its 2017-2018 gaming revenue came from crypto miners."
-  },
-  {
-    "title": "Elon Musk’s SpaceX Gets FCC Approval to Launch AI Data Centers in Space",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/383991/elon-musk-spacex-fcc-approval-ai-data-centers-space",
-    "date": "Wed, 25 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-spacex-gID_7.png@png",
-    "content": "The FCC authorized SpaceX’s solar-powered Starmind constellation, backing Elon Musk’s plans to move AI computing into orbit and reduce the industry’s dependence on increasingly strained power grids here on Earth."
-  },
-  {
-    "title": "OpenAI’s Changes to ChatGPT Could Drastically Cut Usage Limits for Paying Subscribers",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/383963/openai-changes-chatgpt-drastically-cut-usage-limits",
-    "date": "Wed, 25 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/02/greedy-kid-gID_7.png@png",
-    "content": "OpenAI is merging ChatGPT’s Chat and Work modes, forcing advanced conversations to compete with coding tasks for usage and leaving paying subscribers wondering how much AI they will actually get."
   },
   {
     "title": "Strategic Bitcoin Reserve Bill Clears House Committee, Heads to Floor",
