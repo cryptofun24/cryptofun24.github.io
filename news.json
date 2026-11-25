@@ -1,5 +1,29 @@
 [
   {
+    "title": "Fed’s preferred inflation gauge lands with a December rate increase already priced in",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/daybook-us/2026/11/25/fed-s-preferred-inflation-gauge-lands-with-a-december-rate-increase-already-priced-in",
+    "date": "Wed, 25 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/d63edc245e05db9f58c963f4d17fdcab9e457780-1600x900.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "Your day-ahead look for Nov. 25, 2026"
+  },
+  {
+    "title": "Ether, DeFi fall twice as hard as bitcoin as equities selloff resumes",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/11/25/ether-defi-fall-twice-as-hard-as-bitcoin-as-equities-selloff-resumes",
+    "date": "Wed, 25 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/97ad697324ea7a7ca2ac229eafb3c41aa7545557-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "Bitcoin (BTC) is down 1.2% since midnight UTC as the stock selloff resumes, with ether (ETH) and DeFi tokens falling about twice as far."
+  },
+  {
+    "title": "Italy’s UniCredit launches six-year bitcoin certificate with gains capped at 65%",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/business/2026/11/25/italy-s-unicredit-debuts-six-year-bitcoin-certificate-with-100-capital-protection-and-65-cap",
+    "date": "Wed, 25 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/79aea0df5ae0b99db7ca8b161d341d2e3133e601-2650x1491.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "UniCredit brings bitcoin investing to its roughly 8 million retail customers in Italy, offering them a six-year product that caps the redemption value but promises to return their capital."
+  },
+  {
     "title": "Gold's haven status has lost its edge over bitcoin, and the Fed's to blame",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/markets/2026/11/25/bitcoin-hasn-t-paid-its-holders-for-the-risk-it-carries-and-now-gold-is-doing-the-same",
@@ -16,28 +40,12 @@
     "content": "Brussels wants tech firms to grow at home. EU scale-ups raise about half the capital of San Francisco peers by year 10, an EIB study found."
   },
   {
-    "title": "Live updates: Bitcoin slips back under $60,000 as HYPE leads altcoins lower",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/business/2026/11/25/live-updates-bitcoin-slips-back-under-usd60-000-as-hype-leads-altcoins-lower",
+    "title": "Ukraine passes bill to legalize crypto and tax profits at 23%",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/ukraine-passes-bill-crypto-regulation-tax?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "date": "Wed, 25 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/57b92207ca31fecb15a5a37f66c0dfebcd585fa4-1502x846.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "HYPE fell 8% and SOL 5%, and one analyst said a recovery will need selling in stocks to ease first, with U.S. inflation data due before Thanksgiving."
-  },
-  {
-    "title": "Solana developers move to stop validators finishing work on blocks that already lost",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/tech/2026/11/25/solana-developers-move-to-stop-validators-finishing-work-on-blocks-that-already-lost",
-    "date": "Wed, 25 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/54c0f3b41e62df4cdf774aab4c7d68c64e5e976c-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "The fix would stop the computers that run Solana from wasting effort on transactions the network has already thrown out, freeing up power its recent speed upgrade didn't touch."
-  },
-  {
-    "title": "Just 10 accounts drove all of the XRP Ledger's trading growth last quarter",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/markets/2026/11/25/ten-accounts-drove-all-of-the-xrp-ledger-s-trading-growth-last-quarter",
-    "date": "Wed, 25 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2422f4cb8addf51ff9749bd06180d8af713edf6b-3000x2001.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "Data shows that the ten busiest accounts accounted for more than all of the exchange's quarterly growth, while trading by everyone else declined."
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8992X91RDVP095WKH0ZV4TH/u11111.png",
+    "content": "Ukraine’s parliament passed a crypto regulation bill after three years of legislative work, with the new rules set to take effect in July 2027."
   },
   {
     "title": "Japan’s SBI, SMFG launch Solana venture for stablecoins, tokenization",
@@ -70,14 +78,6 @@
     "date": "Wed, 25 Nov 2026",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M893T0SM6CVYNXZQE3SFECS5/hi-crypto-layoffs-mount-as-exchanges-continue-to-be-ravaged-by-the-prevailing-bear-market-bitcoin-1-960x640.webp",
     "content": "Bitcoin price downside targets focused on the $53,200 realized price as research saw pointed to bear-market patterns continuing for BTC/USD."
-  },
-  {
-    "title": "HYPE drops 8% as Trump bump gives way to 40% slide from peak",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/markets/hyperliquid-hype-price-falls-abraxas-capital-wallets?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "date": "Wed, 25 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3AEQ9Y8JV78QH3H8M1G3403/analitycs2021-hype-1.jpg",
-    "content": "HYPE traded below its price before Trump’s August remarks as wallets linked to Abraxas Capital reportedly exited the Hyperliquid platform."
   },
   {
     "title": "Florida Man Jailed for Using AI to Pose as Streamer N3ON in $260K Crypto Scam",
