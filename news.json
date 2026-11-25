@@ -1,5 +1,21 @@
 [
   {
+    "title": "Crypto traders can now hedge Nvidia, Anthropic and oil bets on Derive",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/11/25/crypto-traders-can-now-hedge-nvidia-and-oil-bets-on-derive",
+    "date": "Wed, 25 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/536d7d5e6cfaca6de1f092a21de7b4cf4d742687-1500x750.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "Derive’s new options on Nvidia, Anthropic, stock indices and oil bring hedging tools to onchain RWA markets."
+  },
+  {
+    "title": "A year after buying bitcoin, Czech central bank won't say what it's worth",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/11/23/a-year-after-buying-bitcoin-czech-central-bank-won-t-say-what-it-s-worth",
+    "date": "Wed, 25 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3343bd5e049a9fa2bb623680733a41f6c44169f7-2048x1330.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "The Czech National Bank bought bitcoin a year ago as an experiment. The coin has fallen at least 40% since, and the bank's audited accounts carry it at cost rather than market value. The CNB told CoinDesk an outside custodian holds the coins."
+  },
+  {
     "title": "Trump says he's willing to give Nvidia's Huang a pardon, doesn't think he needs one",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/policy/2026/11/24/trump-says-he-s-willing-to-give-nvidia-s-huang-a-pardon-doesn-t-think-he-needs-one",
@@ -24,20 +40,12 @@
     "content": "Monday's tech enthusiasm is quickly fading on Tuesday, while bitcoin remains near bear-market lows."
   },
   {
-    "title": "Anchorage Digital to unveil new asset-management subsidiary",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/business/2026/11/24/anchorage-digital-to-unveil-new-asset-management-subsidiary",
-    "date": "Tue, 24 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/51258c76d4b544bf939b8e71747497d2f14fe12e-1600x1068.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "The crypto custody technology firm said it will unveil a separate subsidiary called 61st Parallel Asset Management."
-  },
-  {
-    "title": "South Korea proposes ending 2017 ICO ban to boost jobs and onshore crypto investment",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/policy/2026/11/24/south-korea-proposes-ending-2017-ico-ban-to-boost-jobs-and-onshore-crypto-investment",
-    "date": "Tue, 24 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/376b384856e7fed73b3062e3a29025b2c8262362-4942x2941.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "Token issuers would have to disclose how they plan to spend investors' money and could face criminal charges for misleading buyers."
+    "title": "Trump willing to pardon Jensen Huang, says it won’t be necessary",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/trump-willing-to-pardon-jensen-huang-but-says-it-wont-be-necessary?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "Wed, 25 Nov 2026",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M88E9VB55FV73DKVAAMJZFV1/hi-trump-speak-loud.jpg",
+    "content": "The president’s remarks come days before Jensen Huang is due to face congressional questioning over national security concerns and US chip export controls."
   },
   {
     "title": "CleanSpark weighs selling more Bitcoin than it mines to de-risk books",
@@ -70,14 +78,6 @@
     "date": "Tue, 24 Nov 2026",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M87NDASB12J5RE5T6ERAE76K/detective-coin-2.png",
     "content": "Authorities from 11 countries worked with Binance, Coinbase and Chainalysis to trace financial transactions and disrupt illegal streaming services."
-  },
-  {
-    "title": "Utah moves to dismiss criminal charges against Kalshi after trading halt",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/utah-moves-to-dismiss-criminal-charges-against-kalshi-after-trading-halt?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "date": "Tue, 24 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M87J6N3Z9XVM655E8KKXZ6HP/court-vs-kalshi.png",
-    "content": "Utah’s attorney general warned that the criminal charges could be refiled if Kalshi resumes operations in the state, while separate civil litigation remains unresolved."
   },
   {
     "title": "OpenAI and Anthropic Insiders Fear Their Next AI Models Are Too Dangerous to Release",
