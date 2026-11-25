@@ -1,5 +1,21 @@
 [
   {
+    "title": "Solana developers move to stop validators finishing work on blocks that already lost",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/tech/2026/11/25/solana-developers-move-to-stop-validators-finishing-work-on-blocks-that-already-lost",
+    "date": "Wed, 25 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/54c0f3b41e62df4cdf774aab4c7d68c64e5e976c-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "The fix would stop the computers that run Solana from wasting effort on transactions the network has already thrown out, freeing up power its recent speed upgrade didn't touch."
+  },
+  {
+    "title": "Just 10 accounts drove all of the XRP Ledger's trading growth last quarter",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/11/25/ten-accounts-drove-all-of-the-xrp-ledger-s-trading-growth-last-quarter",
+    "date": "Wed, 25 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/2422f4cb8addf51ff9749bd06180d8af713edf6b-3000x2001.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "Data shows that the ten busiest accounts accounted for more than all of the exchange's quarterly growth, while trading by everyone else declined."
+  },
+  {
     "title": "Crypto traders can now hedge Nvidia, Anthropic and oil bets on Derive",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/markets/2026/11/25/crypto-traders-can-now-hedge-nvidia-and-oil-bets-on-derive",
@@ -24,20 +40,28 @@
     "content": "President Donald Trump said in an interview with the New York Post that he's fine clearing Nvidia's CEO from legal trouble in his affair scandal."
   },
   {
-    "title": "Utah moves to drop criminal pursuit of Kalshi after the firm halted services there",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/policy/2026/11/24/utah-moves-to-drop-criminal-pursuit-of-kalshi-after-the-firm-halted-services-there",
-    "date": "Tue, 24 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6d84d85eddfea0214122fb8436cd96c91a7a922e-2880x1620.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "The state continues to hold the criminal charges in its back pocket with a vow to hit Kalshi and other prediction markets with gambling accusations if they return."
+    "title": "South Korea’s crypto bill could move stablecoin race beyond token issuance",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/south-korea-crypto-bill-stablecoin-race-beyond-issuance?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "Wed, 25 Nov 2026",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M88MV8SJQRM9ZKY589WVJW4G/digital-bank-south-korea-1.jpg",
+    "content": "South Korea’s draft bill favors bank-led stablecoin issuance but allows fintech and technology companies to become the largest individual shareholders."
   },
   {
-    "title": "'AI trade never died': Traders see room for market recovery, but bitcoin's participation is another story",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/markets/2026/11/24/ai-trade-never-died-traders-see-room-for-market-recovery-despite-bitcoin-s-weakness",
-    "date": "Tue, 24 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/cfd2092b1db2778aa23e4fb8395ac04ad57dd0fd-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "Monday's tech enthusiasm is quickly fading on Tuesday, while bitcoin remains near bear-market lows."
+    "title": "Here’s what happened in crypto today",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "Wed, 25 Nov 2026",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+  },
+  {
+    "title": "Solana DEX Velocity halts trading over bug just months after relaunch",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/solana-dex-velocity-halts-transactions-over-bug-coming-2-months-after-relaunch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "Wed, 25 Nov 2026",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M88JSSX9DYE28AA0D8E6126E/stop-hand-logo-laptop-sensor-switch.jpg",
+    "content": "Velocity relaunched in September as a rebuilt version of Drift Protocol, which was attacked by North Korean hackers in April."
   },
   {
     "title": "Trump willing to pardon Jensen Huang, says it won’t be necessary",
@@ -54,30 +78,6 @@
     "date": "Wed, 25 Nov 2026",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M885KKJ586HHXXT0SHDZ35QT/hi-ai-is-now-paying-bitcoin-miners-more-than-mining-cleanspark-2.jpg",
     "content": "The Bitcoin miner sold 2,102 BTC while it produced just 1,708 BTC in the September quarter."
-  },
-  {
-    "title": "Hackers breach CIA intelligence network in latest US cyberattack",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/hackers-breach-cia-intelligence-network-in-latest-us-cyberattack?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "date": "Tue, 24 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M87XQMEWNSBKEFPD9X7V49QK/hacker-stealing-spying.jpg",
-    "content": "The reported breach follows cyber incidents involving the FBI, Department of Homeland Security and Department of Agriculture."
-  },
-  {
-    "title": "Here’s what happened in crypto today",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "date": "Tue, 24 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-    "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-  },
-  {
-    "title": "Europol follows $28.5M crypto trail in streaming piracy crackdown",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/europol-crypto-trail-streaming-piracy-crackdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "date": "Tue, 24 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M87NDASB12J5RE5T6ERAE76K/detective-coin-2.png",
-    "content": "Authorities from 11 countries worked with Binance, Coinbase and Chainalysis to trace financial transactions and disrupt illegal streaming services."
   },
   {
     "title": "OpenAI and Anthropic Insiders Fear Their Next AI Models Are Too Dangerous to Release",
