@@ -1,5 +1,29 @@
 [
   {
+    "title": "Ukrainian lawmakers pass crypto tax and regulation bill expected to bring in $330 million",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/business/2026/11/25/ukrainian-lawmakers-pass-crypto-tax-and-regulation-bill-expected-to-bring-in-usd330-million",
+    "date": "Wed, 25 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/3cce92a0af48494a2126025022b398babc564bcf-1920x1200.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "Lawmaker Yaroslav Zhelezniak said he expects roughly $330 million (15 billion hryvnias) in added budget revenue, though the time frame remains unclear."
+  },
+  {
+    "title": "Crypto Long & Short: Bitcoin investors can’t keep ignoring Japan",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/coindesk-indices/2026/11/25/crypto-long-and-short-bitcoin-investors-can-t-keep-ignoring-japan",
+    "date": "Wed, 25 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/63f02bbfdfe79d281e8667130b8ab1069247fdbf-1918x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "Yen-funded carry trades ran an estimated $250 billion before the August 2024 selloff, and the Bank of Japan's policy rate is now around 1.25%. Phillip Lord of Bitcoin Japan explains how yen funding conditions reach bitcoin, and the shareholder test Japanese companies' bitcoin treasury strategies should have to pass."
+  },
+  {
+    "title": "South Korean crypto exchange Bithumb warns of phishing after deeper October breach probe",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/tech/2026/11/25/south-korean-crypto-exchange-bithumb-warns-of-phishing-after-deeper-october-breach-probe",
+    "date": "Wed, 25 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/df75194a14ee0137a319a24c95c7971dfac737a2-4896x3268.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "South Korea's second-largest crypto exchange said its trading systems were not breached, but stolen customer records could already be being used in future scams."
+  },
+  {
     "title": "Fed’s preferred inflation gauge lands with a December rate increase already priced in",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/daybook-us/2026/11/25/fed-s-preferred-inflation-gauge-lands-with-a-december-rate-increase-already-priced-in",
@@ -14,30 +38,6 @@
     "date": "Wed, 25 Nov 2026",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/97ad697324ea7a7ca2ac229eafb3c41aa7545557-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "content": "Bitcoin (BTC) is down 1.2% since midnight UTC as the stock selloff resumes, with ether (ETH) and DeFi tokens falling about twice as far."
-  },
-  {
-    "title": "Italy’s UniCredit launches six-year bitcoin certificate with gains capped at 65%",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/business/2026/11/25/italy-s-unicredit-debuts-six-year-bitcoin-certificate-with-100-capital-protection-and-65-cap",
-    "date": "Wed, 25 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/79aea0df5ae0b99db7ca8b161d341d2e3133e601-2650x1491.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "UniCredit brings bitcoin investing to its roughly 8 million retail customers in Italy, offering them a six-year product that caps the redemption value but promises to return their capital."
-  },
-  {
-    "title": "Gold's haven status has lost its edge over bitcoin, and the Fed's to blame",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/markets/2026/11/25/bitcoin-hasn-t-paid-its-holders-for-the-risk-it-carries-and-now-gold-is-doing-the-same",
-    "date": "Wed, 25 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/65916bf10d18a7e70d226b05b88e12ef92aa478c-1600x900.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "Gold has lost the risk-adjusted advantage that made it this year's haven of choice over bitcoin. Both now offer negative one-year Sharpe ratios, leaving cash yields hard to beat."
-  },
-  {
-    "title": "EU proposes $54.7 billion fund for AI, quantum startups alongside post-quantum security push",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/business/2026/11/25/eu-proposes-usd54-7-billion-fund-for-ai-quantum-startups-alongside-post-quantum-security-push",
-    "date": "Wed, 25 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/93b4a24ab8cd182d2a26f8854f31074af465939c-3956x2220.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "Brussels wants tech firms to grow at home. EU scale-ups raise about half the capital of San Francisco peers by year 10, an EIB study found."
   },
   {
     "title": "Ex-FTX COO calls out Netflix over CZ’s ‘Asian mafia’ portrayal",
@@ -120,6 +120,14 @@
     "content": "Rockstar's parent said the project's \"bring your own files\" instruction was a misleading attempt to dodge responsibility for the leak."
   },
   {
+    "title": "Next Technology (NXTT) Sells 500 Bitcoin to Fund AI Push",
+    "source": "Bitcoin Magazine",
+    "url": "https://bitcoinmagazine.com/news/next-technology-nxtt-sells-500-bitcoin",
+    "date": "Wed, 25 Nov 2026",
+    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
+    "content": "Bitcoin Magazine Next Technology (NXTT) Sells 500 Bitcoin to Fund AI Push Next Technology sold about 500 BTC for $29.22 million to fund AI work, cutting its holdings to 5,333 BTC, and said it does not expect to buy more bitcoin. This post Next Technology (NXTT) Sells 500 Bitcoin to Fund AI Push first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
+  },
+  {
     "title": "Bitcoin Price Slumps Below $57,500 as Nasdaq Sinks 4% at Open",
     "source": "Bitcoin Magazine",
     "url": "https://bitcoinmagazine.com/markets/bitcoin-price-falls-57500-nasdaq",
@@ -150,13 +158,5 @@
     "date": "Tue, 24 Nov 2026",
     "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
     "content": "&#9654; Bitcoin Magazine “Escape Velocity” Coming for Bitcoin with Repeat of 2017 Cycle | Michaël van de Poppe The Fear &#38; Greed Index has sat in extreme fear, and Michaël van de Poppe says people are upset that Bitcoin has underperformed other assets. This post “Escape Velocity” Coming for Bitcoin with Repeat of 2017 Cycle | Michaël van de Poppe first appeared on Bitcoin Magazine and is written by Patrick Green ."
-  },
-  {
-    "title": "André Dragosch: Bitcoin at “Fire Sale” Valuations Heading Into Fed Pivot",
-    "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/videos/andre-dragosch-bitcoin-at-fire-sale-valuations-heading-into-fed-pivot",
-    "date": "Tue, 24 Nov 2026",
-    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "&#9654; Bitcoin Magazine André Dragosch: Bitcoin at “Fire Sale” Valuations Heading Into Fed Pivot André Dragosch says Fed language is already as hawkish as it was in 2022, and \"we are probably close to peak hawkishness. This post André Dragosch: Bitcoin at “Fire Sale” Valuations Heading Into Fed Pivot first appeared on Bitcoin Magazine and is written by Patrick Green ."
   }
 ]
