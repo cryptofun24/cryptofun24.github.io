@@ -1,5 +1,13 @@
 [
   {
+    "title": "French Senate blocks new crypto tax and wallet list critics called a kidnapping risk",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/business/2026/11/25/french-senate-blocks-new-crypto-tax-and-wallet-list-critics-called-a-kidnapping-risk",
+    "date": "Wed, 25 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/00b7e1c817f9bb6b94eeb329d9a6b8a89fc44930-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "The government opposed the measures citing existing EU data-sharing rules and non-legal tender status, leaving the 2027 budget open."
+  },
+  {
     "title": "'This time actually seems different': Crypto veterans brace for more pain as bitcoin tumbles",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/markets/2026/11/25/this-time-actually-seems-different-crypto-veterans-brace-for-more-pain-as-bitcoin-tumbles",
@@ -32,12 +40,12 @@
     "content": "Yen-funded carry trades ran an estimated $250 billion before the August 2024 selloff, and the Bank of Japan's policy rate is now around 1.25%. Phillip Lord of Bitcoin Japan explains how yen funding conditions reach bitcoin, and the shareholder test Japanese companies' bitcoin treasury strategies should have to pass."
   },
   {
-    "title": "South Korean crypto exchange Bithumb warns of phishing after deeper October breach probe",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/tech/2026/11/25/south-korean-crypto-exchange-bithumb-warns-of-phishing-after-deeper-october-breach-probe",
+    "title": "US inflation rises to 3.8% ahead of December Fed meeting, clouding crypto outlook",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/us-inflation-rises-december-fed-meeting-clouding-crypto-outlook?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "date": "Wed, 25 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/df75194a14ee0137a319a24c95c7971dfac737a2-4896x3268.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "South Korea's second-largest crypto exchange said its trading systems were not breached, but stolen customer records could already be being used in future scams."
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M89S8XMNYBMPKRXCHB0PC12Q/make-bitcoin-great-again2-3.png",
+    "content": "US core inflation rose more than expected in October as markets anticipate a December interest rate hike, which could slow a crypto market recovery."
   },
   {
     "title": "Bitcoin falls toward $57K amid US tariff fears, hot PCE data as Nasdaq drops 4%",
@@ -72,12 +80,20 @@
     "content": "Constance Waing said Netflix used racist stereotypes in its portrayal of CZ and misrepresented life at FTX before the exchange’s collapse."
   },
   {
-    "title": "Here’s what happened in crypto today",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Elon Musk’s SpaceX Gets FCC Approval to Launch AI Data Centers in Space",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/383991/elon-musk-spacex-fcc-approval-ai-data-centers-space",
     "date": "Wed, 25 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-    "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-spacex-gID_7.png@png",
+    "content": "The FCC authorized SpaceX’s solar-powered Starmind constellation, backing Elon Musk’s plans to move AI computing into orbit and reduce the industry’s dependence on increasingly strained power grids here on Earth."
+  },
+  {
+    "title": "OpenAI’s Changes to ChatGPT Could Drastically Cut Usage Limits for Paying Subscribers",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/383963/openai-changes-chatgpt-drastically-cut-usage-limits",
+    "date": "Wed, 25 Nov 2026",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/02/greedy-kid-gID_7.png@png",
+    "content": "OpenAI is merging ChatGPT’s Chat and Work modes, forcing advanced conversations to compete with coding tasks for usage and leaving paying subscribers wondering how much AI they will actually get."
   },
   {
     "title": "Elon Musk’s X Wins Court Judgment Against Alleged Bitcoin Bot Farm Operators",
@@ -104,20 +120,28 @@
     "content": "The law taxes crypto profits at 18% plus a 5% military levy, cuts the rate for older holdings and puts stablecoins under the central bank."
   },
   {
-    "title": "Morning Minute: Ethereum Focuses on Security As AI Threats Rise",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/383945/morning-minute-ethereum-focuses-on-security-as-ai-threats-rise",
+    "title": "Switzerland Picks 57 Countries for Crypto Tax Data Sharing Starting in 2028",
+    "source": "Bitcoin Magazine",
+    "url": "https://bitcoinmagazine.com/news/switzerland-57-countries-crypto-tax",
     "date": "Wed, 25 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/Vitalik-Buterin-DecryptStyle3-scaled-gID_7.jpg@png",
-    "content": "The Ethereum Foundation pulls its quantum-resistance deadline forward to end 2028, as AI labs say their next models are too dangerous."
+    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
+    "content": "Bitcoin Magazine Switzerland Picks 57 Countries for Crypto Tax Data Sharing Starting in 2028 Switzerland approved 57 partner jurisdictions, including all EU states and the UK, for automatic crypto tax data exchanges under the OECD's CARF from 2028. This post Switzerland Picks 57 Countries for Crypto Tax Data Sharing Starting in 2028 first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
   },
   {
-    "title": "French Senate Rejects Plan to Make Crypto Holders Declare Self-Custody Wallets",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/383944/french-senate-rejects-plan-to-make-crypto-holders-declare-self-custody-wallets",
+    "title": "Bithumb Says October Hack Exposed Passports, Bank Accounts and Wallet Addresses",
+    "source": "Bitcoin Magazine",
+    "url": "https://bitcoinmagazine.com/news/bithumb-hack-exposed-passports-wallet-addresses",
     "date": "Wed, 25 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/08/Paris-gID_7.jpg@png",
-    "content": "Holders had warned that reporting wallets worth over €100,000 could expose them to risk in a country hit by a wave of crypto kidnappings."
+    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
+    "content": "Bitcoin Magazine Bithumb Says October Hack Exposed Passports, Bank Accounts and Wallet Addresses Bithumb said a follow-up review found its October breach exposed more people and data, including passports and wallet addresses, and lasted about 15 days. This post Bithumb Says October Hack Exposed Passports, Bank Accounts and Wallet Addresses first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
+  },
+  {
+    "title": "DOJ Targets 800 Defendants in Largest-Ever Scam Crackdown, Including Crypto Fraud",
+    "source": "Bitcoin Magazine",
+    "url": "https://bitcoinmagazine.com/news/doj-largest-ever-scam-crackdown-crypto",
+    "date": "Wed, 25 Nov 2026",
+    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
+    "content": "Bitcoin Magazine DOJ Targets 800 Defendants in Largest-Ever Scam Crackdown, Including Crypto Fraud The Justice Department said its largest-ever scam crackdown has targeted more than 800 defendants since March, with Southeast Asian crypto scam centers among its top targets. This post DOJ Targets 800 Defendants in Largest-Ever Scam Crackdown, Including Crypto Fraud first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
   },
   {
     "title": "HRF Announces Funding of Seven Bitcoin Projects for People Living Under Authoritarian Regimes",
@@ -134,29 +158,5 @@
     "date": "Wed, 25 Nov 2026",
     "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
     "content": "Bitcoin Magazine CleanSpark Weighs Selling More Bitcoin Than It Mines After $987M Loss CleanSpark's CFO said the miner may sell more bitcoin than it mines to reduce risk after a $987.1 million fiscal 2026 loss, as its shares hit a new 52-week low. This post CleanSpark Weighs Selling More Bitcoin Than It Mines After $987M Loss first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
-  },
-  {
-    "title": "Next Technology (NXTT) Sells 500 Bitcoin to Fund AI Push",
-    "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/news/next-technology-nxtt-sells-500-bitcoin",
-    "date": "Wed, 25 Nov 2026",
-    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "Bitcoin Magazine Next Technology (NXTT) Sells 500 Bitcoin to Fund AI Push Next Technology sold about 500 BTC for $29.22 million to fund AI work, cutting its holdings to 5,333 BTC, and said it does not expect to buy more bitcoin. This post Next Technology (NXTT) Sells 500 Bitcoin to Fund AI Push first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
-  },
-  {
-    "title": "Square’s NATIONWIDE Bitcoin Payments Rollout: What People Are Actually Buying",
-    "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/videos/squares-nationwide-bitcoin-payments-rollout-what-people-are-actually-buying",
-    "date": "Wed, 25 Nov 2026",
-    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "&#9654; Bitcoin Magazine Square’s NATIONWIDE Bitcoin Payments Rollout: What People Are Actually Buying Janessa Lopez of Block joins Bitcoin Magazine TV to break down Block's new Bitcoin payments report. This post Square’s NATIONWIDE Bitcoin Payments Rollout: What People Are Actually Buying first appeared on Bitcoin Magazine and is written by Patrick Green ."
-  },
-  {
-    "title": "Bitcoin Price Slumps Below $57,500 as Nasdaq Sinks 4% at Open",
-    "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/markets/bitcoin-price-falls-57500-nasdaq",
-    "date": "Wed, 25 Nov 2026",
-    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "Bitcoin Magazine Bitcoin Price Slumps Below $57,500 as Nasdaq Sinks 4% at Open The bitcoin price fell to near $57,500 Wednesday as the Nasdaq sank 4% at the open on a deepening tech selloff, hot core PCE inflation and new U.S. tariff proposals. This post Bitcoin Price Slumps Below $57,500 as Nasdaq Sinks 4% at Open first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
   }
 ]
