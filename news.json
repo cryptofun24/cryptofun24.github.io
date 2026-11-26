@@ -1,11 +1,35 @@
 [
   {
+    "title": "A tiny payment can expose the IP address behind a bitcoin wallet, developer finds",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/tech/2026/11/26/a-tiny-payment-can-expose-the-ip-address-behind-a-bitcoin-wallet-developer-finds",
+    "date": "Thu, 26 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/422bf0c58d3c5d984b8ee7f8a379b85250db7bc2-6016x4016.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "A Bitcoin Core contributor found that the wallet's habit of resending stuck payments lets anyone link an address to the computer watching it, for under 35 cents."
+  },
+  {
     "title": "Bitcoin’s dormant supply rises, a behavior seen during previous bear-market bottoming phases",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/markets/2026/11/26/bitcoin-s-dormant-supply-rises-a-behavior-seen-during-previous-bear-market-bottoming-phases",
     "date": "Thu, 26 Nov 2026",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/a06055bd9377c15d8939aba2ce6d312e788a923c-3200x1800.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "content": "More bitcoin is sitting untouched onchain as the price holds around $60,000, some 50% below its peak,"
+  },
+  {
+    "title": "Spain moves to grant financial watchdog power to freeze crypto accounts",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/spain-moves-grant-financial-watchdog-power-freeze-crypto-accounts?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "Thu, 26 Nov 2026",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8CCD2RN9Y8M1ZHAA60WA1ZA/frozen-token-with-spanish-flag.png",
+    "content": "A new decree would allow Spain’s financial intelligence unit to suspend crypto accounts, with firms facing fines for noncompliance."
+  },
+  {
+    "title": "Crypto on notice as hawkish Fed risks December ‘meltdown’",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/markets/crypto-hawkish-fed-risks-december-meltdown?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "Thu, 26 Nov 2026",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8CA3FNTMVJ8NYKSJGRZZ4NT/hi-impact-of-fed-interest-rates-on-crypto-holders-2-960x640.webp",
+    "content": "Economist Robin Brooks warned of dire consequences for stocks if the Federal Reserve fails to deliver dovish cues before the FOMC blackout period."
   },
   {
     "title": "BIS chief Pablo Hernández de Cos set to become next ECB president: FT",
@@ -32,20 +56,12 @@
     "content": "Nasdaq’s Roland Chai backed exploring common EU rules for tokenized securities and said its Swedish subsidiary had applied for a DLT license."
   },
   {
-    "title": "Here’s what happened in crypto today",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Bitcoin Holds Above $60K as Death Cross Clouds Thanksgiving Recovery",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/384079/bitcoin-holds-above-60k-as-death-cross-clouds-thanksgiving-recovery",
     "date": "Thu, 26 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-    "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-  },
-  {
-    "title": "7 bizarre things crypto whales spent a fortune on",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/magazine/7-bizarre-things-crypto-whales-spent-a-fortune-on?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "date": "Thu, 26 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8AJF5HX1DMMV7AVXD5FM0BD/transformed-surreal-scene.png",
-    "content": "The crypto rich have spent their fortunes on everything from dinosaur skeletons to rotting fruit, with some purchases defying belief."
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/01/crypto-trading-gen-z-decrypt-style-gID_7.jpg@png",
+    "content": "Bitcoin and major altcoins rose slightly on Thanksgiving, but a bearish death cross suggests crypto remains weaker than stocks."
   },
   {
     "title": "Spain Lets Its Financial Intelligence Unit Freeze Crypto Accounts Without a Court Order",
@@ -80,12 +96,12 @@
     "content": "The startup uses AI to interpret real-world events for onchain apps and agents, recording evidence and reasoning so outcomes can be audited."
   },
   {
-    "title": "Standard Chartered's Zodia Custody Says Hackers Accessed Client Contact Details",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/384033/standard-chartereds-zodia-custody-says-hackers-accessed-client-contact-details",
+    "title": "The Agentic Economy Is WAY Bigger Than You Think | Xen Baynham-Herd",
+    "source": "Bitcoin Magazine",
+    "url": "https://bitcoinmagazine.com/videos/the-agentic-economy-is-way-bigger-than-you-think-xen-baynham-herd",
     "date": "Thu, 26 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/hacker3-gID_7.png@png",
-    "content": "The crypto custodian said an unauthorized party accessed some client and staff names and emails, but found no unauthorized transactions."
+    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
+    "content": "&#9654; Bitcoin Magazine The Agentic Economy Is WAY Bigger Than You Think | Xen Baynham-Herd Tokenized stocks on Base grabbed about a third of weekly spot trading in their market just months after launch, and Xen Baynham-Herd, Director of Marketing and Global Expansion at Base, says that's only the start. This post The Agentic Economy Is WAY Bigger Than You Think | Xen Baynham-Herd first appeared on Bitcoin Magazine and is written by Patrick Green ."
   },
   {
     "title": "Bitcoin Has Become Boring, Finally",
@@ -118,13 +134,5 @@
     "date": "Wed, 25 Nov 2026",
     "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
     "content": "&#9654; Bitcoin Magazine Matt Hougan: $1.6 MILLION Bitcoin Price Target “Conservative” Bitwise just raised its 10-year Bitcoin forecast from $1. This post Matt Hougan: $1.6 MILLION Bitcoin Price Target “Conservative” first appeared on Bitcoin Magazine and is written by Patrick Green ."
-  },
-  {
-    "title": "Strategic Bitcoin Reserve Bill Clears House Committee, Heads to Floor",
-    "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/news/strategic-bitcoin-reserve-bill-house-floor",
-    "date": "Wed, 25 Nov 2026",
-    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "Bitcoin Magazine Strategic Bitcoin Reserve Bill Clears House Committee, Heads to Floor Rep. Nick Begich's bill to write the Strategic Bitcoin Reserve into law, with a 20-year ban on selling its bitcoin, is now eligible for a House floor vote. This post Strategic Bitcoin Reserve Bill Clears House Committee, Heads to Floor first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
   }
 ]
