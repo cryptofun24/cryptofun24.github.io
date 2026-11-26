@@ -1,5 +1,13 @@
 [
   {
+    "title": "Spain gives anti-laundering unit power to freeze crypto accounts without a judge",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/business/2026/11/26/spain-gives-anti-laundering-unit-power-to-freeze-crypto-accounts-without-a-judge",
+    "date": "Thu, 26 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/323210c28533ae279cbc3e36b349743bedce4346-1920x1080.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "Under existing rules, Sepblac could only suspend accounts when requested by a foreign financial intelligence unit."
+  },
+  {
     "title": "Standard Chartered's Zodia Custody suffers data breach, exposing client information",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/tech/2026/11/26/standard-chartered-s-zodia-custody-suffers-data-breach-exposing-client-information",
@@ -32,12 +40,28 @@
     "content": "Bitcoin is holding near $60,800 after rebounding from Wednesday's $57,500 low, while DeFi and infrastructure tokens are gaining nearly twice as much."
   },
   {
-    "title": "Nvidia shipment freeze and U.S. chip curbs put AI stocks under pressure",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/markets/2026/11/26/nvidia-shipment-freeze-and-u-s-chip-curbs-put-ai-stocks-under-pressure",
+    "title": "Nasdaq exec pushes for common EU rules on tokenized securities",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/nasdaq-exec-eu-wide-legal-framework-tokenized-securities?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "date": "Thu, 26 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6c262ffb248f38b82738fd0f2bad6b32172b1d0f-1900x1268.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "U.S. export controls have halted Nvidia server shipments to four Southeast Asian countries and put billions in data centre financing under review."
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8C09F24P5KHBWTW0KT3PDYS/hi-ericx-launches-spot-market2.jpg",
+    "content": "Nasdaq’s Roland Chai backed exploring common EU rules for tokenized securities and said its Swedish subsidiary had applied for a DLT license."
+  },
+  {
+    "title": "Here’s what happened in crypto today",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "Thu, 26 Nov 2026",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
+  },
+  {
+    "title": "7 bizarre things crypto whales spent a fortune on",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/magazine/7-bizarre-things-crypto-whales-spent-a-fortune-on?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "Thu, 26 Nov 2026",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8AJF5HX1DMMV7AVXD5FM0BD/transformed-surreal-scene.png",
+    "content": "The crypto rich have spent their fortunes on everything from dinosaur skeletons to rotting fruit, with some purchases defying belief."
   },
   {
     "title": "Vitalik Buterin calls for verifiable chips as hardware wallet threats evolve",
@@ -48,7 +72,7 @@
     "content": "Buterin warned that future attacks could use lookalike chips with hidden malicious functions, making hardware tampering harder to detect."
   },
   {
-    "title": "Standard Chartered’s Zodia Custody suffers data breach: Report",
+    "title": "Standard Chartered’s Zodia Custody suffers data breach",
     "source": "CoinTelegraph",
     "url": "https://cointelegraph.com/news/standard-chartered-zodia-suffers-data-breach?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "date": "Thu, 26 Nov 2026",
@@ -56,28 +80,28 @@
     "content": "Zodia Custody’s CEO said the breach exposed names and email addresses of some clients and employees and was detected by the company Monday."
   },
   {
-    "title": "Bitcoin price eyes $61K as Talos warns of thin Thanksgiving liquidity",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/markets/bitcoin-price-talos-warns-thin-thanksgiving-liquidity?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Elon Musk Says ‘Multiplanetary’ SpaceX Could Be Worth $118 Quintillion. Yes, Quintillion",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/384043/elon-musk-says-multiplanetary-spacex-could-be-worth-118-quintillion-yes-quintillion",
     "date": "Thu, 26 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8BQ97HCB2ACESRYJR5JD6PP/article-covers-233023-bitcoin-bounces-seven-day-high-can-btc-break-95k-thanksgiving-960x640.webp",
-    "content": "Bitcoin joined US stock futures in a modest relief rally as Talos questioned crypto demand and the broader outlook for the AI trade."
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-elon-musk-5-gID_7.png@png",
+    "content": "The SpaceX founder claims the firm could one day be worth a million times the global economy, as he pledges free shares to American children."
   },
   {
-    "title": "Zcash devs urge users to migrate 2% of ZEC supply to accelerate Sapling pool retirement",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/zcash-users-migrate-zec-supply-sapling-pool-retirement?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Cournot Raises $5M to Build AI-Native Oracle for Verifiable Intelligence",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/384036/cournot-raises-5m-to-build-ai-native-oracle-for-verifiable-intelligence",
     "date": "Thu, 26 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8BMN3WHTV269AC5GQXT90JH/hi-staking-explained-zcash-1.jpg",
-    "content": "Zcash developers urged users to move funds out of an older shielded transaction pool over concerns that AI advances could compromise its cryptography."
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/cournot-raise-5m-e1795702816762-gID_7.png@png",
+    "content": "The startup uses AI to interpret real-world events for onchain apps and agents, recording evidence and reasoning so outcomes can be audited."
   },
   {
-    "title": "Bitcoin ETF November outflows top $5B, Morgan Stanley bucks trend",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/markets/morgan-stanley-bitcoin-etf-trend-outflows-november?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Standard Chartered's Zodia Custody Says Hackers Accessed Client Contact Details",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/384033/standard-chartereds-zodia-custody-says-hackers-accessed-client-contact-details",
     "date": "Thu, 26 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M25BCMVHPH5H5NSCSEW4N3JQ/hi-what-is-a-bitcoin-node-a-beginners-guide-on-blockchain-nodes-etf-1.jpg",
-    "content": "The Morgan Stanley Bitcoin Trust drew $114.1 million in monthly net inflows through Wednesday, while US spot Bitcoin ETF outflows reached $5.39 billion."
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/hacker3-gID_7.png@png",
+    "content": "The crypto custodian said an unauthorized party accessed some client and staff names and emails, but found no unauthorized transactions."
   },
   {
     "title": "Galaxy Research Withdraws Call That Bitcoin's Bear Market Is Over",
@@ -94,30 +118,6 @@
     "date": "Thu, 26 Nov 2026",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/09/uk-fca-financial-conduct-authority-decrypt-style-gID_7.jpg@png",
     "content": "The FCA plans to require DeFi platforms to be authorized and to keep regulated exchanges from routing UK retail trades to them."
-  },
-  {
-    "title": "New York Wins $1.37B Judgment Against NovaTech Founders Who Fled the US",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/384025/new-york-wins-1-37b-judgment-against-novatech-founders-who-fled-the-us",
-    "date": "Thu, 26 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/04/decrypt-style-letitia-james-gID_7.jpg@png",
-    "content": "The couple fled the U.S. before a default ruling in 2025, so victims of the scheme may struggle to recover their money."
-  },
-  {
-    "title": "China's Google Just Released Its Fast New AI Model for Free",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/384015/china-google-released-fast-new-ai-model-free-baidu-ernie",
-    "date": "Wed, 25 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2020/01/shutterstock_7881566261-gID_7.jpg@png",
-    "content": "Baidu has released the weights of its new high-speed reasoning model, giving developers a commercially usable alternative to proprietary AI services from OpenAI, Google, and Anthropic"
-  },
-  {
-    "title": "What Happened to Alice Huang, the Woman at the Center of Nvidia’s Scandal?",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/384001/what-happened-alice-huang-nvidia-spy-scandal",
-    "date": "Wed, 25 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/alice-huang-social-gID_7.jpg@png",
-    "content": "U.S. intelligence found no evidence that Beijing directed Alice Huang to spy on Nvidia’s CEO, but the former Megaspeed executive still faces entry bans and scrutiny of business ties."
   },
   {
     "title": "Bitcoin is Vanishing into “Deep Storage” Faster than Miners Make It",
