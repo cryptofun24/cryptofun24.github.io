@@ -1,5 +1,13 @@
 [
   {
+    "title": "Kalshi turns to small businesses as legal battles threaten forecasts on sports",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/business/2026/11/27/kalshi-turns-to-small-businesses-as-legal-battles-threaten-forecasts-on-sports",
+    "date": "Fri, 27 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f19cbe2eff297e6c2bd76b21568ebd507b6b42b2-6016x3600.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "The prediction market is pitching protection against tariffs, weather and other business risks as courts challenge its ability to offer sports wagers."
+  },
+  {
     "title": "Bitcoin 'death cross' is coming. Here's what happened after previous 13.",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/daybook-us/2026/11/27/bitcoin-death-cross-is-coming-here-s-what-happened-after-previous-13",
@@ -16,12 +24,12 @@
     "content": "Bitcoin (BTC) has risen 1.8% since midnight UTC to around $61,600 and is on course to end seven straight weekly losses."
   },
   {
-    "title": "Live news: Bitcoin rebounds above $61,000 as AI stocks lead premarket gains",
+    "title": "Live updates: Bitcoin rebounds above $61,000 as AI stocks lead gains",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/tech/2026/11/27/live-news-bitcoin-rebounds-above-usd61-000-as-ai-stocks-lead-premarket-gains",
     "date": "Fri, 27 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/080dcc193e03693854f8b769a5488481e6e8257c-808x505.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "Nasdaq 100 futures rose 3% ahead of Friday’s shortened U.S. trading session, with AI cloud stocks up 8% and silver jumping 7%."
+    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
+    "content": "Nasdaq 100 futures rose 3% ahead of Friday’s shortened U.S. trading session, with some AI cloud stocks up double-digit percentages."
   },
   {
     "title": "Next ECB chief favors tokenized bank deposits over stablecoins and bitcoin",
@@ -32,12 +40,28 @@
     "content": "Pablo Hernández de Cos, chosen to succeed Christine Lagarde, favors blockchain-based banking and has warned against private digital currencies and banks holding bitcoin."
   },
   {
-    "title": "Injective asks SEC to allow order books for tokenized stock trading",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/markets/2026/11/27/injective-asks-sec-to-allow-order-books-for-tokenized-stock-trading",
+    "title": "What was Coinbase worth while Nasdaq was closed?",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/what-was-coinbase-worth-while-nasdaq-was-closed?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "date": "Fri, 27 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/7e0aa4d73f62167c3ec9a89974f03437b819bb2f-541x304.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "The regulator's rules favor one type of blockchain trading system, leaving platforms built on Injective out, the developer said. It wants the SEC to open stock trading to order-book systems."
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M1PRJC4TJX7RTS99QE3AJN32/hi-tokenizing-real-estate-in-the-united-states-crypto-market-1.jpg",
+    "content": "A Thanksgiving buyer paid 106.24 USDC per Coinbase share. Whether that looked like a holiday rally depended on when you’d last checked the stock."
+  },
+  {
+    "title": "Binance to launch tokenized IPO program after regulatory approval: Yi He",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/binance-ipo-program-regulatory-approval-yi-he?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "Fri, 27 Nov 2026",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8EJFC8H3G5TK8AK4NXK7WYY/he-yi.jpg",
+    "content": "Binance is hiring for equity capital markets roles, including an analyst to develop tokenized equity products and assess prospective issuers."
+  },
+  {
+    "title": "Here’s what happened in crypto today",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "Fri, 27 Nov 2026",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
   },
   {
     "title": "Brazil’s stock exchange pushes stablecoin launch back to 2027",
@@ -56,28 +80,20 @@
     "content": "About 74% of accounts were based in other EEA countries, highlighting the market’s cross-border nature and putting Europe’s supervisory framework in focus, FMA said."
   },
   {
-    "title": "Bitcoin supply metric hits 11-year low as new ‘capitulation’ signal arrives",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/markets/bitcoin-supply-metric-new-capitulation-signal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "What's on the Ethereum Roadmap: Glamsterdam, Hegotá and Beyond",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/resources/whats-on-ethereum-roadmap-glamsterdam-hegota-beyond",
     "date": "Fri, 27 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8E8WVNGNK0E20925SNTZQAB/bitcoin-price-fall-960x640.webp",
-    "content": "The seven-day moving average of Bitcoin’s supply profit/loss ratio hit an 11-year low as BTC price losses month-to-date remain near 20%."
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2019/06/el_classic-gID_7-pID_6.png@png",
+    "content": "Ethereum has rolled out a steady stream of upgrades since 2022. Here’s how those changes fit together—and what’s still ahead."
   },
   {
-    "title": "Bluefin to shut down perps, refocus on spot trading and tokenized RWAs",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/bluefin-shut-down-perps-refocus-spot-trading-tokenized-rwas?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "title": "Binance Fully Lifts Withdrawal Suspension Four Weeks After $6.4B Hack",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/384121/binance-fully-lifts-withdrawal-suspension-four-weeks-after-6-4b-hack",
     "date": "Fri, 27 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8E5GZ6WRCJGYYMAP7TC857G/hi-defi-experiments-are-causing-a-lot-of-people-to-loose-their-money-do-creators-of-defi-projects-understand-that-3.jpg",
-    "content": "Bluefin will close its perps platform on Dec. 4, exiting a shrinking Sui market where it once handled over $500 million in daily trades."
-  },
-  {
-    "title": "ESMA to overhaul EU’s MiCA crypto register in 2027",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/esma-overhaul-eu-mica-crypto-register-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "date": "Fri, 27 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3M2KBZRZGPMFNM6GR5WJ7YC/hi-what-is-mica-markets-in-crypto-assets-regulation-esma-2.jpg",
-    "content": "ESMA’s new MiCA register will replace manual reporting and introduce automated data checks and a version history for crypto white papers."
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/10/binance-decrypt-style-02-gID_7.jpg@png",
+    "content": "Binance has restored all withdrawals after October's hack, as the U.S. says it has helped freeze, seize or return $2.9 billion of the funds."
   },
   {
     "title": "Kalshi Courts Small Businesses With 'Microinsurance' as State Crackdowns Bite",
@@ -104,20 +120,20 @@
     "content": "Some unofficial ports now hit around 20 frames per second, as developers move their work into private communities to dodge takedowns."
   },
   {
-    "title": "What Is Self-Custody? How to Hold Your Own Crypto Keys",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/resources/what-is-self-custody-how-to-hold-your-own-crypto-keys",
-    "date": "Thu, 26 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2022/11/custodial-vs-non-custodial-2-gID_5-pID_5.png@png",
-    "content": "Self-custody means holding your own crypto instead of trusting an exchange. Here's how it works, the wallets involved and the risks."
+    "title": "Bitcoin Price Trades Near $61,300 as Tech Stock Futures Rally",
+    "source": "Bitcoin Magazine",
+    "url": "https://bitcoinmagazine.com/markets/bitcoin-price-61300-tech-futures",
+    "date": "Fri, 27 Nov 2026",
+    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
+    "content": "Bitcoin Magazine Bitcoin Price Trades Near $61,300 as Tech Stock Futures Rally The bitcoin price traded near $61,300 on Friday as tech stock futures jumped ahead of a shortened Wall Street session, putting bitcoin on track to snap a seven-week losing streak. This post Bitcoin Price Trades Near $61,300 as Tech Stock Futures Rally first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
   },
   {
-    "title": "Before the Sell-Off, AI Stocks Showed Dot-Com-Level Bubble Signals: Study",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/384066/before-the-sell-off-ai-stocks-showed-dot-com-level-bubble-signals-study",
-    "date": "Thu, 26 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-02-gID_7.png@png",
-    "content": "A study of 170 years of financial journalism suggests AI stocks rivaled dot-com bubble levels, but estimates vary."
+    "title": "Galaxy Withdraws Call That Bitcoin’s Bear Market Ended in June",
+    "source": "Bitcoin Magazine",
+    "url": "https://bitcoinmagazine.com/markets/galaxy-withdraws-bitcoin-bear",
+    "date": "Fri, 27 Nov 2026",
+    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
+    "content": "Bitcoin Magazine Galaxy Withdraws Call That Bitcoin&#8217;s Bear Market Ended in June Galaxy Research withdrew its October call that bitcoin's bear market ended in June and said a daily close below $58,525 would signal a move to a materially lower low. This post Galaxy Withdraws Call That Bitcoin&#8217;s Bear Market Ended in June first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
   },
   {
     "title": "The Agentic Economy Is WAY Bigger Than You Think | Xen Baynham-Herd",
@@ -142,21 +158,5 @@
     "date": "Wed, 25 Nov 2026",
     "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
     "content": "&#9654; Bitcoin Magazine Bitcoin is Vanishing into “Deep Storage” Faster than Miners Make It Miners produce about 450 new Bitcoin a day, but over the past year about 630 a day moved into wallets dormant for 10 years. This post Bitcoin is Vanishing into “Deep Storage” Faster than Miners Make It first appeared on Bitcoin Magazine and is written by Patrick Green ."
-  },
-  {
-    "title": "Stanford Professor Reveals “Praxis” Bitcoin Cryptography Breakthrough",
-    "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/videos/stanford-professor-reveals-praxis-bitcoin-cryptography-breakthrough",
-    "date": "Wed, 25 Nov 2026",
-    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "&#9654; Bitcoin Magazine Stanford Professor Reveals “Praxis” Bitcoin Cryptography Breakthrough Bitcoin developers have tried for five to 10 years to add covenants through a soft fork, and every effort has stalled. This post Stanford Professor Reveals “Praxis” Bitcoin Cryptography Breakthrough first appeared on Bitcoin Magazine and is written by Patrick Green ."
-  },
-  {
-    "title": "Matt Hougan: $1.6 MILLION Bitcoin Price Target “Conservative”",
-    "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/videos/matt-hougan-1-6-million-bitcoin-price-target-conservative",
-    "date": "Wed, 25 Nov 2026",
-    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "&#9654; Bitcoin Magazine Matt Hougan: $1.6 MILLION Bitcoin Price Target “Conservative” Bitwise just raised its 10-year Bitcoin forecast from $1. This post Matt Hougan: $1.6 MILLION Bitcoin Price Target “Conservative” first appeared on Bitcoin Magazine and is written by Patrick Green ."
   }
 ]
