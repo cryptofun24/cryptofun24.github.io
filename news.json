@@ -1,5 +1,13 @@
 [
   {
+    "title": "Monero suffers biggest single-day slide in over 5 months. Here’s why",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/11/27/monero-suffers-biggest-single-day-slide-in-over-5-months-here-s-why",
+    "date": "Fri, 27 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/f456c8ffc9ab2b603ddbba9f8613cb0a168723e2-1280x853.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "Monero (XMR) crashed over 11% on Thursday, its biggest drop since early June. Back-to-back exchange delistings seem to have catalyzed the price slide."
+  },
+  {
     "title": "Ripple's lending plan moves closer to tapping XRP Ledger's $800 million in stablecoins",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/markets/2026/11/27/ripple-s-lending-plan-moves-closer-to-tapping-xrp-ledger-s-usd950-million-in-stablecoins",
@@ -32,12 +40,20 @@
     "content": "A Bitcoin Core contributor found that the wallet's habit of resending stuck payments lets anyone link an address to the computer watching it, for under 35 cents."
   },
   {
-    "title": "Bitcoin’s dormant supply rises, a behavior seen during previous bear-market bottoming phases",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/markets/2026/11/26/bitcoin-s-dormant-supply-rises-a-behavior-seen-during-previous-bear-market-bottoming-phases",
-    "date": "Thu, 26 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/a06055bd9377c15d8939aba2ce6d312e788a923c-3200x1800.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "More bitcoin is sitting untouched onchain as the price holds around $60,000, some 50% below its peak,"
+    "title": "ESMA to overhaul EU’s MiCA crypto register in 2027",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/esma-overhaul-eu-mica-crypto-register-2027?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "Fri, 27 Nov 2026",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3M2KBZRZGPMFNM6GR5WJ7YC/hi-what-is-mica-markets-in-crypto-assets-regulation-esma-2.jpg",
+    "content": "ESMA’s new MiCA register will replace manual reporting and introduce automated data checks and a version history for crypto white papers."
+  },
+  {
+    "title": "New York AG secures $1.37B court judgment against NovaTech founders",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/new-york-ag-137b-court-judgment-novatech?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "Fri, 27 Nov 2026",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M25608EVZEXN61YVC0S0C6R6/regulation-judgement-judge-crypto-breaking-news.jpg",
+    "content": "The judgment follows an August 2025 default ruling against the founders over a Ponzi scheme that targeted Haitian and other immigrant communities."
   },
   {
     "title": "Here’s what happened in crypto today",
@@ -62,22 +78,6 @@
     "date": "Fri, 27 Nov 2026",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8DMV6XD4JQ4P64E80XE8AV9/ethereum-1.jpg",
     "content": "Glamsterdam’s Hoodi upgrade was delayed in October after concerns that changes to gas pricing could break some existing smart contracts."
-  },
-  {
-    "title": "AI is driving a flood of crypto bug reports. Now it’s helping sort them",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/ai-driving-flood-of-crypto-bug-reports-now-helping-sort-them?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "date": "Fri, 27 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8DAK96980JS6A0KGTGC3X0A/hi-can-chatgpt-really-predict-the-next-crypto-market-crash.jpg",
-    "content": "Bug bounty platform HackerOne said it’s increasing its triage throughput with AI agents after a record quarter of reports in the third quarter."
-  },
-  {
-    "title": "Privacy coins face diverging fortunes as KuCoin moves to drop Monero",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/privacy-coins-kucoin-drop-monero-grayscale-zcash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "date": "Fri, 27 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8CWT0VSVGTZXTJSC0TTYCYY/red-graphs-removed.png",
-    "content": "As KuCoin joins exchanges dropping Monero ahead of new EU restrictions, Grayscale argues that Zcash’s privacy design sets it apart."
   },
   {
     "title": "Vibecoded GTA 6 PC Ports Are Now Rendering In-Game Graphics Despite Take-Two Crackdown",
