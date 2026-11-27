@@ -1,5 +1,13 @@
 [
   {
+    "title": "Bitcoin tops $61,000 as Nasdaq futures extend Wednesday’s rebound",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/11/27/bitcoin-tops-usd61-000-as-nasdaq-futures-extend-wednesday-s-rebound",
+    "date": "Fri, 27 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/b914ea4ac7f4f170abaa55813c9e1b670ee6d018-1542x969.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "U.S. equity futures extended Wednesday’s rebound after markets closed for Thanksgiving, with AI infrastructure stocks leading premarket gains."
+  },
+  {
     "title": "Monero suffers biggest single-day slide in over 5 months. Here’s why",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/markets/2026/11/27/monero-suffers-biggest-single-day-slide-in-over-5-months-here-s-why",
@@ -30,14 +38,6 @@
     "date": "Fri, 27 Nov 2026",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "content": "Developers have agreed to keep the planned storage charges despite concerns about some existing smart contracts, ending seven weeks of delays to the next major test."
-  },
-  {
-    "title": "A tiny payment can expose the IP address behind a bitcoin wallet, developer finds",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/tech/2026/11/26/a-tiny-payment-can-expose-the-ip-address-behind-a-bitcoin-wallet-developer-finds",
-    "date": "Thu, 26 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/422bf0c58d3c5d984b8ee7f8a379b85250db7bc2-6016x4016.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "A Bitcoin Core contributor found that the wallet's habit of resending stuck payments lets anyone link an address to the computer watching it, for under 35 cents."
   },
   {
     "title": "ESMA to overhaul EU’s MiCA crypto register in 2027",
