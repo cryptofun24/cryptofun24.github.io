@@ -1,5 +1,21 @@
 [
   {
+    "title": "Binance says customer withdrawals are fully restored, four weeks after the $6.3 billion hack",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/markets/2026/11/27/binance-says-its-withdrawal-suspension-is-over-four-weeks-after-a-usd6-3-billion-hack",
+    "date": "Fri, 27 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/6afa7aee3dd3e7c1e37e3929a4ac24b7cebaccdd-6000x4000.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "Binance says it has fully lifted withdrawal suspensions imposed after October’s $6.3 billion hack, though a small number of networks remain paused for unrelated maintenance."
+  },
+  {
+    "title": "Ethereum's much-awaited Glamsterdam upgrade cleared for December test. Here's what to know",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/tech/2026/11/27/ethereum-s-much-awaited-glamsterdam-upgrade-cleared-for-december-test-here-s-what-to-know",
+    "date": "Fri, 27 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/c357579ddef2051b405b9e89f8525dd02709081d-5760x3240.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "Developers have agreed to keep the planned storage charges despite concerns about some existing smart contracts, ending seven weeks of delays to the next major test."
+  },
+  {
     "title": "A tiny payment can expose the IP address behind a bitcoin wallet, developer finds",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/tech/2026/11/26/a-tiny-payment-can-expose-the-ip-address-behind-a-bitcoin-wallet-developer-finds",
@@ -14,6 +30,14 @@
     "date": "Thu, 26 Nov 2026",
     "image": "https://cdn.sanity.io/images/s3y3vcno/production/a06055bd9377c15d8939aba2ce6d312e788a923c-3200x1800.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
     "content": "More bitcoin is sitting untouched onchain as the price holds around $60,000, some 50% below its peak,"
+  },
+  {
+    "title": "Ethereum devs set Glamsterdam’s Hoodi rollout for mid-December after delays",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/ethereum-devs-set-glamsterdams-hoodi-rollout-for-mid-december-after-delays?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "Fri, 27 Nov 2026",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8DMV6XD4JQ4P64E80XE8AV9/ethereum-1.jpg",
+    "content": "Glamsterdam’s Hoodi upgrade was delayed in October after concerns that changes to gas pricing could break some existing smart contracts."
   },
   {
     "title": "AI is driving a flood of crypto bug reports. Now it’s helping sort them",
@@ -46,14 +70,6 @@
     "date": "Thu, 26 Nov 2026",
     "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
     "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-  },
-  {
-    "title": "BNB Chain details new layer-1 for trading, private finance and AI",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/bnb-chain-details-new-layer-1-trading-private-finance-ai?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "date": "Thu, 26 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/2026/11/01M8CNTJ5QY7JX07X77DZB8QA2/hi-malaysian-gvnt-backed-coin-1st-coin-to-fund-political-campaigns3.png",
-    "content": "The proposed network will operate alongside BNB Smart Chain and retain BNB as its native token, with a public testnet targeted for the first quarter of 2027."
   },
   {
     "title": "Vibecoded GTA 6 PC Ports Are Now Rendering In-Game Graphics Despite Take-Two Crackdown",
