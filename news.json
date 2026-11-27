@@ -24,12 +24,12 @@
     "content": "Bitcoin (BTC) has risen 1.8% since midnight UTC to around $61,600 and is on course to end seven straight weekly losses."
   },
   {
-    "title": "Live updates: Bitcoin rebounds above $61,000 as AI stocks lead gains",
+    "title": "Live updates: Bitcoin drops below $60,000 as Nasdaq 100 gives up most of its early gains",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/tech/2026/11/27/live-news-bitcoin-rebounds-above-usd61-000-as-ai-stocks-lead-premarket-gains",
     "date": "Fri, 27 Nov 2026",
     "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "Nasdaq 100 futures rose 3% ahead of Friday’s shortened U.S. trading session, with some AI cloud stocks up double-digit percentages."
+    "content": "The Nasdaq 100 rose just 0.8% after futures gained about 3% before the open, while Nvidia fell more than 2% and bitcoin briefly slipped below $60,000."
   },
   {
     "title": "Next ECB chief favors tokenized bank deposits over stablecoins and bitcoin",
@@ -120,6 +120,22 @@
     "content": "Some unofficial ports now hit around 20 frames per second, as developers move their work into private communities to dodge takedowns."
   },
   {
+    "title": "Spain Lets Anti-Money Laundering Unit Freeze Crypto Accounts Without a Judge",
+    "source": "Bitcoin Magazine",
+    "url": "https://bitcoinmagazine.com/news/spain-sepblac-freeze-crypto-accounts",
+    "date": "Fri, 27 Nov 2026",
+    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
+    "content": "Bitcoin Magazine Spain Lets Anti-Money Laundering Unit Freeze Crypto Accounts Without a Judge A royal decree lets Sepblac, Spain's financial intelligence unit, freeze crypto, bank and payment accounts for up to five business days without a court order. This post Spain Lets Anti-Money Laundering Unit Freeze Crypto Accounts Without a Judge first appeared on Bitcoin Magazine and is written by Micah Zimmerman ."
+  },
+  {
+    "title": "Peter St. Onge: “Massively Bullish” for Bitcoin if Fed Abandons 2% Inflation Target",
+    "source": "Bitcoin Magazine",
+    "url": "https://bitcoinmagazine.com/videos/peter-st-onge-massively-bullish-for-bitcoin-if-fed-abandons-2-inflation-target",
+    "date": "Fri, 27 Nov 2026",
+    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
+    "content": "&#9654; Bitcoin Magazine Peter St. Onge: “Massively Bullish” for Bitcoin if Fed Abandons 2% Inflation Target Inflation is back near 4%, the Fed is hiking, and Peter St. This post Peter St. Onge: “Massively Bullish” for Bitcoin if Fed Abandons 2% Inflation Target first appeared on Bitcoin Magazine and is written by Patrick Green ."
+  },
+  {
     "title": "Bitcoin Price Trades Near $61,300 as Tech Stock Futures Rally",
     "source": "Bitcoin Magazine",
     "url": "https://bitcoinmagazine.com/markets/bitcoin-price-61300-tech-futures",
@@ -142,21 +158,5 @@
     "date": "Thu, 26 Nov 2026",
     "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
     "content": "&#9654; Bitcoin Magazine The Agentic Economy Is WAY Bigger Than You Think | Xen Baynham-Herd Tokenized stocks on Base grabbed about a third of weekly spot trading in their market just months after launch, and Xen Baynham-Herd, Director of Marketing and Global Expansion at Base, says that's only the start. This post The Agentic Economy Is WAY Bigger Than You Think | Xen Baynham-Herd first appeared on Bitcoin Magazine and is written by Patrick Green ."
-  },
-  {
-    "title": "Bitcoin Has Become Boring, Finally",
-    "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/culture/bitcoin-has-become-boring-finally",
-    "date": "Thu, 26 Nov 2026",
-    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "Bitcoin Magazine Bitcoin Has Become Boring, Finally Bitcoin isn't a shiny new technology any more, it is established, and it is here to stay. This post Bitcoin Has Become Boring, Finally first appeared on Bitcoin Magazine and is written by Roy Sheinfeld ."
-  },
-  {
-    "title": "Bitcoin is Vanishing into “Deep Storage” Faster than Miners Make It",
-    "source": "Bitcoin Magazine",
-    "url": "https://bitcoinmagazine.com/videos/bitcoin-is-vanishing-into-deep-storage-faster-than-miners-make-it",
-    "date": "Wed, 25 Nov 2026",
-    "image": "https://images.unsplash.com/photo-1621416894569-0f39ed31d247?w=600&auto=format&fit=crop&q=80",
-    "content": "&#9654; Bitcoin Magazine Bitcoin is Vanishing into “Deep Storage” Faster than Miners Make It Miners produce about 450 new Bitcoin a day, but over the past year about 630 a day moved into wallets dormant for 10 years. This post Bitcoin is Vanishing into “Deep Storage” Faster than Miners Make It first appeared on Bitcoin Magazine and is written by Patrick Green ."
   }
 ]
