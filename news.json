@@ -1,5 +1,13 @@
 [
   {
+    "title": "Bybit’s $1.4 billion hack postmortem is ready. You won’t get to see it.",
+    "source": "CoinDesk",
+    "url": "https://www.coindesk.com/business/2026/11/28/bybit-s-usd1-4-billion-hack-postmortem-is-ready-you-won-t-get-to-see-it",
+    "date": "Sat, 28 Nov 2026",
+    "image": "https://cdn.sanity.io/images/s3y3vcno/production/abc7d1dd01270fb8f15f16714372cfa1dcf787a9-2400x1600.jpg?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
+    "content": "Bybit’s public account still rests on preliminary 2025 forensic reports. Chief Technology Officer Rockman Zhang said more detail could help attackers like those who hit Binance."
+  },
+  {
     "title": "Bitcoin not delivering: The bear market has digital asset veteran questioning BTC's value",
     "source": "CoinDesk",
     "url": "https://www.coindesk.com/markets/2026/11/28/bitcoin-not-delivering-the-bear-market-has-digital-asset-veteran-questioning-btc-s-value",
@@ -32,12 +40,12 @@
     "content": "Your day-ahead look for Nov. 27, 2026"
   },
   {
-    "title": "Bitcoin on course to end seven-week losing streak while trailing stock rebound ",
-    "source": "CoinDesk",
-    "url": "https://www.coindesk.com/markets/2026/11/27/bitcoin-on-course-to-end-seven-week-losing-streak-while-trailing-stock-rebound",
-    "date": "Fri, 27 Nov 2026",
-    "image": "https://cdn.sanity.io/images/s3y3vcno/production/8fdf990d20028914aff13266e168a04637bfd7f4-1920x1080.png?fm=jpg&w=800&h=450&crop=focalpoint&fit=clip",
-    "content": "Bitcoin (BTC) has risen 1.8% since midnight UTC to around $61,600 and is on course to end seven straight weekly losses."
+    "title": "Here’s what happened in crypto today",
+    "source": "CoinTelegraph",
+    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+    "date": "Sat, 28 Nov 2026",
+    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
+    "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
   },
   {
     "title": "Justin Sun calls for Trump family-linked WLFI token to be delisted",
@@ -64,20 +72,20 @@
     "content": "The agreement is a milestone in Binance’s effort to expand its presence in Bhutan since launching a national crypto-powered tourism payment system in 2025."
   },
   {
-    "title": "Here’s what happened in crypto today",
-    "source": "CoinTelegraph",
-    "url": "https://cointelegraph.com/news/what-happened-in-crypto-today?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
-    "date": "Fri, 27 Nov 2026",
-    "image": "https://s3-images.ctmedia.io/media/article-covers/article-covers-110589-what-happened-in-crypto-today.jpg",
-    "content": "Need to know what happened in crypto today? Here is the latest news on daily trends and events impacting Bitcoin price, blockchain, DeFi, Web3 and crypto regulation."
-  },
-  {
     "title": "Franklin Templeton makes room for HYPE in crypto index ETF",
     "source": "CoinTelegraph",
     "url": "https://cointelegraph.com/news/franklin-templeton-hype-crypto-index-etf?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
     "date": "Fri, 27 Nov 2026",
     "image": "https://s3-images.ctmedia.io/media/article-covers/2026/09/01M3AEQ9Y8JV78QH3H8M1G3403/analitycs2021-hype-1.jpg",
     "content": "The addition comes as US spot investment products tracking Hyperliquid’s native token reach $266.5 million in assets under management."
+  },
+  {
+    "title": "Russia Is Turning Pigeons Into Cyborg Drones—and You Can Now Hire Them",
+    "source": "Decrypt",
+    "url": "https://decrypt.co/384126/russia-pigeons-icyborg-drones-you-can-now-hire-them",
+    "date": "Sat, 28 Nov 2026",
+    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2026/11/neiry-pigeon-decrypt-style-gID_7.jpg@png",
+    "content": "A Russian neurotechnology company is taking commercial orders for brain-implanted pigeons that it says can follow remote commands and fly for more than 10 hours."
   },
   {
     "title": "OpenAI Turns the Tables on Apple With Its Own Trade-Secret Theft Claims",
@@ -110,14 +118,6 @@
     "date": "Fri, 27 Nov 2026",
     "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/05/crypto-trading-decrypt-style-01-gID_7.png@png",
     "content": "Bitcoin’s largest options expiry this month comes as traders increasingly seek protection against further losses, with some hedging against a potential drop to $40,000 before the end of the year."
-  },
-  {
-    "title": "Hackers Hit US Air Force Cloud System Running Air-Defense and Munitions Data",
-    "source": "Decrypt",
-    "url": "https://decrypt.co/384174/us-air-force-hack-cloud-system-air-defense-munitions-data",
-    "date": "Fri, 27 Nov 2026",
-    "image": "https://img.decrypt.co/insecure/rs:fill:1024:512:1:0/plain/https://cdn.decrypt.co/wp-content/uploads/2025/07/malware-code-decrypt-style-gID_7.jpg@png",
-    "content": "The intrusion at Cloud One, discovered during a system upgrade, has prompted a Cyber Command damage assessment and disrupted the platform that runs air-defense radar feeds, munitions tracking and personnel data."
   },
   {
     "title": "Binance Fully Lifts Withdrawal Suspension a Month After $6.3 Billion Hack",
